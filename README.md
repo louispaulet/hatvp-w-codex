@@ -16,12 +16,26 @@ OpenAI Codex is a model capable of understanding and generating code in many pro
 
 ## Repository structure
 
- - **split_declarations/** – sample dataset of individual declaration files created from the official bulk XML release. Each file contains metadata such as the deposit date, UUID and attached PDF references.
- - **script_to_split_declarations.py** – utility used to split the original massive `declarations.xml` file into separate XML documents, one per declaration.
- - **stock_extract/** – raw stock holdings extracted from declarations.
- - **stock_analysis/** – cleaning scripts and CSV outputs for stock statistics and index filtering.
+```text
+.
+├── LICENSE
+├── README.md
+├── extract_personal_info.py
+├── liste.csv
+├── pii/
+│   └── personal_info.csv
+├── script_to_split_declarations.py
+├── split_declarations/        # individual declaration XML files (omitted)
+├── stock_analysis/
+│   ├── filter_by_index.py
+│   ├── normalize_stocks.py
+│   └── output/
+└── stock_extract/
+    ├── extract_stocks.py
+    └── stocks.csv
+```
 
-This README is intentionally brief and will be expanded as the project evolves.
+The listing above omits the many XML files under `split_declarations/`, which contains the sample declaration dataset.
 
 ## Stock holdings
 
