@@ -93,7 +93,10 @@ def extract_personal_info(xml_path: Path) -> dict:
 
 def main() -> None:
     decl_dir = Path("split_declarations")
-    output_file = Path("personal_info.csv")
+
+    output_dir = Path("pii")
+    output_dir.mkdir(exist_ok=True)
+    output_file = output_dir / "personal_info.csv"
     fieldnames = [
         "file",
         "dateDepot",
