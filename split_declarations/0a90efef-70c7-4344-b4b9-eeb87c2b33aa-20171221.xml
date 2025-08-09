@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>18/09/2020 11:08:45</dateDepot>
+		<uuid>0a90efef-70c7-4344-b4b9-eeb87c2b33aa</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>je n'ai pas encore le montant annuel total sur 2020.ce montant correspond à la période janvier à aôut 2020</commentaire>
+					<description>Coordinatrice des activités du lien social</description>
+					<employeur>Association Trait d'Union</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>25374</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25594</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>27678</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>29155</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>29098</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>19872</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>adjoint</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>597</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>les jetons de présence ne sont pas encore versés sur 2020</commentaire>
+					<nomSociete>Soclova</nomSociete>
+					<activite>Organisme Hlm(bailleur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1275</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat />
+				<codCategorieMandat />
+				<nomCategorieMandat />
+				<codTypeMandatFichier />
+				<labelTypeMandat />
+				<labelOrgane />
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane />
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF />
+			<dateDebutMandat>15/03/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>TAHIRI</nom>
+				<prenom>alima</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>19/12/1959</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

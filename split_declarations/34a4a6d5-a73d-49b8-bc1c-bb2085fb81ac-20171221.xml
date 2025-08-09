@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>15/11/2021 11:58:14</dateDepot>
+		<uuid>34a4a6d5-a73d-49b8-bc1c-bb2085fb81ac</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>En tant que gérant non salarié, je ne sais pas encore pour 2020 ma rémunération totale, dépendant du Chiffre d'affaire de mon entreprise et au vu du COVID rien n'est certain</commentaire>
+					<description>GERANT NON SALARIE</description>
+					<employeur>AGENCE MERCIER</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>69000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>71616</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>58870</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>92365</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>112980</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>74608</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>28000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>1001VIESHABITAT</employeurConjoint>
+					<activiteProf>BAILLEUR SOCIAL</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>CONSEILLER DEPARTEMENTAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>33360</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>33360</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33360</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>33360</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>33360</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>33680</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller Municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>18936</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18936</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18936</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18936</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18936</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18936</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18936</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>CONSEILLER METROPOLITAIN</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13017</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>13017</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13017</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13017</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13017</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13017</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13017</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pour 2021 il faut attendre le bilan</commentaire>
+					<nomSociete>AGENCE MERCIER</nomSociete>
+					<activite>GERANT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>52 294</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CNAM PACA</nomSociete>
+					<activite>MEMBRE DU CONSEIL D ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>regie Acropolis et Nikaia</nomSociete>
+					<activite>menbre conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CENTRE VILLE EN MOUVEMENT</nomSociete>
+					<activite>REPRESENTANT LA VILLE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>COLLEGE FABRE</nomSociete>
+					<activite>MEMBRE CONSEIL D ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>COLLEGE JULES VALERI</nomSociete>
+					<activite>MEMBRE CONSEIL D ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>REGIE PARC D AZUR</nomSociete>
+					<activite>VICE PRESIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>50% DE LA NUE_PROPRIETE</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>150000</evaluation>
+					<remuneration>25000</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AGENCE MERCIER</nomSociete>
+					<evaluation>240000</evaluation>
+					<remuneration>52494</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>06088</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Nice (06)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>06</organeParent>
+			</organe>
+			<qualiteDeclarant>ADJOINT AU MAIRE</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Nice (06)/ADJOINT AU MAIRE</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>MARTIN</nom>
+				<prenom>FRANCK</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>13/05/1967</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>12/09/2020 18:49:30</dateDepot>
+		<uuid>efac167b-bba3-48a4-ac71-bbfec8aa1849</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<description>Enseignant</description>
+					<employeur>Institut International de Lancy - Genève - Suisse</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>44517</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>41964</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>45553</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>39281</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>29803</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>40696</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>36360</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Education Nationale
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Enseignante</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Maire de la commune de Fillière</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13910</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16324</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9812</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6240</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Président du Grand Annecy</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16940</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17326</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13309</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6878</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Grand Annecy</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Vice-Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Grand Annecy/Vice-Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>13/01/2017</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ANSELME</nom>
+				<prenom>CHRISTIAN</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>31/03/1962</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

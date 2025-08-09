@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>03/11/2024 17:32:40</dateDepot>
+		<uuid>1a795c0d-3b3e-49c9-a854-eb446fac623a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<description>Directeur général</description>
+					<employeur>La République en Marche</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>86 666</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>114 875</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>64 890</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Directeur de campagne</description>
+					<employeur>ABG</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15 111</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Directeur général adjoint</description>
+					<employeur>La République en Marche</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>76 238</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5 036</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2019</dateDebut>
+					<dateFin>01/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Maria Farinha Films</employeurConjoint>
+					<activiteProf>Production cinématographique</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Député</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>36 543</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>70 191</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>35 506</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ABG</nomSociete>
+					<activite>Secrétaire général</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2020</dateDebut>
+					<dateFin>07/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>APM</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2022</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>Paris Digitale</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomSociete>CNNum</nomSociete>
+					<activite>Conseil national du Numérique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Girardin industriel</commentaire>
+					<nomSociete>SAS COPERA N</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>6</capitalDetenu>
+					<nombreParts>27562</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Girardin industriel</commentaire>
+					<nomSociete>SARL DREAM TAHITI 2018</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>3</capitalDetenu>
+					<nombreParts>33</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Girardin industriel</commentaire>
+					<nomSociete>SARL ARCHIPEL 2018</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>2</capitalDetenu>
+					<nombreParts>20</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Girardin industriel</commentaire>
+					<nomSociete>SARL DREAM TAHITI 2019</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>16</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Girardin industriel</commentaire>
+					<nomSociete>SNC ISLA 250</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>6</capitalDetenu>
+					<nombreParts>700</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Girardin industriel</commentaire>
+					<nomSociete>SNC ISLA 251</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>5</capitalDetenu>
+					<nombreParts>592</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Girardin industriel</commentaire>
+					<nomSociete>SNC ISLA 252</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>7</capitalDetenu>
+					<nombreParts>808</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Girardin industriel</commentaire>
+					<nomSociete>SARL STAR</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>18</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Girardin industriel</commentaire>
+					<nomSociete>SAS SINTIPA 7</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>11000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Valeur de la participation prise au 01/08/2024 à 127758 08 USD converti en euros au taux du jour
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>Jumia</nomSociete>
+					<evaluation>118366</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>10576</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Huang Richard</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite>Néant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Lafont François</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite>Néant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Cornier Anne</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite>Néant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>De Wulf Andréa</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite>Néant</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Député</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>Député</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>91</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Essonne(91)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Député/Essonne(91)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Midy</nom>
+				<prenom>Paul</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>25/01/1983</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

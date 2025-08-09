@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>07/09/2020 08:55:49</dateDepot>
+		<uuid>e6c46cde-3cf3-46bc-9952-6abbf4d950b2</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<description>Directeur commercial</description>
+					<employeur>GitHub</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>151909</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>167461</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>328511</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1574920</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>543657</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>448902</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Adjoint du maire de Nantes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13645</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18425</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18693</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17507</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17197</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19064</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4672</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Ce sont des parts dans le capital de la société microsoft, maison mère de la société GitHub qui est mon employeur. Ce sont des parts perçues en fonction des mes résultats professionnels. Il est probable que ce nombre e parts augmente dans le temps. La valeur indiquée ci-dessous est fonction de la valorisation sur les marchés financiers de la part Microsoft, donc susceptible de fluctuer.</commentaire>
+					<nomSociete>Microsoft</nomSociete>
+					<evaluation>430000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>2197</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat />
+				<codCategorieMandat />
+				<nomCategorieMandat />
+				<codTypeMandatFichier />
+				<labelTypeMandat />
+				<labelOrgane />
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane />
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF />
+			<dateDebutMandat>03/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ASSEH</nom>
+				<prenom>Bassem</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>19/11/1974</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

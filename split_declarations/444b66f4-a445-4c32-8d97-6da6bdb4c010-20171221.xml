@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>05/08/2020 00:00:27</dateDepot>
+		<uuid>444b66f4-a445-4c32-8d97-6da6bdb4c010</uuid>
+		<origine>ADEL Access</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Président CC</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15245</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15217</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>10855</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18585</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17664</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>9248</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>9117</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12693</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12981</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11999</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Président SIVOS</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8008</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7916</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8022</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7936</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7906</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>CC Porte Ile de France</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>President</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/CC Porte Ile de France/President</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PEZZALI</nom>
+				<prenom>Alain</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>14/07/1944</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

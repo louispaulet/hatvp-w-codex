@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>02/09/2024 00:16:42</dateDepot>
+		<uuid>85092927-0f14-4887-adef-ba79fe4a6622</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>députée européenne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>48123</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>97401</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>100182</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>102572</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>104214</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>52546</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2014</dateDebut>
+					<dateFin>07/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Rassemblement pour le Peuple de France</nomSociete>
+					<activite>présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Les Républicains</nomSociete>
+					<activite>VICE-Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2023</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Les Républicains 54</nomSociete>
+					<activite>Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2023</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député européen</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>EUR</codCategorieMandat>
+				<nomCategorieMandat>Député européen</nomCategorieMandat>
+				<codTypeMandatFichier>europe</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane />
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane />
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Député européen</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>MORANO</nom>
+				<prenom>NADINE</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>06/11/1963</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

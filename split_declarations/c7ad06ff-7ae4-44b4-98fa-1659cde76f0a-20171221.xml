@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>17/01/2021 23:02:27</dateDepot>
+		<uuid>c7ad06ff-7ae4-44b4-98fa-1659cde76f0a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Infirmière et commerciale pour un prestataire de santé</description>
+					<employeur>DMEDICA</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>51 394</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>48 631</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>47 792</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>45 976</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>45 573</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>36 868</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Trésorière.</commentaire>
+					<nomSociete>Association IREPSCÈNES</nomSociete>
+					<activite>Art du spectacle vivant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Administratrice.</commentaire>
+					<nomSociete>Association CAMÉLÉON 1ER</nomSociete>
+					<activite>Art du spectacle vivant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2018</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Métropole de Lyon</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Membre d’EPCI/Métropole de Lyon</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>HÉMAIN</nom>
+				<prenom>Séverine</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>31/03/1977</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

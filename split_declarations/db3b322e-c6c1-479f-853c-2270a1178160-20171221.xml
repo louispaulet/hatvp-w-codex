@@ -1,0 +1,1372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>20/02/2022 12:13:02</dateDepot>
+		<uuid>db3b322e-c6c1-479f-853c-2270a1178160</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>2021 année en cours</commentaire>
+					<nomEmployeur>PHYLUM</nomEmployeur>
+					<description>véterinaire conseil directeur associé</description>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>28 385</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>31 812</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>36 792</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>33 944</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>35 728</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>39 477</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>23 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Eléments déclarés dans rubrique 2 : consulting</commentaire>
+					<description>néant</description>
+					<employeur>néant</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Conseil Départemental 31</employeurConjoint>
+					<activiteProf>Ingénieur territorial, chargé de mission 
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>2021 en cours, prise en compte uniqument des indemnités du mandat précédent</commentaire>
+					<descriptionMandat>Conseiller départemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>32 474</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>30 516</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>30 570</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>30 449</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>30 580</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>30 563</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>15 281</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller départemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 495</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les rémunérations sont déja comptabilisées dans le paragraphe 2</commentaire>
+					<nomSociete>phylum</nomSociete>
+					<activite>gérant associé</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Nommé administrateur par le département le 01/07/2021. Elu Président lors du 1er conseil d'administration.</commentaire>
+					<nomSociete>OPH 31</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Désigné au CA du GIE par l'OPH31. Désigné président du GIE par le CA de celui-ci.</commentaire>
+					<nomSociete>GIE Garonne développement</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Désigné au CA de la SAC Garonova par l'OPH31 le 25/09/2020. Désigné comme Président du CA de la SAC Garonova par celui-ci.</commentaire>
+					<nomSociete>SAC GARONOVA</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Associé fondateur avec 1 action de 10 € sur un total de 35573 actions au 31/12/2021</commentaire>
+					<nomSociete>OCCITALYS</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Désigné par le Cobseil Départemental au Conseil Syndical. Réélu Président du SMEAG suite au dernier mandat.</commentaire>
+					<nomSociete>SMEAG</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Désigné par l'USH-Occitanie-Midi-Pyrénées pour siéger à Habitat Social en Occitanie. Président de l'USH dans la période précédente, je suis devenu Vice-Président en 2021.</commentaire>
+					<nomSociete>Habitat Social Occitanie</nomSociete>
+					<activite>Vice-Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Redésigné au sein de l'EPF par le Conseil Départemental (en juillet 2021), j'ai été élu Vice-Président par celui-ci, lors de première réunion du conseil d'administration.</commentaire>
+					<nomSociete>Etablissement Public Foncier Occitanie</nomSociete>
+					<activite>Vice-Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Actionnaire (1 action de 15,24 euros sur un total de 52618 actions). Désigné administrateur au CA par l'Assemblée Générale.</commentaire>
+					<nomSociete>SCIC de la Haute Garonne</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Initialement désigné par le CD 31 dans cette structure, suite aux décisions prises par le CD31 je dois être remplacé par 
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>Notre Maison SASIC HLM</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Redésigné par le Conseil Départemental le 01/07/2021 comme représentant du Conseil Départemental au CA.</commentaire>
+					<nomSociete>SA HLM des chalets</nomSociete>
+					<activite>membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Siège en tant que représentant de la SA des Chalet. Désignation autre personne en cours.</commentaire>
+					<nomSociete>SA HLM Gasconne - Gers</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>La SACICAP a fait l'objet de plusieurs regroupements et changement d'actionnaires au cours du temps. A partir de juillet 2021 il y a eu un changement de représentant du Département au sein de cette SACICAP. 
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SACICAP TOULOUSE PYRENEE</nomSociete>
+					<activite>Logement social</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>GIE Logimip</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Syndicat mixte ouvert pour remise en navigabilité du Tarn</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Administrateur au titre du département renouvelé en 2021.</commentaire>
+					<nomSociete>Ecole Nationale Vétérinairede Toulouse</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Administrateur au titre du départemental.</commentaire>
+					<nomSociete>Institution Interdépartementale pour la Création et l'Exploitation d'ouvrage et de production d'eau brute</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Administrateur au titre du département;</commentaire>
+					<nomSociete>INstitution Interdépartementale piour l'Aménagement du Barrage de Montbel</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Administrateur au titre du département.</commentaire>
+					<nomSociete>SEM Pyrénées Service Public</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre au titre du département.</commentaire>
+					<nomSociete>Syndicat MIxte de l'eau et de l'assainissement Réseau 31</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre au titre du département renouvelé en 2021.</commentaire>
+					<nomSociete>Syndicat Mixte Ouvert Haute Garonne Environnement</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre au titre du département.</commentaire>
+					<nomSociete>Association Amorce</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Administrateur au titre du département;</commentaire>
+					<nomSociete>Compagnie d'Aménagement des Coteaux de Gascogne</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Administrateur au titre du département renouvelé en 2021.</commentaire>
+					<nomSociete>SOLIHA Haute Garonne</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre désigné par le Président du Conseil départemental.</commentaire>
+					<nomSociete>Centre hospitalier Gérard Marchant</nomSociete>
+					<activite>Membre du conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Administrateur au titre du département.</commentaire>
+					<nomSociete>Institution des eaux de la Montagne NOire</nomSociete>
+					<activite>Adminsitrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre désigné par le Préfet du comité de bassin en tant que président du SMEAG.</commentaire>
+					<nomSociete>Comité de Bassin Adour Garonne</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre désigné en tant que président du SMEAG.</commentaire>
+					<nomSociete>SAGE Garonne</nomSociete>
+					<activite>membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Désignation en tant que représentant de Habitat Social en Occitanie</commentaire>
+					<nomSociete>Fédération Nationale des Associations Régionales du logement social</nomSociete>
+					<activite>membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Désigné par la Fédération nationale des Associations Régionales du Logement Social.</commentaire>
+					<nomSociete>Comité Exécutif de l'Union Sociale de l'Habitat</nomSociete>
+					<activite>membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Représentant de l'OPH 31. Renouveléé comme président en 2021.</commentaire>
+					<nomSociete>Union Sociale Midi-Pyrénées</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre redésigné par le conseil départemental en juillet 2021. Confirmé en tant que Président suite à la première réunion post élection.</commentaire>
+					<nomSociete>Association pour la gestion quantitative de la ressource en eau des bassins Garonne, Ariège, Neste-Rivière de Gascogne et estuaire</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Syndicat Mixte ouvert de l'abbaye de Bonnefont</nomSociete>
+					<activite>suppléant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Désigné par le Président du Conseil Départemental depuis le 8 juillet 2021.</commentaire>
+					<nomSociete>ATLAS Association Territoire Logement et Analyse Sociale</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>A noter que cette évaluation actuelle des parts est basée sur l'actif net comptable disponible pour l'année 2019 et sera révisée à la baisse en fonction des résultats de 2020.</commentaire>
+					<nomSociete>PHYLUM</nomSociete>
+					<evaluation>242379</evaluation>
+					<remuneration>Pour la rémunération voir chapitre 2 "Activité de consultant"</remuneration>
+					<capitalDetenu>25</capitalDetenu>
+					<nombreParts>1250</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>La SCI est locataire d'un immeuble à usage professionnel avec option d'achat en 2024</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>2000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>28</capitalDetenu>
+					<nombreParts>200</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Occitalys est un OFS : Office Foncier solidaire</commentaire>
+					<nomSociete>OCCITALYS (OFS)</nomSociete>
+					<evaluation>10</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>SCIC Haute Garonne : Société Coopérative d’intérêt Collectif d'habitation a loyer modéré de la Haute Garonne</commentaire>
+					<nomSociete>SCIC Haute Garonne</nomSociete>
+					<evaluation>15</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>31</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Haute-Garonne (31)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>76</organeParent>
+			</organe>
+			<qualiteDeclarant>vice-président titulaire d'une délégation : Transition écologique - Logement - mode doux</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Haute-Garonne (31)/vice-président titulaire d'une délégation : Transition écologique - Logement - mode doux</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Fabre</nom>
+				<prenom>Jean-Michel</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>25/07/1960</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

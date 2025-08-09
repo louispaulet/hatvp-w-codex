@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>26/04/2020 22:49:23</dateDepot>
+		<uuid>4031019c-ba2f-4abb-901d-a4f74d60f7de</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomEmployeur>ASCEND</nomEmployeur>
+					<description>gerante</description>
+					<dateDebut>12/2018</dateDebut>
+					<dateFin>12/2019</dateFin>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>112500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>j'ai également un bonus de 40% sous condition de résultats financiers et extra financiers</commentaire>
+					<description>Présidente</description>
+					<employeur>Vigeo Eiris</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>220000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>04/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>montant brut (200K) non compris un bonus versé en avril 2020 au titre de l'exercice 2019: 24K€</commentaire>
+					<description>directrice générale</description>
+					<employeur>Vigeo Eiris</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>200000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>en 2019 au titre de BPI group la rémunération correspond à un mois de salaire ainsi qu'à un versement au titre du protocole transactionnel avec BPI group et Perceva, son actionnaire majoritaire</commentaire>
+					<description>Présidente</description>
+					<employeur>BPI group</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>111981</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>213950</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>258202</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>256847</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>144133</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>01/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>directrice générale</description>
+					<employeur>BPI group</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>277771</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>156774</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2015</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>SELARL Hobson</employeurConjoint>
+					<activiteProf>Avocat Associé</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items />
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>bonus prévu de 24K bruts pour être versé au 30/04/2020 au titre performance 2019</commentaire>
+					<nomSociete>Vigeo Eiris</nomSociete>
+					<activite>Agence de notation extra financiere</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>200000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>55000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2019</dateDebut>
+					<dateFin>04/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Vivarte</nomSociete>
+					<activite>Administrateur indépendant représentant l'un des actionnaires, le fonds Anchorage Capital</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>112500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2018</dateDebut>
+					<dateFin>10/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BPI group</nomSociete>
+					<activite>cabinet en conseil RH</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>277771</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>268756</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>213950</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>258202</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>256847</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>144133</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>01/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Supersonic Imagine</nomSociete>
+					<activite>Administrateur indépendant fabrication d'équipement d'irradiation médicale</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>74</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18750</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18750</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18750</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>01/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Mandat non rémunéré</commentaire>
+					<nomSociete>HMBG</nomSociete>
+					<activite>Holding financière</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>01/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>mandant non rémunéré</commentaire>
+					<nomSociete>Leroy Consultants</nomSociete>
+					<activite>Conseil RH, Coaching</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>01/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Mandat lié à fonction d'administrateur indépendant de la société Vivarte. CF Vivarte pour les revenus</commentaire>
+					<nomSociete>Novartex</nomSociete>
+					<activite>Holding Financière</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2018</dateDebut>
+					<dateFin>10/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>participation non encore vestée</commentaire>
+					<nomSociete>Moody's</nomSociete>
+					<evaluation>90000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>4871</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>ceci est le reliquat de stock options partie prenante de mon bonus lorsque j'étais salariée du groupe Johnson &amp; Johnson de 1998 à janv 2014</commentaire>
+					<nomSociete>Johnson &amp; Johsnon</nomSociete>
+					<evaluation>75000</evaluation>
+					<remuneration>aucune rémunération</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>500</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>1er exercice clot le 31/12/19. Résultats positifs mais pas de distribution</commentaire>
+					<nomSociete>ASCEND</nomSociete>
+					<evaluation>1000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre ou dirigeant d’une autorité administrative indépendante</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>AAI</codCategorieMandat>
+				<nomCategorieMandat>Membre d’une AAI</nomCategorieMandat>
+				<codTypeMandatFichier>aai</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>AAI</labelOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>HATVP</codeOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+				<nomListeOrgane>Autorités administratives indépendantes</nomListeOrgane>
+				<labelOrgane>Haute Autorité pour la transparence de la vie publique (HATVP)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>membre</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Haute Autorité pour la transparence de la vie publique (HATVP)/membre</qualiteDeclarantForPDF>
+			<dateDebutMandat>26/02/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Lochmann Beaujour</nom>
+				<prenom>Sabine</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>22/03/1966</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

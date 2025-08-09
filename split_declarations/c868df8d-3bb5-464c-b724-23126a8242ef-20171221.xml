@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>25/09/2023 18:27:45</dateDepot>
+		<uuid>c868df8d-3bb5-464c-b724-23126a8242ef</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Professeur des écoles</description>
+					<employeur>Education Nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>27 124</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>28 058</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>28 063</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>28 677</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>29 962</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>29 725</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>ARS Nouvelle - Aquitaine</employeurConjoint>
+					<activiteProf>Directeur de cabinet</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>première adjointe</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 821</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 979</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Lycée Professionnel  Bort Artense</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Lycée polyvalent Pierre Caraminot</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Lycée Professionnel Marcel Barbanceys</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Lycée général et technologiquebernart de Ventadour</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EREA des mille sources</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Lycée général et technologique Edmond Perrier</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Lycée professionnel René Cassin</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EPLEFPA de Haute Corrèze</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EPLEFPA Edgard Pisani</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Lycée Professionnel bernart de Ventadour</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Lycée Polyvalent Privé Notre Dame de La Providence</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>LEGTPA Henri Cueille</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu régional</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>cr</codTypeMandatFichier>
+				<labelTypeMandat>Elu régional</labelTypeMandat>
+				<labelOrgane>Région</labelOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75</codeOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+				<nomListeOrgane>Régions</nomListeOrgane>
+				<labelOrgane>Nouvelle-Aquitaine (75)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>conseillère régionale</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu régional/Nouvelle-Aquitaine (75)/conseillère régionale</qualiteDeclarantForPDF>
+			<dateDebutMandat>02/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>SERRE</nom>
+				<prenom>Françoise</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>19/11/1970</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>22/09/2021 15:20:46</dateDepot>
+		<uuid>9f83eb31-befc-412b-8463-35ad11bcc266</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>En service détaché de l'éducation nationale à partir du 1er septembre 2021</commentaire>
+					<description>Professeur des écoles</description>
+					<employeur>Education Nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>28 153</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28 094</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>31 017</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>26 293</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>28 010</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>31 346</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19 025</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Education Nationale</employeurConjoint>
+					<activiteProf>Professeur des écoles</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>l'ADIl 16</nomStructure>
+					<descriptionActivite>Président</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>office public de l'habitat de la Charente Logélia</nomStructure>
+					<descriptionActivite>Président</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>démission au 28 octobre2021</commentaire>
+					<descriptionMandat>Vice-président cdc lavalette Tude Dronne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 715</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 013</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Maire de Saint-Séverin</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10 938</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9 392</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>16</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Charente (16)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>75</organeParent>
+			</organe>
+			<qualiteDeclarant>Vice-président titulaire d'une délégation</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Charente (16)/Vice-président titulaire d'une délégation</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GALLES</nom>
+				<prenom>PATRICK</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>17/02/1976</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

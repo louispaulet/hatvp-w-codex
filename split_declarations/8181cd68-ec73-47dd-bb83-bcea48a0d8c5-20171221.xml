@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>21/09/2021 21:55:43</dateDepot>
+		<uuid>8181cd68-ec73-47dd-bb83-bcea48a0d8c5</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Enseignant INSPE Rouen</description>
+					<employeur>Université de Rouen</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>36 113</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>40 260</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>32 304</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>41 659</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>42 441</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>45 418</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>41 114</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>27 415</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Autoentrepreneur</employeurConjoint>
+					<activiteProf>Brocante</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12 628</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14 239</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>12/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>PrésidentSIVOS2004</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>774</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>946</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>688</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>08/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12 605</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15 222</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15 058</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14 270</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 240</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 625</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Vice PrésidentCCEMS</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>4 773</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7 828</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6 878</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6 338</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4 065</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>08/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Vice PrésidentSEA</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 033</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 860</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4 055</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller Départemental Eure</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 677</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>27</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Eure (27)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>conseiller départemental délégué à l'enseignement supérieur et à la vie étudiante</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Eure (27)/conseiller départemental délégué à l'enseignement supérieur et à la vie étudiante</qualiteDeclarantForPDF>
+			<dateDebutMandat>08/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>CHAMBON</nom>
+				<prenom>Christophe</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>11/12/1972</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>16/05/2021 18:19:11</dateDepot>
+		<uuid>1cc1e2e4-c9b6-4cd0-ad5c-2b659dc04e96</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>Je signale le fait que je suis retraité de la fonction Publique (Ministère de la Défense : Ingénieur) qui génère un revenu de 24 000 € annuel environ</commentaire>
+					<conservee>true</conservee>
+					<description>Retraité</description>
+					<employeur>Ministère Défense</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>24000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>01/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Plantation vignes de cave en 2017, premiers acomptes attendus deuxième semestre 2021</commentaire>
+					<conservee>true</conservee>
+					<description>Exploitant Agricole</description>
+					<employeur>André GUIOL</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>Retraitée 
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>Démissionné le 17 octobre 2020 </commentaire>
+					<conservee>false</conservee>
+					<nomStructure>Association des Maires Ruraux du Var</nomStructure>
+					<descriptionActivite>Président</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomStructure> Associations Epicuriennes : - Saint HUBERT pour associer Chasseurs et non Chasseurs - Confrérie Gibiers Raffinés</nomStructure>
+					<descriptionActivite>Président Organisation d'un repas festif annuel </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15247</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17392</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17262</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10541</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9349</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Président</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>11315</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12281</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12652</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12010</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10834</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Président SIVED NG</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13511</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13678</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>14735</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10019</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7535</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouveau collaborateur</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nom>KAPP Valérie</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite>Sans</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouveau collaborateur</label>
+					</motif>
+					<commentaire>Néant</commentaire>
+					<nom>MOSCONI Laurence</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite>Sans</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouveau collaborateur</label>
+					</motif>
+					<commentaire>A mi-temps sur poste de collaborateur...</commentaire>
+					<nom>PALMARO Nicolas</nom>
+					<employeur>Communauté d'Agglomération Provence Verte</employeur>
+					<descriptionActivite>Chargé de mission 
+        [Données non publiées]
+    </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>Néant</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>83</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Var(83)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Var(83)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GUIOL</nom>
+				<prenom>André</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>28/06/1954</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,792 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>06/08/2021 11:15:30</dateDepot>
+		<uuid>db52c370-fc70-4f22-a51a-01a38e191792</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fin de l'activité le 31 JANVIER 2018</commentaire>
+					<description>Avocat</description>
+					<employeur>Profession libérale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>42083</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>20050</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15419</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>01/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>AIR CORSICA</employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+     (Superviseur Vente b2c)</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Président de l'Exécutif de la Collectivité Territoriale de Corse</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>217</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>47024</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>54504</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12759</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>01/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Président du Conseil Exécutif</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>76 284</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>76 529</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>76 513</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>38 256</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Vice Président de la Communauté d'Agglomération de Bastia</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 040</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 759</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Aucune rémunération ou gratification perçue</commentaire>
+					<nomSociete>Hopital de Bastia</nomSociete>
+					<activite>Président du Conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>01/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIR CORSICA</nomSociete>
+					<activite>Membre de l'AG des actionnaires</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ARS</nomSociete>
+					<activite>Membre titulaire du Conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Université de Corse</nomSociete>
+					<activite>Membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>01/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Lycée maritime et aquacole de Bastia</nomSociete>
+					<activite>Membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Parc Naturel Marin du Cap Corse et de l'Agriate</nomSociete>
+					<activite>Président du Conseil de gestion</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>GIRTEC</nomSociete>
+					<activite>Membre titulaire de l'AG</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Caisse de développement économique de la Corse (CADEC)</nomSociete>
+					<activite>Membre de droit du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Corse Numérique et commission de concertation régionale</nomSociete>
+					<activite>Membre du conseil d’orientation et vice-président de la commission de concertation régionale d’aménagement numérique du territoire</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Comité régional d’orientation de la Banque publique d’investissement</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Société de capital d’investissement Femu Quì</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Conseil syndical du Syvadec</nomSociete>
+					<activite>Membre suppléant au titre de la Communauté d’agglomération de Bastia, CAB</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Commission intercommunale des impôts directs</nomSociete>
+					<activite>Membre suppléant au titre de la CAB</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Présidence déléguée à Jean-Félix Acquaviva, Député et membre du Comité de massif</commentaire>
+					<nomSociete>Comité de massif</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>29400</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>98</capitalDetenu>
+					<nombreParts>98</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>202000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>5</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivité à statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivité à statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivité</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>ASSCORS</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivités à statut particulier</nomListeOrgane>
+				<labelOrgane>Assemblée de Corse</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Collectivité à statut particulier/Assemblée de Corse</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>simeoni</nom>
+				<prenom>gilles</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>20/04/1967</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

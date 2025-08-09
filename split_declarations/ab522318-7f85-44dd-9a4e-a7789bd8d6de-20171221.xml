@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>22/12/2023 14:44:30</dateDepot>
+		<uuid>ab522318-7f85-44dd-9a4e-a7789bd8d6de</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>Les montants indiqués correspondent aux revenus industriels et commerciaux déclarés. Je ne dispose pas des revenus de l'exercice en cours entre février à novembre 2023. Les revenus déclarés en 2023 correspondent à l'arrêté des comptes du 1er février 2022 au 31 janvier 2023.</commentaire>
+					<conservee>true</conservee>
+					<description>pharmacien titulaire d'officine</description>
+					<employeur>profession libérale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>59 500</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>81 971</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>32 280</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>96 537</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>91 190</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>90 120</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>11/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>CNFPT</employeurConjoint>
+					<activiteProf>Enseignante vacataire</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomStructure>néant</nomStructure>
+					<descriptionActivite>néant</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>CONSEILLER DEPARTEMENTAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>27 760</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19 582</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>19 582</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19 543</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>19 630</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>20 121</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>11/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>SENATEUR DU LOIRET</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66 808</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67 088</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>67 088</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>67 088</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>68 262</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>64 084</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>11/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Président depuis mai 2020</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>ADIL du Loiret et d'Eure-et-Loir</nomSociete>
+					<activite>MEMBRE DU CONSEIL D’ADMINISTRATION PUIS PRÉSIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>11/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Gérant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Co-Gérant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Membre du Conseil National du Développement et de la Solidarité Internationale</nomSociete>
+					<activite>Membre du collège Sénateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin>09/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>260000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>1000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>450000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>90</capitalDetenu>
+					<nombreParts>90</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PS OLIVET</nomSociete>
+					<evaluation>214</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>143</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Contrat à temps complet</commentaire>
+					<nom>BASSAISTEGUY Virginie</nom>
+					<employeur>néant</employeur>
+					<descriptionActivite>Assistante en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Mi-temps</commentaire>
+					<nom>Rodolphe CARISSIMO</nom>
+					<employeur>Assistant au Sénat de Pauline MARTIN</employeur>
+					<descriptionActivite>Assistant au Sénat</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Contrat à temps complet</commentaire>
+					<nom>Apolline HALBECQ</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite>Assistante au Sénat</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>45</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Loiret(45)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Loiret(45)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>SAURY</nom>
+				<prenom>Hugues</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>12/11/1958</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

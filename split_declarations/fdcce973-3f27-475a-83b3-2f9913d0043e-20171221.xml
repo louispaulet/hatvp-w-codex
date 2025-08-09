@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>29/12/2023 15:56:16</dateDepot>
+		<uuid>fdcce973-3f27-475a-83b3-2f9913d0043e</uuid>
+		<origine>ADEL</origine>
+		<complete>false</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'exerce toujours cette activité</commentaire>
+					<description>Maître de conférences des Facultés de droit</description>
+					<employeur>Université Nice-Sophia Antipolis</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>33285</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>30633</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33212</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>37688</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>33302</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>33 479</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>36 091</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>38 303</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>35 840</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Il s'agit d'une activité secondaire arrêtée en 2020</commentaire>
+					<description>Avocat</description>
+					<employeur>Moi-même</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7400</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>11277</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6600</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8500</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6600</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Université 
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Maître de conférences des facultés de droit</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les sommes indiquées sont celles du net imposable</commentaire>
+					<descriptionMandat>Maire de Vallauris Golfe-Juan</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>22 073</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>46 452</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>46 522</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>43 676</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les sommes indiquées sont celles du net imposable</commentaire>
+					<descriptionMandat>Vice-Président CASA</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7 361</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>17 709</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>19 717</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>18 421</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les sommes indiquées sont celles du net imposable</commentaire>
+					<descriptionMandat>Conseiller départemental des Alpes Maritimes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9 944</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>21 246</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>19 973</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Il s'agissait de la présidence d'une association dont j'ai démissionné en décembre 2018. Au titre de cette fonction, je n'ai jamais perçu la moindre rémunération ni aucun avantage.</commentaire>
+					<nomSociete>Association de défense et de valorisation du patrimoine de Vallauris Golfe-Juan</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2017</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Association en sommeil pour laquelle je n'ai jamais perçu la moindre rémunération ni aucun avantage en nature</commentaire>
+					<nomSociete>Association rassemblement pour l'avenir de Vallauris Golfe-Juan</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2019</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Il s'agit d'une activité non-rémunérée ni indemnisée</commentaire>
+					<nomSociete>Pôle santé de Vallauris</nomSociete>
+					<activite>Président du Conseil de surveillannce</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Communauté d'agglomération Sophia-Antipolis</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>Vice-président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Communauté d'agglomération Sophia-Antipolis/Vice-président</qualiteDeclarantForPDF>
+			<dateDebutMandat>11/12/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Luciano</nom>
+				<prenom>Kevin</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>21/02/1981</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

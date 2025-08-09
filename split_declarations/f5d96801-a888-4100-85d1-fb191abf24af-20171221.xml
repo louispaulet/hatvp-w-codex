@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>27/10/2023 01:49:00</dateDepot>
+		<uuid>f5d96801-a888-4100-85d1-fb191abf24af</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>élu à la Province sud pour le mandat 2014-2019</commentaire>
+					<description>élu</description>
+					<employeur>Assemblée Province Sud</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>54 840</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>54 840</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>54 840</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22 850</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2016</dateDebut>
+					<dateFin>05/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>élu membre du gouvernement de la NC à partir de juin 2019 jusqu'à ce jour</commentaire>
+					<description>membre du gouvernement</description>
+					<employeur>Gouvernement de la Nouvelle-Calédonie</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>39 900</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>68 400</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>68 400</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>22 800</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2019</dateDebut>
+					<dateFin>04/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>PGA Associés</employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>conseiller</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7960</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2019</dateDebut>
+					<dateFin>06/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>adjoint au maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9 980</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>15 968</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>11 700</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2023</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SEM SECAL</nomSociete>
+					<activite>président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2015</dateDebut>
+					<dateFin>08/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EP OPT NC</nomSociete>
+					<activite>administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2014</dateDebut>
+					<dateFin>08/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EP OPT</nomSociete>
+					<activite>Président du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SAEM BCI</nomSociete>
+					<activite>membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SEM MWE ARA</nomSociete>
+					<activite>Président du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2019</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>98805</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Dumbéa (988)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>988</organeParent>
+			</organe>
+			<qualiteDeclarant>Maire</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Dumbéa (988)/Maire</qualiteDeclarantForPDF>
+			<dateDebutMandat>12/10/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>lecourieux</nom>
+				<prenom>yoann</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>22/09/1972</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

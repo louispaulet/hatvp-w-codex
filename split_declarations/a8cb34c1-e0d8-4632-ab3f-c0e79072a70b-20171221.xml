@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>21/02/2025 16:19:58</dateDepot>
+		<uuid>a8cb34c1-e0d8-4632-ab3f-c0e79072a70b</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je suis à la retraite depuis le 1er août 2023</commentaire>
+					<description>Consultant Fonctionnel SIRH</description>
+					<employeur>ADP</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>45 498</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>48 717</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>51 064</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>51 302</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>57 968</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>56 733</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>CEREP</employeurConjoint>
+					<activiteProf>Arthérapeute</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Maire Adjoint depuis le 12 juillet 2021</commentaire>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 662</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 680</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+     J'ai indiqué les montants imposables</commentaire>
+					<descriptionMandat>Maire Adjoint</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7 689</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 720</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>18 380</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>1 441</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>01/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre titulaire</commentaire>
+					<nomSociete>Association l'Ecran</nomSociete>
+					<activite>Gestion de salle de cinéma</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2023</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Association Festival</nomSociete>
+					<activite>Festival de Musique de Saint-Denis</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2023</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Association Franciade</nomSociete>
+					<activite>Archéologie et Patrimoine</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2023</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Association Suivez la Flèche</nomSociete>
+					<activite>Monument historique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2023</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CLSPDR</nomSociete>
+					<activite>Conseil Local de Sécurité et de Prévention de la Délinquance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2023</dateDebut>
+					<dateFin>12/2025</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CIG</nomSociete>
+					<activite>Conseil de discipline du CIG Petite Couronne</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2024</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Ambition Saint-Denis</nomSociete>
+					<activite>Fonds d dotation</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2023</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>RIE</nomSociete>
+					<activite>Gestion Restaurant Inter-entreprises</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2025</dateDebut>
+					<dateFin>12/2025</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CCCP</nomSociete>
+					<activite>Centre Culturel Communal</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2025</dateDebut>
+					<dateFin>12/2025</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>VMM</nomSociete>
+					<activite>Villes des musiques du monde</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2025</dateDebut>
+					<dateFin>12/2025</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>Modification de mes délégations suite à la constitution de la commune nouvelle au 1er janvier 2025.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>93066</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Saint-Denis (93)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>93</organeParent>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant>Maire Adjoint</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Saint-Denis (93)/Maire Adjoint</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/01/2025</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>CAILLET</nom>
+				<prenom>YANNICK</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>15/07/1961</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

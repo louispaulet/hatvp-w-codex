@@ -1,0 +1,866 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>05/07/2021 13:56:25</dateDepot>
+		<uuid>8ede55aa-7a06-4cc7-bbc4-3b2b7f77a22f</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>L'exercice 2020 est déficitaire de - 5 205€.</commentaire>
+					<description>Agriculteur</description>
+					<employeur>Profession libérale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15 320</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>9 010</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6 284</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13 344</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10 518</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Sans employeur</employeurConjoint>
+					<activiteProf>Retraitée</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Mairie de Luzillat</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 430</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Plaine Limagne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 160</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités liées aux sociétés du groupe Limagrain sont versées par les maisons mères ( SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>Sélia SA</nomSociete>
+					<activite>PDG</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>les indemnités liées aux sociétés du groupe Limagrain sont versées par les sociétés mères (SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>Tardif Tivagrain SA</nomSociete>
+					<activite>PDG</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités liées aux sociétés du groupe Limagrain sont versées par les sociétés mères (SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>Limagrain Ingrédients SAS</nomSociete>
+					<activite>Pdt du comité d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités liées aux sociétés du groupe Limagrain sont versées par les sociétés mères ( SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>Vilmorin Jardin SA</nomSociete>
+					<activite>PDG</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités liées aux sociétés du groupe Limagrain sont versées par les sociétés mères (SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>Vilmorin Garden Sp.zo.o (Pologne)</nomSociete>
+					<activite>Chairman supervisory Board</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCA Limagrain</nomSociete>
+					<activite>Administrateur - Vice-Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>9 747</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15 705</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13 246</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12 830</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20 230</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>42 286</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités liées aux sociétés du groupe Limagrain sont versées par les sociétés mères (SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>DLF France SAS</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Groupe Limagrain Holding SA</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6 369</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21 284</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21 008</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>20 627</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>34 991</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>43 583</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités liées aux sociétés du groupe Limagrain sont versées par les sociétés mères (SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>Jacquet Brossard SA</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités lies aux sociétés du groupe Limagrain sont versées par les sociétés mères (SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>Savane Brossard SA</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités liées aux sociétés du groupe Limagrain sont versées par les sociétés mères (SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>SARL De La Graine au Pain</nomSociete>
+					<activite>Gérant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités liées aux sociétés du groupe Limagrain sont versées par les sociétés mères( SCA Limagrain et GLH) et déclarées avec elles.</commentaire>
+					<nomSociete>Vilmorin et Cie SA</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pas d'indemnité pour ce mandat, elles sont regroupées dans les holdings</commentaire>
+					<nomSociete>Vimorin Mikado (Vimorin S.A.)</nomSociete>
+					<activite>Semence potagères</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>03/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pas de rémunération pour ce mandat, elles sont regroupées dans les holdings</commentaire>
+					<nomSociete>Harris Moran Clause S.A.</nomSociete>
+					<activite>semences potagères</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>04/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pas d'indemnités versées dans cette CUMA.</commentaire>
+					<nomSociete>CUMA des Riverains de la Morge</nomSociete>
+					<activite>Matériel agricole en commun</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Représentant de Plaine LImagne en tant que Président , pas d'indemnité</commentaire>
+					<nomSociete>Pays de Vichy ( GAL)</nomSociete>
+					<activite>Syndicat mixte</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Représentant de Plaine Limagne en tant que Président. Association dissoute le 28 mars 2019</commentaire>
+					<nomSociete>Office Culturel Nord Limagne</nomSociete>
+					<activite>association culturelle</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2017</dateDebut>
+					<dateFin>03/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Revenus déja indiqués dans activité professionnelles. Déficit de - 5 205€ en 2020</commentaire>
+					<nomSociete>EARL 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Agricole</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>9 010</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6 284</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13 334</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10 518</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Intérêt des parts sociales de la coopérative</commentaire>
+					<nomSociete>Limagrain</nomSociete>
+					<evaluation>25048</evaluation>
+					<remuneration>740</remuneration>
+					<capitalDetenu />
+					<nombreParts>6262</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Dividendes des parts sociales .</commentaire>
+					<nomSociete>Limagrain</nomSociete>
+					<evaluation>25048</evaluation>
+					<remuneration>9437</remuneration>
+					<capitalDetenu />
+					<nombreParts>6262</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Intérêts du compte de dépôt</commentaire>
+					<nomSociete>Limagrain</nomSociete>
+					<evaluation>25048</evaluation>
+					<remuneration>8590</remuneration>
+					<capitalDetenu />
+					<nombreParts>6262</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les bénéfices de l'exploitation sont inclus dans les activités professionnelles</commentaire>
+					<nomSociete>EARL 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>49700</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>51</capitalDetenu>
+					<nombreParts>497</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Rémunération de l'exercice 2019, votée en AG du 30/06/2020</commentaire>
+					<nomSociete>DOME 2000</nomSociete>
+					<evaluation>152</evaluation>
+					<remuneration>37</remuneration>
+					<capitalDetenu />
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Plaine Limagne</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Membre d’EPCI/Plaine Limagne</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>RAYNAUD</nom>
+				<prenom>Claude</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>28/12/1957</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

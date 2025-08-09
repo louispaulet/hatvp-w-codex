@@ -1,0 +1,1321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>18/05/2021 23:53:44</dateDepot>
+		<uuid>c5337570-6f58-43f3-996d-422bb6570d00</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>true</conservee>
+					<description>RETRAITE</description>
+					<employeur>RETRAITE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>28665</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28273</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>32 709</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>27 730</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22 747</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 976</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>true</conservee>
+					<description>Retraite par capitalisation</description>
+					<employeur>CAREL</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>4271</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4 273</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>4 273</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4 308</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 241</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>RETRAITEE</employeurConjoint>
+					<activiteProf>RETRAITEE DE L'EDUCATION NATIONALE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>REPRESENTANT DE LA VILLE</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>OFFICE MUNICIPALES DU SPORT DE VILLEURBANNE</nomStructure>
+					<descriptionActivite>PRESIDENT JUSQU'AU 3 MAI 2017 DEPUIS MEMBRE DU CONSEIL D'ADMINISTRATION</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>ELU LORS DE L'AG</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>COMITE DEPARTEMENTAL ET METROPOLITAIN DES OFFICES MUNICIPAUX DU SPORT</nomStructure>
+					<descriptionActivite>MEMEBRE DU CONSEIL D'ADMINISTRATION</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>ELU LORS DE L'AG JUSQU'EN 2018</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>FEDERATION NATIONALE DES OFFICES DU SPORT</nomStructure>
+					<descriptionActivite>MEMEBRE DU CONSEIL D'ADMINSTRATION</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>attention à partir de2019 c'est du net d'impot</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>CONSEILLER METROPOLITAIN METROPOLE DE LYON</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>8299</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14471</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14504</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>14504</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15 681</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12 515</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9 247</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai démissionné le 30 septembre 2017 du poste de Vice Président. Je reste membre du conseil d'administration.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>VICE PRESIDENT SIGERLy</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1891</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1926</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Suite à ma démission d'adjoint au maire acceptée par M le préfet le 10 juillet 2017, je reste conseiller municipal.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>CONSEILLER MUNICIPAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11 209</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2 519</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 422</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 103</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>ADJOINT AU MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>18 668</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18 668</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18 668</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>10 894</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>SENAT</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>35 602</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>60 127</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>63 753</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>48 206</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fin de cette fonction de président lors de l'Assemblée générale du 3 mai 2017. Je reste membre du conseil d'administration en tant que représentant de la ville de Villeurbanne jusqu'en juin 2020 puis président d'honneur</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>OFFICE DU SPORT DE VILLEURBANNE</nomSociete>
+					<activite>PRÉSIDENT D'HONNEUR</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>vice président de ce syndicat jusqu'en octobre 2017 puis membre du conseil d'administration pour la métropole de Lyon jusqu'en juin 2020 et de nouveau membre du conseil d'administration pour la métropole de Lyon à partir de juillet 2020</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SIGERLy SYNDICAT GESTION ENERGIE REGION LYONNAISE</nomSociete>
+					<activite>CONSEIL D'ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Activité bénévole . Cette fonction peut prendre fin lors de la prochaine assemblée générale de 2020</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>FEDERATION NATIONALE DES OFFICES MUNICIPAUX DU SPORT</nomSociete>
+					<activite>MEMBRE DU CONSEIL D'ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je ne suis plus membre du conseil d'administration depuis le congrès d'octobre 2017</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>ASSOCIATION NATIONALE DES ELUS EN CHARGE DU SPORT</nomSociete>
+					<activite>ne siège plus</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>REPRESENTANT DU CONSEIL GENERAL DU RHÔNE DE 2011 A 2014 PUIS DE LA METROPOLE DE LYON A PARTIR DE 2015 PUIS JUILLET 2020</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SDMIS</nomSociete>
+					<activite>MEMBRE DU CONSEIL D'ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>REPRESENTANT DU CONSEIL GENERAL DU RHÔNE DE 2011 A 2014 PUIS DE LA METROPOLE DE LYON A PARTIR DE 2015 EN QUALITE DE SUPPLEANT AU CONSEIL D'ADMINISTRATION JUSQU'EN JUIN 2020. EN JUILLET 2020 JE REPRÉSENTE LA MÉTROPOLE DE LYON EN TANT QUE TITULAIRE. JUSQU'EN NOVEMBRE 2020 DATE A LAQUELLE DE DEVIENDRAI SUPPLÉANT</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SYNDICAT D'AMENAGEMENT DU BORDELAND</nomSociete>
+					<activite>MEMBRE DU CONSEIL D'ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai démissionné de la fonction de secrétaire. Je ne suis plus au bureau de ce syndicat. Je reste membre de son conseil d'administration jusqu'en juin 2020. En juillet 2020 je ne siège plus dans ce conseil.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SYMALIM</nomSociete>
+					<activite>ne siège plus</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>ACTVITE BENEVOLE</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>COMITE DEPARTEMENTAL ET METROPOLITAIN DES OFFICES MUNICIPAUX DU SPORT</nomSociete>
+					<activite>MEMBRE DU CONSEIL D'ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>ACTIVITE BENEVOLE</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>CREDIT MUTUEL CAISSE DU TOTEM</nomSociete>
+					<activite>MEMBRE DU CONSEIL D'ADMINSTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Représentant suppléant de la Métropole au conseil d'administration du syndicat des transports de l'agglomération lyonnaise jusqu'en juin 2020</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SYTRAL</nomSociete>
+					<activite>ne siège plus</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>président de cette SPL jusqu'en octobre 2017 puis membre du conseil d'administration jusqu'en juin 2020 pour la métropole de Lyon</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SEGAPAL SPL RHÔNE AMONT</nomSociete>
+					<activite>ne siège plus</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>10 880</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>10 886</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5 585</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>DÉMISSION FIN 2016 
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SASP ASVEL</nomSociete>
+					<activite>MEMBRE DU CONSEIL D'ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>credit agricole</nomSociete>
+					<evaluation>853</evaluation>
+					<remuneration>31.89</remuneration>
+					<capitalDetenu />
+					<nombreParts>66</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ARKEMA</nomSociete>
+					<evaluation>378</evaluation>
+					<remuneration>7</remuneration>
+					<capitalDetenu />
+					<nombreParts>4</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SANOFI</nomSociete>
+					<evaluation>4391</evaluation>
+					<remuneration>105,31</remuneration>
+					<capitalDetenu />
+					<nombreParts>49</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>TOTAL</nomSociete>
+					<evaluation>4428</evaluation>
+					<remuneration>162,58</remuneration>
+					<capitalDetenu />
+					<nombreParts>90</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AMUNDI STRAT ACT EURO C FCP 3D</nomSociete>
+					<evaluation>9359</evaluation>
+					<remuneration>0,42</remuneration>
+					<capitalDetenu />
+					<nombreParts>49</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CAPITOP REVENUS 3 DEC</nomSociete>
+					<evaluation>282</evaluation>
+					<remuneration>3.96</remuneration>
+					<capitalDetenu />
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PC CAE VILLEURBANNE</nomSociete>
+					<evaluation>431</evaluation>
+					<remuneration>5,36</remuneration>
+					<capitalDetenu />
+					<nombreParts>421</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIRE FRANCE KLM</nomSociete>
+					<evaluation>109</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>11</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CNP ASSURANCE</nomSociete>
+					<evaluation>1365</evaluation>
+					<remuneration>68.53</remuneration>
+					<capitalDetenu />
+					<nombreParts>77</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ORANGE</nomSociete>
+					<evaluation>498</evaluation>
+					<remuneration>26.5</remuneration>
+					<capitalDetenu />
+					<nombreParts>38</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ENGIE</nomSociete>
+					<evaluation>576</evaluation>
+					<remuneration>20</remuneration>
+					<capitalDetenu />
+					<nombreParts>40</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AEROPORTS DE PARIS</nomSociete>
+					<evaluation>2817</evaluation>
+					<remuneration>59.2</remuneration>
+					<capitalDetenu />
+					<nombreParts>16</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SOLOCAL</nomSociete>
+					<evaluation>3</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>7</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIRBUS</nomSociete>
+					<evaluation>5480</evaluation>
+					<remuneration>58,9</remuneration>
+					<capitalDetenu />
+					<nombreParts>42</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCP EUROSTR PEA 
+        [Données non publiées]
+     FCP 3D</nomSociete>
+					<evaluation>3629</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>22</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SELECTIZ PEA FCP 4 DEC</nomSociete>
+					<evaluation>11567</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>103</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PARTS SOCIALES</nomSociete>
+					<evaluation>23580</evaluation>
+					<remuneration>370,56</remuneration>
+					<capitalDetenu />
+					<nombreParts>1177</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>NATIXIS</nomSociete>
+					<evaluation>530</evaluation>
+					<remuneration>73,16</remuneration>
+					<capitalDetenu />
+					<nombreParts>131</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>OPC RESEAU</nomSociete>
+					<evaluation>215</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCPI SIP INN 2011 A FCPI I DEC</nomSociete>
+					<evaluation>1320</evaluation>
+					<remuneration>O</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCPI SIPAREX INNOV 2012 A FCPI</nomSociete>
+					<evaluation>1568</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>6</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCPI SIP INN 2013 A FCPI 1 DEC</nomSociete>
+					<evaluation>3888</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>7</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCPI SIP INN 2014 A FCPI 2 DEC</nomSociete>
+					<evaluation>1624</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>6</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCPI SIP INN 2015 A FCPI</nomSociete>
+					<evaluation>1255</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>6</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCPI SIPAREX XANGE INN 2016 A</nomSociete>
+					<evaluation>2604</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>6</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>NEOVERIS CORSE 2016 FIP</nomSociete>
+					<evaluation>3349</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BIO SANTE 2016 2017 A FCPI</nomSociete>
+					<evaluation>2850</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCPI SIP XANG INN 2019 A FCPI</nomSociete>
+					<evaluation>3857</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SIPAREX XANGE INN 2020 A FCPI</nomSociete>
+					<evaluation>4000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FIP KALLIS CAP N10 A FIP 3 DEC</nomSociete>
+					<evaluation>901</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Mme THEOLEYRE a pris sa fonction de collaboratrice à plein temps au 16 octobre 2017. Mme THEOLEYRE est en congés 
+        [Données non publiées]
+    </commentaire>
+					<nom>MARIANNE THEOLEYRE DUCROUX</nom>
+					<employeur />
+					<descriptionActivite>ATTACHEE TERRITORIALE DIRECTRICE DE L'OFFICE DU SPORT JUSQU'AU 15 OCTOBRE 2017</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Mme BETTIN n'a pas d'autre activité professionnelle</commentaire>
+					<nom>BETTIN Gwenaëlle</nom>
+					<employeur />
+					<descriptionActivite>Mme BETTIN est sans activité professionnelle au moment où elle prend son poste à 80%.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Mme Martineau n'a pas d'autres activité professionnelle</commentaire>
+					<nom>Martineau Cristina</nom>
+					<employeur />
+					<descriptionActivite>
+        [Données non publiées]
+    Elle occupe un poste d'attachée parlementaire à 50%</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Mme Clerf n'a pas d'autre activité professionnelle.</commentaire>
+					<nom>CLERF Joséphine</nom>
+					<employeur />
+					<descriptionActivite>Mme Clerf attachée parlementaire jusqu'au 4 juin 2020 en remplacement de Mme Théoleyre en congé 
+        [Données non publiées]
+    </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>69</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Rhône(69)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Rhône(69)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>DEVINAZ</nom>
+				<prenom>GILBERT-LUC ROBERT</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>19/07/1953</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

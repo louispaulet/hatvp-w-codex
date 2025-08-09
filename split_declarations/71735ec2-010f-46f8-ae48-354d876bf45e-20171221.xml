@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>05/03/2021 11:50:16</dateDepot>
+		<uuid>71735ec2-010f-46f8-ae48-354d876bf45e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>chambre de commerce et d'industrie de GUYANE </employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>Sénateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>56 763</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>59 905</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49 854</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>54 060</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66 608</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67 088</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>45 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+     </nomSociete>
+					<evaluation>21248</evaluation>
+					<remuneration>Néant</remuneration>
+					<capitalDetenu>60</capitalDetenu>
+					<nombreParts>6</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>BISSERY Jocelyn</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>WILFRED Dale</nom>
+					<employeur>M. Mikaele KULIMOETOKE, sénateur de Wallis-et-Futuna</employeur>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>PIERRE-LOUIS Mireille</nom>
+					<employeur>Commune de Fort-de-France</employeur>
+					<descriptionActivite>Chargée de missions</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>ALPHONSE Valéry</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>973</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Guyane(973)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Guyane(973)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Patient</nom>
+				<prenom>Georges</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>01/04/1949</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

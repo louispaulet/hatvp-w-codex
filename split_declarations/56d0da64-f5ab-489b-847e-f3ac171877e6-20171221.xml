@@ -1,0 +1,744 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>07/10/2022 12:18:32</dateDepot>
+		<uuid>56d0da64-f5ab-489b-847e-f3ac171877e6</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNC déterminé à l'année civile. En cours pour 2017</commentaire>
+					<conservee>true</conservee>
+					<description>Medecin liberal</description>
+					<employeur>Moi meme</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>20111</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>24872</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>24922</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>20005</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12151</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1555</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNC pro négatifs en 2017 et 2018</commentaire>
+					<conservee>true</conservee>
+					<description>Médecin libéral</description>
+					<employeur>moi-même</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>20 005</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12 151</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1 555</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 716</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PH temps partiel</commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>CH 
+        [Données non publiées]
+     + activité liberale</employeurConjoint>
+					<activiteProf>Chirurgien</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>11/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>170</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1 967</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 977</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Senateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>27 149</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>12/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Senateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49 822</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Senateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>67 553</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Senateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66 808</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Senateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67 088</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Senateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>50 316</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Aucune fonction d'administration dans cette société</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>SCI</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Aucune fonction d'administration dans cette société</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SA OCEP</nomSociete>
+					<activite>SA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pas d’activité au CCAS</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>CCAS communal</nomSociete>
+					<activite>CCAS</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>10/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Aucune activité</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SDIS demartemental</nomSociete>
+					<activite>Service incendie</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Aucune activité</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Centre de gestion departemental</nomSociete>
+					<activite>Gestion personnel</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>Conseil communautaire du grand chalon</nomSociete>
+					<activite>Conseiller communautaire</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>206</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1 967</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 977</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>80000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>12</capitalDetenu>
+					<nombreParts>7625</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SA OCEP</nomSociete>
+					<evaluation>42000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>9</capitalDetenu>
+					<nombreParts>1599</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Total 20. Valorise 747. accor 25 valorise 854. Orange 5 valorise 52. Edenred 25 valorise 1187. CM_AM 103 valorise 10301</commentaire>
+					<nomSociete>Compte titres cic</nomSociete>
+					<evaluation>13142</evaluation>
+					<remuneration>Valeur vénale 2020 12948valeur 2021 13142</remuneration>
+					<capitalDetenu />
+					<nombreParts>178</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Molay Frederique</nom>
+					<employeur>Neant</employeur>
+					<descriptionActivite>Écrivain</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Arrêt du contrat de travail le 30 novembre 2021</commentaire>
+					<nom>Maillot François</nom>
+					<employeur>Neant</employeur>
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Remplacement du 1er décembre 2021 au 21 janvier 2022</commentaire>
+					<nom>Molay Thomas</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Début du contrat de travail le 24 01 2022 Le 28 août 2022. Rupture 
+        [Données non publiées]
+    du contrat</commentaire>
+					<nom>Wiart Sebastien</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Contrat de travail signé à compter du 2 novembre 2022</commentaire>
+					<nom>Naigeon Stephanie</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>71</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Saône-et-Loire(71)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Saône-et-Loire(71)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/10/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Mercier</nom>
+				<prenom>Marie</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>16/06/1958</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

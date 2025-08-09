@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>27/01/2024 17:05:29</dateDepot>
+		<uuid>191d17d0-24c0-4fbc-9614-efbc6be22b5d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>néant</employeurConjoint>
+					<activiteProf>néant</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomStructure>Refuge animalier de Thiernay</nomStructure>
+					<descriptionActivite>Vice-Présidente</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>conseillère municipale à Neuvy sur Loire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>09/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>rémunérations brutes de base jusqu'au mois de septembre 2023 inclus.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>sénatrice de la Nièvre</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>67 221</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67 479</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>67 479</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>67 479</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>68 660</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>52 642</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>09/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>ARS Bourgogne Franche Comté</nomSociete>
+					<activite>membre du conseil de surveillance (représentante du sénat)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2022</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>CAUE de la Nièvre</nomSociete>
+					<activite>Conseil d'administration (Conseil en architecture urbanisme et environnement)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>01/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>Association Fraternité Nièvre Ukraine</nomSociete>
+					<activite>Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2022</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Crédit Agricole</nomSociete>
+					<evaluation>1251</evaluation>
+					<remuneration>18,78</remuneration>
+					<capitalDetenu />
+					<nombreParts>782</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AXEREAL</nomSociete>
+					<evaluation>4288</evaluation>
+					<remuneration>228</remuneration>
+					<capitalDetenu />
+					<nombreParts>1957</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PASIPHAE</nomSociete>
+					<evaluation>3472</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>112</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCIC 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>500</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>En disponibilité de la communauté de communes Puisaye Forterre</commentaire>
+					<nom>Frédéric LAJEUNESSE</nom>
+					<employeur>néant</employeur>
+					<descriptionActivite>
+        [Données non publiées]
+    </descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Chrystèle SEIGNER</nom>
+					<employeur>néant</employeur>
+					<descriptionActivite>
+        [Données non publiées]
+    </descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>en disponibilité du Conseil Départemental de la Nièvre</commentaire>
+					<nom>Anaïs LAUMONNIER</nom>
+					<employeur>néant</employeur>
+					<descriptionActivite>
+        [Données non publiées]
+    </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>58</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Nièvre(58)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Nièvre(58)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>SOLLOGOUB</nom>
+				<prenom>Nadia</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>09/11/1961</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

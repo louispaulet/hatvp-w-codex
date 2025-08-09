@@ -1,0 +1,782 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>30/11/2021 20:44:14</dateDepot>
+		<uuid>dd047f4f-dfac-4e5c-89f5-78e4c4157063</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>PHARMACIEN D OFFICINE</description>
+					<employeur>SELARL PHARMACIE 
+        [Données non publiées]
+    </employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>42000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>MEDECIN</employeurConjoint>
+					<activiteProf>MEDECIN DU SPORT 
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>ROTARY CLUB DE METZ</nomStructure>
+					<descriptionActivite>MEMBRE DU CLUB</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>CONSEILLER METROPOLITAIN</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>404</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>AUCUNE REMUNERATION</commentaire>
+					<nomSociete>JGAD FINANCES</nomSociete>
+					<activite>MEMBRE CONSEIL DE SURVEILLANCE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2019</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>AUCUNE REMUNERATION</commentaire>
+					<nomSociete>EHEALTH FWD</nomSociete>
+					<activite>COFONDATEUR</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>JEUNE ELUE AUCUNE REMUNERATION</commentaire>
+					<nomSociete>INSPIRE METZ</nomSociete>
+					<activite>MEMBRE DU CA</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>ASSOCIEE GERANTE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>ASSOCIEE GERANTE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>ASSOCIEE GERANTE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SC 
+        [Données non publiées]
+    </nomSociete>
+					<activite>ASSOCIEE GERANTE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>jeune élue</commentaire>
+					<nomSociete>france urbaine</nomSociete>
+					<activite>administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>jeune élue</commentaire>
+					<nomSociete>Quattropole</nomSociete>
+					<activite>membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>jeune élue</commentaire>
+					<nomSociete>centre europeen Robert Schuman</nomSociete>
+					<activite>membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>jeune élue</commentaire>
+					<nomSociete>SCOTAM Syndicat mixte</nomSociete>
+					<activite>membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>jeune élue</commentaire>
+					<nomSociete>EUREGIO SAARLORLUX</nomSociete>
+					<activite>membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>jeune élue</commentaire>
+					<nomSociete>Metz Metropole Moselle Congres</nomSociete>
+					<activite>admnistratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>selarl pharmacie 
+        [Données non publiées]
+    </nomSociete>
+					<activite>gerante</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>04/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>7682</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>99</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>13766</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>99</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>42635</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>99</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>14595</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>50</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SA JGAD FINANCES</nomSociete>
+					<evaluation>416666</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>8</capitalDetenu>
+					<nombreParts>3166</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>NU PROPRIETE</commentaire>
+					<nomSociete>SCI
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>10000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>4</capitalDetenu>
+					<nombreParts>2069</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>dividendes 2020 DE LA SELARL</commentaire>
+					<nomSociete>SELARL PHARMA 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>2100000</evaluation>
+					<remuneration>41022€ EN 2020</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>25000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>2500</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SAS EHEALTH FWD</nomSociete>
+					<evaluation>12500</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>25</capitalDetenu>
+					<nombreParts>2500</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>57463</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Metz (57)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>57</organeParent>
+			</organe>
+			<qualiteDeclarant>ADJOINT TITULAIRE COMMERCE ET COOPERATIONS DECENTRALISEES PARTENARIATS INTERNATIONAUX</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Metz (57)/ADJOINT TITULAIRE COMMERCE ET COOPERATIONS DECENTRALISEES PARTENARIATS INTERNATIONAUX</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>DAUSSAN-WEIZMAN</nom>
+				<prenom>ANNE</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>11/04/1962</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

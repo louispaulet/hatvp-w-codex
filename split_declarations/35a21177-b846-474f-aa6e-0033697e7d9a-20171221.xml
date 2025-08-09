@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>12/10/2020 21:34:33</dateDepot>
+		<uuid>35a21177-b846-474f-aa6e-0033697e7d9a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>delegue medical</description>
+					<employeur>Pfizer</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>55 262</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>40 571</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>45 445</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>40 072</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>41 345</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>43 160</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>Fédération des marchés de gros de France</nomStructure>
+					<descriptionActivite>Président</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>adjoint titulaire d'une delegation (commune + 100 000 hab)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>15 509</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>39 235</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>53 305</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>57 156</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>56 734</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>44 983</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>les revenus électifs sont la somme des indemnités de mes fonctions :adjoint au maire,conseiller métropolitain et conseiller régional.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>31555</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Toulouse (31)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Toulouse (31)</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>BOLZAN</nom>
+				<prenom>Jean-Jacques</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>12/08/1964</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

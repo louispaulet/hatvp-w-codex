@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>09/04/2025 22:34:17</dateDepot>
+		<uuid>a3f34dbf-d41c-47e2-beb4-3764fec76aca</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Appartement</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 59)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>95</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2023</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>225000</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>225000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items />
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items />
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<etablissement>Arkéa Direct</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<naturePlacement>Compte titre</naturePlacement>
+					<valeur>0</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<souscripteur>Darmanin Gérald</souscripteur>
+					<etablissement>Aviva</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>19/07/2012</dateSouscription>
+					<valeurRachat>11590</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>La Banque Postale</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Darmanin Gérald et 
+        [Données non publiées]
+    </titulaire>
+					<valeur>513</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Fortuneo</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>49</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>La Banque Postale</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Gérald Darmanin</titulaire>
+					<valeur>12301</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Arkéa Direct Bank</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>0</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>La Banque Postale</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>14000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items />
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items />
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items />
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items />
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomCreancier>La Banque Postale</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>Prêt habitation</nature>
+					<datePassif>24/05/2023</datePassif>
+					<objetDette>
+        [Données non publiées]
+    </objetDette>
+					<montant>193733</montant>
+					<duree>300</duree>
+					<restantDu>185632</restantDu>
+					<mensualite>998</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mj23</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère de la justice</labelOrgane>
+				<labelDeclaration>Garde des sceaux ministre de la justice</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Garde des sceaux ministre de la justice</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Communauté légale réduite aux acquêts</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Darmanin</nom>
+				<prenom>Gérald</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>11/10/1982</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

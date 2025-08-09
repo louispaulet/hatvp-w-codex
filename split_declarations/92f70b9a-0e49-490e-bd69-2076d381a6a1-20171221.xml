@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>05/12/2023 16:05:39</dateDepot>
+		<uuid>92f70b9a-0e49-490e-bd69-2076d381a6a1</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Nantes Métropole</employeurConjoint>
+					<activiteProf>Conseillère municipale de Saint Sébastien sur Loire Conseillère Métropole de Nantes</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>Sénateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>74 690</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>75 394</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>74 871</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>74 981</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>76 293</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>54 495</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>09/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Mi-temps</commentaire>
+					<nom>GATT Syvain</nom>
+					<employeur>Auto entrepreneur Elu local Saint Sébastien</employeur>
+					<descriptionActivite>Gestion des réseaux sociaux Conception réalisation news letter Informatique et bases de données Accompagnement terrain / photo / communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fin de contrat au 31 décembre 2023</commentaire>
+					<nom>ABI SAAD Elie</nom>
+					<employeur>Collaborateur 
+        [Données non publiées]
+     plein temps 
+        [Données non publiées]
+    </employeur>
+					<descriptionActivite>Gestion et traitement du courrier Coordination des relations internationales Préparation des interventions dans l'hémicycle Organisation des visites au sénat</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>CDD jusqu'au 16 octobre 2024 
+        [Données non publiées]
+    </commentaire>
+					<nom>KERRAIN Benoit</nom>
+					<employeur>Retraité</employeur>
+					<descriptionActivite>Rédaction d'intervention dans le cadre des sollicitations "terrain", suivi des demandes et accompagnement terrain</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>44</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Loire-Atlantique(44)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Loire-Atlantique(44)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GUERRIAU</nom>
+				<prenom>JOEL</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>09/11/1957</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

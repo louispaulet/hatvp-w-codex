@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>18/04/2025 09:18:06</dateDepot>
+		<uuid>70d106eb-36b7-4922-83c9-1f2ab4599cc2</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 06)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>115</superficieBati>
+					<superficieNonBati>0.15</superficieNonBati>
+					<dateAcquisition>1979</dateAcquisition>
+					<origine>Succession</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>17.2</quotePart>
+					<prixAcquisition>655500</prixAcquisition>
+					<prixTravaux />
+					<valeurVenale>230000</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items />
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items />
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<souscripteur>Maïa Jean</souscripteur>
+					<etablissement>Swiss Life PER Eres</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>07/12/2020</dateSouscription>
+					<valeurRachat>48164</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<souscripteur>Maïa Jean</souscripteur>
+					<etablissement>Cardif Elite</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>04/08/2023</dateSouscription>
+					<valeurRachat>312996</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<souscripteur>Maïa Jean</souscripteur>
+					<etablissement>SURAVENIR Patrimoine Vie plus</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>04/08/2023</dateSouscription>
+					<valeurRachat>308797</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<souscripteur>Maïa Jean</souscripteur>
+					<etablissement>BoursoBank</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>05/01/2019</dateSouscription>
+					<valeurRachat>14886</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>Compte espèces</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Maïa Jean</titulaire>
+					<valeur>19399</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Maïa Jean</titulaire>
+					<valeur>25101</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>LDD</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Maïa Jean</titulaire>
+					<valeur>13016</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BoursoBank</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Maïa Jean</titulaire>
+					<valeur>0</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items />
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items />
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items />
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items />
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items />
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items />
+			<neant>true</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items />
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items />
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items />
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre ou dirigeant d une autorité administrative indépendante</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>AAI</codCategorieMandat>
+				<nomCategorieMandat>Membre d une AAI</nomCategorieMandat>
+				<codTypeMandatFichier>aai</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>AAI</labelOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>HATVP</codeOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+				<nomListeOrgane>Autorités administratives indépendantes</nomListeOrgane>
+				<labelOrgane>Haute Autorité pour la transparence de la vie publique (HATVP)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant>Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Haute Autorité pour la transparence de la vie publique (HATVP)/Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>26/03/2025</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Néant</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Maïa</nom>
+				<prenom>Jean</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>24/06/1970</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

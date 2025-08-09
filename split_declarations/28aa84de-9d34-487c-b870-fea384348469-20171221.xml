@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>12/07/2024 17:36:04</dateDepot>
+		<uuid>28aa84de-9d34-487c-b870-fea384348469</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomEmployeur>profession libérale</nomEmployeur>
+					<description>Consultante en communication</description>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>06/2017</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>45427</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>72550</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>96341</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>148780</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>99827</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19863</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>31039</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>CMA France</employeurConjoint>
+					<activiteProf>Directeur des relations institutionnelles</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>députée</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>71 042</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71 105</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>71 779</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>71 923</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>73 179</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>74 993</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>30 066</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Salesse Gabriel</nom>
+					<employeur />
+					<descriptionActivite>Collaborateur parlementaire en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Martiréné Anne</nom>
+					<employeur>Graphiste inscrite à la Maison des artistes</employeur>
+					<descriptionActivite>Collaboratrice chargée de la conception des outils de communication
+        [Données non publiées]
+    </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Député</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>Député</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>91</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Essonne(91)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Député/Essonne(91)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Rixain</nom>
+				<prenom>Marie-Pierre</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>18/01/1977</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

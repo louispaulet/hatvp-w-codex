@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>31/08/2020 20:21:24</dateDepot>
+		<uuid>4278fd1e-d7c0-41da-936b-7d5f69b60446</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Chargé de mission informatique</description>
+					<employeur>GROUPAMA Méditérranée</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>30782</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>23617</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>23196</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>23684</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24311</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>23192</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13710</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>SARL
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Employée d'optique</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>vide président DPVA</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>10015</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14200</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14200</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13800</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13700</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13850</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7443</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>16134</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>16110</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16022</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17922</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17703</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17811</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12266</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>DPVA</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>vice-président EPCI de + 100000 hab</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/DPVA/vice-président EPCI de + 100000 hab</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>MARIA</nom>
+				<prenom>daniel</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>05/09/1961</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

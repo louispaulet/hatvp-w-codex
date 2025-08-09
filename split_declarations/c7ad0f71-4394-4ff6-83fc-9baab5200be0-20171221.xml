@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>01/09/2021 19:20:05</dateDepot>
+		<uuid>c7ad0f71-4394-4ff6-83fc-9baab5200be0</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>Comité de bassin d'emploi Nord 31</nomStructure>
+					<descriptionActivite>Favoriser l'emploi sur le territoire. Présidente de l'association.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pour 2021 ce sont les 6 premiers mois.</commentaire>
+					<descriptionMandat>Vice présidente</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>34 560</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>34 560</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>34 560</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>32 280</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>32 280</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>31</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Haute-Garonne (31)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>76</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Elu départemental/Haute-Garonne (31)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Neveu</nom>
+				<prenom>Sandrine</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>29/03/1967</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

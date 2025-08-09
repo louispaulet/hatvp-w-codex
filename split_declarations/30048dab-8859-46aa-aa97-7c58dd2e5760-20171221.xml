@@ -1,0 +1,573 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>26/09/2021 12:34:51</dateDepot>
+		<uuid>30048dab-8859-46aa-aa97-7c58dd2e5760</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>rémunération nette de TNS</commentaire>
+					<description>Travailleur non salarié (TNS)</description>
+					<employeur>CONSILIO</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>60 000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>60 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>60 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>60 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>58 000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>58 000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>58 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Néant</employeurConjoint>
+					<activiteProf>Néant</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 250</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 700</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller Métropolitain</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5 500</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7 440</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller régional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SARL Insulae</nomSociete>
+					<activite>Gérant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Gérant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2017</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Cette société et la rémunération sont celles déclarées aussi en 1</commentaire>
+					<nomSociete>SARL Consilio</nomSociete>
+					<activite>Gérant TNS</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>60 000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>60 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>60 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>60 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>58 000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>58 000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>58 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Comité régional tourisme</nomSociete>
+					<activite>Membre CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Société Publique Régionale</nomSociete>
+					<activite>Membre CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SAS Pays de Loire Participations</nomSociete>
+					<activite>Membre du comité de direction</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SEM Pays de La Loire</nomSociete>
+					<activite>Membre CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SAMOA</nomSociete>
+					<activite>Membre CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SARL Consilio</nomSociete>
+					<evaluation>1850000</evaluation>
+					<remuneration>Année 2020 : TNS net 58 000 € Dividendes Bruts 98 000 €</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>410548</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SAS Bamboo</nomSociete>
+					<evaluation>30000</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu>3</capitalDetenu>
+					<nombreParts>568</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SARL Insulae</nomSociete>
+					<evaluation>50000</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu>16</capitalDetenu>
+					<nombreParts>190</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Jeune société immobilière avec dette importante</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu>90</capitalDetenu>
+					<nombreParts>900</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Via PEA</commentaire>
+					<nomSociete>Air Liquide</nomSociete>
+					<evaluation>13554</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>94</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Via PEA</commentaire>
+					<nomSociete>EDF</nomSociete>
+					<evaluation>334</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>31</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Via PEA</commentaire>
+					<nomSociete>Michelin</nomSociete>
+					<evaluation>6138</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>46</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>Information sur autres participations PEA : AMUNDI FRANCE ENGAGEM.PC SI.3D 17 800 € CM-AM AMERIQUE 500 DOLLAR (C) 19 300 € CM-AM CONVICTIONS EURO (RC) 22 100 € CM-AM INDICIEL AMERIQUE 500 (RC) 45 000 € FIDELITY EUROPE ACT.A SI.4DEC 21 200 € LAZARD ALPHA EURO R SI.3DEC 21 000 € MAIN.T.E.ID.F.CL.A.E.CAP.2 DEC 41 000 € La société Consilio a des prises de participations dans des sociétés, non déclarées ici car ne rentrant pas dans l'objet de la rubrique 4 "Les participations financières directes dans le capital d’une société".</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu régional</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>cr</codTypeMandatFichier>
+				<labelTypeMandat>Elu régional</labelTypeMandat>
+				<labelOrgane>Région</labelOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>52</codeOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+				<nomListeOrgane>Régions</nomListeOrgane>
+				<labelOrgane>Pays de la Loire (52)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>conseiller titulaire d'une délégation</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu régional/Pays de la Loire (52)/conseiller titulaire d'une délégation</qualiteDeclarantForPDF>
+			<dateDebutMandat>26/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>THIRIET</nom>
+				<prenom>Richard</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>11/01/1971</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>28/08/2021 18:34:04</dateDepot>
+		<uuid>12c91b3c-b509-486d-8cdc-9bdf0b6a6eff</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>avis impot 2020.pdf</fileName>
+				<serverFileName>12c91b3c-b509-486d-8cdc-9bdf0b6a6eff_pj01</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>avis impot 2021.pdf</fileName>
+				<serverFileName>12c91b3c-b509-486d-8cdc-9bdf0b6a6eff_pj02</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les revenus de 2021 sont de Janvier à Juillet</commentaire>
+					<description>Responsable relations sociales</description>
+					<employeur>LA POSTE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>30 464</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>18 224</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>LA GENDARMERIE</employeurConjoint>
+					<activiteProf>Adjudant en charge de la section équipement</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomStructure>association ESA CARAIBES</nomStructure>
+					<descriptionActivite>famille d'accueil enfants malades</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je n'ai pas souhaité percevoir d'indemnités de la commune du GROS MORNE à ce jour</commentaire>
+					<descriptionMandat>conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je mentionne le montant perçu à ce jour. Les autres virements auront lieu dans les mois suivants.</commentaire>
+					<descriptionMandat>Conseiller executif</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 800</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>présidente de l'association à caractère politique crée en Mai 2021</commentaire>
+					<nomSociete>FORCES RASSEMBLEES</nomSociete>
+					<activite>Présidente du mouvement</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivité à statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivité à statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivité</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>ASSMART</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivités à statut particulier</nomListeOrgane>
+				<labelOrgane>Assemblée de Martinique</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Collectivité à statut particulier/Assemblée de Martinique</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>THALY BARDOL</nom>
+				<prenom>audrey</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>22/02/1978</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

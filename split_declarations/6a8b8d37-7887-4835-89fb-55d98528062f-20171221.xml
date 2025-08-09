@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>22/07/2021 18:17:07</dateDepot>
+		<uuid>6a8b8d37-7887-4835-89fb-55d98528062f</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomEmployeur>CDG61</nomEmployeur>
+					<description>vacations formation-concours</description>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>949</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>821</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1 691</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 357</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>141</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 696</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomEmployeur>CNFPT</nomEmployeur>
+					<description>vacations formation</description>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1 277</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1 032</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>510</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>505</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 161</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>613</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Gauthier Fils 
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>conseiller départemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25158</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>23 298</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>23 068</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>16 823</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 467</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8 819</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>61</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Orne (61)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>28</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Elu départemental/Orne (61)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>BRUNEAU</nom>
+				<prenom>Anick</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>29/10/1951</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

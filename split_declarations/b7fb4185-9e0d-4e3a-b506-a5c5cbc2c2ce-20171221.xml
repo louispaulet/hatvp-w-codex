@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>31/07/2020 23:47:58</dateDepot>
+		<uuid>b7fb4185-9e0d-4e3a-b506-a5c5cbc2c2ce</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>avocat</description>
+					<employeur>PROFESSION LIBERALE, non salarié</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>23648</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>11695</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>20179</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7541</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>-2865</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7482</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>CREDIT MUTUEL</employeurConjoint>
+					<activiteProf>DIRECTRICE D AGENCE BANCAIRE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>MAIRE ET PRESIDENT D AGGLOMERATION</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>62491</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>85480</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>85518</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>74722</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>71388</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>74123</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>33106</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI
+        [Données non publiées]
+     gérant non salarié</nomSociete>
+					<activite>société immobilière</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>edf</nomSociete>
+					<evaluation>591</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>72</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIMEEE DR EUR</nomSociete>
+					<evaluation>1550</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AEST</nomSociete>
+					<evaluation>877</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>12</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PS NEVERS MERCIERS CRCA</nomSociete>
+					<evaluation>54</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>36</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AMUNDI</nomSociete>
+					<evaluation>5255</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>48</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>IND EUR EXP</nomSociete>
+					<evaluation>1101</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>11</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>VENDOME</nomSociete>
+					<evaluation>3405</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>25</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>INDOSUEZ</nomSociete>
+					<evaluation>1355</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>18</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BFT</nomSociete>
+					<evaluation>1127</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>11</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CPR</nomSociete>
+					<evaluation>1154</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>4</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CPR SILVER</nomSociete>
+					<evaluation>779</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>0</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>INDO EURO</nomSociete>
+					<evaluation>2083</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>33</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AM EUR EA</nomSociete>
+					<evaluation>2902</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>392</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>58194</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Nevers (58)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>MAIRE</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Nevers (58)/MAIRE</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/05/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>THURIOT</nom>
+				<prenom>Denis</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>19/08/1966</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

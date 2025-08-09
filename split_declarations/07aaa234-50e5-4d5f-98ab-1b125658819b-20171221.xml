@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>29/08/2021 17:50:36</dateDepot>
+		<uuid>07aaa234-50e5-4d5f-98ab-1b125658819b</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Enseignant au CFA</description>
+					<employeur>Chambre de Métiers et de l'Artisanat de Martinique</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>29 651</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>28 108</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>28 825</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>30 364</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>32 543</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivité à statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivité à statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivité</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>ASSMART</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivités à statut particulier</nomListeOrgane>
+				<labelOrgane>Assemblée de Martinique</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Collectivité à statut particulier/Assemblée de Martinique</qualiteDeclarantForPDF>
+			<dateDebutMandat>02/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>clio</nom>
+				<prenom>fred</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>08/07/1961</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

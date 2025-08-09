@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>13/12/2021 16:28:46</dateDepot>
+		<uuid>ec4aaccc-e466-4afe-93bc-a8b2c53f5ab8</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomEmployeur>AGENCE ANDROMEDE</nomEmployeur>
+					<description>Auto entrepreuneur</description>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin />
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>30 130</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>28 641</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Directeur</description>
+					<employeur>La Pépinière Citoyenne</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>23 070</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>48 740</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>24 500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Professeur suppléant</description>
+					<employeur>Rectorat de Versailles</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7 617</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16 203</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2017</dateDebut>
+					<dateFin>09/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Professeur suppléant</description>
+					<employeur>Direction des services académiques</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1 667</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2017</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Professeur</description>
+					<employeur>Institut Etudes Politiques</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>619</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Ministère Education nationale</employeurConjoint>
+					<activiteProf>Professeur</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items />
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu régional</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>cr</codTypeMandatFichier>
+				<labelTypeMandat>Elu régional</labelTypeMandat>
+				<labelOrgane>Région</labelOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>52</codeOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+				<nomListeOrgane>Régions</nomListeOrgane>
+				<labelOrgane>Pays de la Loire (52)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>Délégué à la culture et au patrimoine</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu régional/Pays de la Loire (52)/Délégué à la culture et au patrimoine</qualiteDeclarantForPDF>
+			<dateDebutMandat>26/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>THEBAULT</nom>
+				<prenom>Alexandre</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>14/12/1984</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

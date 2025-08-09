@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>30/07/2024 11:55:25</dateDepot>
+		<uuid>0ff2b285-f377-44d8-8922-c76a00872837</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>ALLIANZ</employeurConjoint>
+					<activiteProf>Conseiller en assurance et commercial 
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Mandat terminé au 21/06/2022 : nouveau mandat débuté au 22/06/2022</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Députée</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>34 080</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>68 160</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>70 500</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>79 000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>79 000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>39 500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>Députée</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>71 000</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>71 000</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>71 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>60000</evaluation>
+					<remuneration>3000€ Annuels (achat immobilier financé par emprunt bancaire en cours de remboursement jusqu en 2030)</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>50</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>circonscription</commentaire>
+					<nom>Elisabeth Tremblay</nom>
+					<employeur />
+					<descriptionActivite>collaboratrice parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Pétry Frédéric</nom>
+					<employeur>Photojournaliste indépendant Réserviste au sein des Ecoles militaires de Saumur</employeur>
+					<descriptionActivite>collaborateur parlementaire à temps partiel</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Suppléant de la Députée</commentaire>
+					<nom>Algoet Philippe</nom>
+					<employeur />
+					<descriptionActivite>collaborateur parlementaire à temps partiel</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Michel Chatelais</nom>
+					<employeur />
+					<descriptionActivite>Collaborateur à temps partiel</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Pierre-Yves Douet</nom>
+					<employeur>Maire de Louresse-Rochemenier Elu à l'agglomération Saumur Val de Loire Professeur en collège/lycée</employeur>
+					<descriptionActivite>Collaborateur à temps partiel</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Cohidon Ramage Mathilde</nom>
+					<employeur />
+					<descriptionActivite>Collaboratrice à Paris et en circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Député</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>Député</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>49</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Maine-et-Loire(49)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Député/Maine-et-Loire(49)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>saint-paul</nom>
+				<prenom>laetitia</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>21/01/1981</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

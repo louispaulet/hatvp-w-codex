@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>16/12/2021 08:11:14</dateDepot>
+		<uuid>2e5aa451-bfef-48a7-ac9d-759ee38587cc</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>avocat</description>
+					<employeur>entreprise individuelle</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>33 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>avocat</description>
+					<employeur>entreprise individuelle</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>39 401</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>30 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>29 285</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>30 503</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>333 535</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>29 390</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>entreprise individuelle</employeurConjoint>
+					<activiteProf>avocate</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>entreprise individuelle</employeurConjoint>
+					<activiteProf>avocate</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>j ai été élu en février 2021 je ne perçois aucune rémunération</commentaire>
+					<nomStructure>La mission locale sud association loi 1905</nomStructure>
+					<descriptionActivite>formation des jeunes président</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>il s agit d'indemnités cumulées correspondant environ aux fonctions de conseiller municipale et de vice-président de la civis</commentaire>
+					<descriptionMandat>vice-président de la civis</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22 000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>22 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>22 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>22 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22 000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>vice-président de la civis et conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>sci 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>300000</evaluation>
+					<remuneration>15996</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>50</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>sci 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>300000</evaluation>
+					<remuneration>15996</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>50</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>dans ma dernière déclaration j'ai effectué une erreur je n'ai pas 333.535 € de revenus il s'agit du crédit 
+        [Données non publiées]
+     pour financer le prêt de la SCI 
+        [Données non publiées]
+    
+        [Données non publiées]
+     Mes revenus sont de l'ordre de 60.000€, tous revenus confondus. 
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>civis</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>vice-président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/civis/vice-président</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>VON-PINE</nom>
+				<prenom>BERNARD JEAN</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>04/01/1964</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

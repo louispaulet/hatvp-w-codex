@@ -1,0 +1,805 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>29/11/2022 22:08:57</dateDepot>
+		<uuid>015f2310-f5a3-4e60-b8a1-d79a60cbb345</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>TRANSPORTS PUBLICS DE PERSONNES</description>
+					<employeur>SNTA</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>84 921</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>58 363</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>97 377</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>66 722</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>98 271</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>47 776</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>NON REMUNERE</commentaire>
+					<description>CO GERANT</description>
+					<employeur>SCI 
+        [Données non publiées]
+    </employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>NON REMUNERE</commentaire>
+					<description>GERANT</description>
+					<employeur>TRANS HANDI CONSEIL ET INVEST</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>MAIRIE D'EPINAY SUR SEINE</employeurConjoint>
+					<activiteProf>ATTACHE TERRITORIALE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>Association BDF</nomStructure>
+					<descriptionActivite>Organisation spectacles caritatifs telethon</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>CONSEIL DEPARTEMENTAL DU VAL D’OISE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>19 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>19 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19 642</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21 014</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 816</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>MAIRIE ERMONT</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>8 697</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8 697</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8 697</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>8 697</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20 666</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>14 099</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PRESIDENT SANS REMUNERATION</commentaire>
+					<descriptionMandat>VAL PARISIS HABITAT</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>VAL PARISIS AGGLO</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5 096</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13 446</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 599</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>SYNDICAT EMERAUDE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>4 595</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4 595</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>4 595</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4 595</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 449</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 140</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>ARRET DU MANDAT A LA DATE DES ELECTIONS MUNICIPALES</commentaire>
+					<descriptionMandat>SICSEF</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3 580</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3 580</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3 580</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3 580</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 992</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PRESIDENT du 4 MAI 2015 au 20 OCTOBRE 2017. Conseiller départemental délégué au logement et membre du Conseil d'Administration de Val d'Oise Habitat.</commentaire>
+					<nomSociete>OPH VAL D'OISE HABITAT</nomSociete>
+					<activite>CONSEILLER</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>OPH VAL PARISIS HABITAT</nomSociete>
+					<activite>PRESIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SEM AMENAGEMENT DU VAL D'OISE</nomSociete>
+					<activite>MEMBRE DU CONSEIL D'ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Président du Syndicat Jean Jaurès depuis les élections municipales en Mai 2021. Membre du Conseil d'Administration avant cette date.</commentaire>
+					<nomSociete>SYNDICAT INTERCOMMUNAL JEAN JAURES</nomSociete>
+					<activite>PRESIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>INITIACTIVE 95/72</nomSociete>
+					<activite>MEMBRE DU CONSEIL D'ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>RESEAU ENTREPRENDRE 95</nomSociete>
+					<activite>MEMBRE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CONSEIL DE SURVEILLANCE DE L'HOPITAL SIMONE VEIL EAUBONNE</nomSociete>
+					<activite>MEMBRE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PRESIDENT DEPUIS JUILLET 2021</commentaire>
+					<nomSociete>CENTRE DEPARTEMENTAL DE FORMATION ET D'ANIMATIONS SPORTIVES</nomSociete>
+					<activite>VICE PRESIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>MANDAT LIE AU MANDAT DE CONSEILLER DEPARTEMENTAL</commentaire>
+					<nomSociete>MDPH</nomSociete>
+					<activite>MEMBRE</activite>
+					<remuneration />
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>COMITE D'EXPANSION ECONOMIQUE</nomSociete>
+					<activite>MEMBRE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>TRANS HANDI SNTA</nomSociete>
+					<evaluation>12660</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>5</capitalDetenu>
+					<nombreParts>250</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>ACTIF INFERIEUR AU PASSIF</commentaire>
+					<nomSociete>SCI L'
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>40</capitalDetenu>
+					<nombreParts>200</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>95</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Val-d'Oise (95)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>11</organeParent>
+			</organe>
+			<qualiteDeclarant>CONSEILLER DEPARTEMENTAL</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Val-d'Oise (95)/CONSEILLER DEPARTEMENTAL</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>HAQUIN</nom>
+				<prenom>XAVIER</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>18/08/1970</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

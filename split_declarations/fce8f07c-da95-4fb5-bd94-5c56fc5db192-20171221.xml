@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>17/07/2021 17:54:42</dateDepot>
+		<uuid>fce8f07c-da95-4fb5-bd94-5c56fc5db192</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>RESPONSABLE SERVICE CLIENTS</description>
+					<employeur>BREGER</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>20 056</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12 273</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13 833</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14 224</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14 180</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 493</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>01/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>CAFPI</employeurConjoint>
+					<activiteProf>COURTIER EN PRET IMMOBILIER</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>ADJOINTE MAIRE ST BERTHEVIN</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>8 804</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8 189</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7 425</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4 527</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 540</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>680</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>01/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>CONSEILLERE DEPARTEMENTAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12 452</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18 768</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18 566</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10 364</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10 497</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4 404</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2016</dateDebut>
+					<dateFin>03/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>53</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Mayenne (53)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>52</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Elu départemental/Mayenne (53)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>SEGRETAIN</nom>
+				<prenom>CORINNE</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>03/05/1969</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

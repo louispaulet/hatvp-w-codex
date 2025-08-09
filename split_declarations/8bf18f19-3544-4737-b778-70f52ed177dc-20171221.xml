@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>11/10/2021 11:29:43</dateDepot>
+		<uuid>8bf18f19-3544-4737-b778-70f52ed177dc</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>P &amp; O Ferries</employeurConjoint>
+					<activiteProf>Employé de caisse</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Réélection en mars 2020
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Adjoint au Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21 461</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21 500</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>22 013</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21 584</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14 956</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 010</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Vice Président Agglomération</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8 338</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13 089</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16 426</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16 255</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10 811</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 618</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je suis gérant unique d'une SARL exploitant un fonds de commerce de débit de boissons</commentaire>
+					<nomSociete>SARL PELP</nomSociete>
+					<evaluation>150000</evaluation>
+					<remuneration>20000</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Grand Calais terres et mers</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>Vive président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Grand Calais terres et mers/Vive président</qualiteDeclarantForPDF>
+			<dateDebutMandat>12/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Pestre</nom>
+				<prenom>Pascal</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>10/06/1962</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

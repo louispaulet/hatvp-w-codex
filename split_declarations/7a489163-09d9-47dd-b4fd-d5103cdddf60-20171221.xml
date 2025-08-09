@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>31/10/2022 20:58:34</dateDepot>
+		<uuid>7a489163-09d9-47dd-b4fd-d5103cdddf60</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Temps partiel</commentaire>
+					<description>Coordinateur</description>
+					<employeur>CPTS METZ ET ENVIRONS</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2587</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18576</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>16459</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>22 412</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Temps partiel</commentaire>
+					<description>Employé</description>
+					<employeur>SCEA
+        [Données non publiées]
+    </employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18360</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18360</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18720</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18720</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18720</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7800</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>2022 : fin de l'exercice au 31/12/2022</commentaire>
+					<description>Agricultrice</description>
+					<employeur>Entreprise individuelle Anne Stémart</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>8 519</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 445</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>314 457</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2019</dateDebut>
+					<dateFin>11/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Agriculteur</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>ADJOINTE AU MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10 195</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>17 446</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseillère métropolitaine</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 043</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 780</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Association Institut Raymond Mondon</nomSociete>
+					<activite>Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Association Les Amis de Metz-Magny</nomSociete>
+					<activite>Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction non rémunérée</commentaire>
+					<nomSociete>Syndicat mixte de l'Orchestre national de Metz</nomSociete>
+					<activite>Membre du comité syndical</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>11/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction non rémunérée</commentaire>
+					<nomSociete>Villes éducatrices</nomSociete>
+					<activite>Membre du réseau</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>11/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction non rémunérée</commentaire>
+					<nomSociete>Metz en Scènes</nomSociete>
+					<activite>Administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2021</dateDebut>
+					<dateFin>11/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction non rémunérée</commentaire>
+					<nomSociete>SPL METZ METROPOLE MOSELLE CONGRES</nomSociete>
+					<activite>Administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2021</dateDebut>
+					<dateFin>11/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction non témunérée</commentaire>
+					<nomSociete>CAUE Moselle</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin>11/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction non rémunérée</commentaire>
+					<nomSociete>Association mosellane d'enseignement scientifique technique et économique</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin>11/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction non rémunérée</commentaire>
+					<nomSociete>Maison départementale des personnes handicapées</nomSociete>
+					<activite>Membre</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin>11/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>1 part sociale en pleine propriété et 99 en usufruit</commentaire>
+					<nomSociete>SCI
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>2019: 268 euros 2020 : 3547 euros 2021 : 3853 euros</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>3 parts sociales en pleine propriété et 297 en usufruit</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>2019 : 12758 euros 2020 : 12972 euros 2021 : 14458 euros</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>3</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>1 part sociale en plein propriété et 99 en usufruit</commentaire>
+					<nomSociete>SCI
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>2019 : 3148 euros 2020 : 10696 euros 2021 : 12364 euros</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCEA 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>11 parts en pleine propriété et 889 parts en usufruit</commentaire>
+					<nomSociete>Société financière
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>Aucune distribution en 2019, 2020 et 2021</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>11</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>57</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Moselle (57)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>44</organeParent>
+			</organe>
+			<qualiteDeclarant>Vice-présidente</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Moselle (57)/Vice-présidente</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>GRANDJEAN</nom>
+				<prenom>Anne</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>30/09/1969</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

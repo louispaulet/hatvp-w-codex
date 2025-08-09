@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>18/02/2025 14:40:53</dateDepot>
+		<uuid>1228de37-bbf4-4e1f-bbff-69ce1a7f420a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 27)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>400</superficieBati>
+					<superficieNonBati>2.0</superficieNonBati>
+					<dateAcquisition>2007</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Nue-propriété</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>450000</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>750000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 78)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>200</superficieBati>
+					<superficieNonBati>0.2</superficieNonBati>
+					<dateAcquisition>2023</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>575000</prixAcquisition>
+					<prixTravaux>120000</prixTravaux>
+					<valeurVenale>695000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items />
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<denomination>SARL PROSONOR</denomination>
+					<valeurActuelle>0</valeurActuelle>
+					<participation>30.0</participation>
+					<droitReel>Pleine propriété</droitReel>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<denomination>SARL SAXHO</denomination>
+					<valeurActuelle>1950</valeurActuelle>
+					<participation>39.0</participation>
+					<droitReel>Pleine propriété</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items />
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<souscripteur>Bergé Aurore</souscripteur>
+					<etablissement>AXA</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>05/06/2015</dateSouscription>
+					<valeurRachat>6275</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte d'épargne</typeCompte>
+					<etablissement>AXA</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Bergé Aurore</titulaire>
+					<valeur>31748</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Epargne salariale</commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte d'épargne</typeCompte>
+					<etablissement>CIC</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Bergé Aurore</titulaire>
+					<valeur>839</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BNP Paribas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>BERGE Aurore</titulaire>
+					<valeur>46637</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>BNP Paribas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>BERGE Aurore</titulaire>
+					<valeur>853</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>Compte d'épargne</typeCompte>
+					<etablissement>AXA</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>BERGE Aurore</titulaire>
+					<valeur>15585</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items />
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items />
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items />
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items />
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomCreancier>BNP Paribas</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>prêt bien immobilier</nature>
+					<datePassif>07/12/2022</datePassif>
+					<objetDette>
+        [Données non publiées]
+    </objetDette>
+					<montant>650000</montant>
+					<duree>300</duree>
+					<restantDu>389188</restantDu>
+					<mensualite>1729</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<observationPatrimoineDto>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mdefhd23</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère délégué chargé de l'égalité entre les femmes et les hommes et de la lutte contre les discriminations</labelOrgane>
+				<labelDeclaration>Ministre déléguée chargée de l'égalité entre les femmes et les hommes et de la lutte contre les discriminations</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre déléguée chargée de l'égalité entre les femmes et les hommes et de la lutte contre les discriminations</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Néant</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Bergé</nom>
+				<prenom>Aurore</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>13/11/1986</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

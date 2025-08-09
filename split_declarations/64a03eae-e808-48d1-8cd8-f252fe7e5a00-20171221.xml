@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>28/11/2023 10:33:26</dateDepot>
+		<uuid>64a03eae-e808-48d1-8cd8-f252fe7e5a00</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Travailleur non salarié (TNS), les montants s'entendent nets imposables. Le montant pour 2023 n'est pas encore connu.</commentaire>
+					<conservee>true</conservee>
+					<description>Gérante</description>
+					<employeur>A2 Services SARL</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18 291</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>27 714</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>25 871</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>51 828</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>53 308</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>11/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>La rémunération de 2023 ne tient compte que des mois de janvier à octobre inclus.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseillère départementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>30 442</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>30 590</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>30 590</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>30 590</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>31 076</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>28 955</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>2023 ne tient compte que des mois de janvier à octobre inclus.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Sénatrice</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66 834</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67 113</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>67 113</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>67 113</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>68 287</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>58 232</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>03/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Entreprise individuelle au nom de Mme Christine HERZOG.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>A2 SERVICES +</nomSociete>
+					<activite>Gérante</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15 902</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9 025</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9 590</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 480</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>18 510</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Gérante</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SEBL</nomSociete>
+					<activite>Administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2020</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Le montant de la participation financière correspond aux parts détenues 
+        [Données non publiées]
+    .</commentaire>
+					<nomSociete>A2 Services SARL</nomSociete>
+					<evaluation>19920</evaluation>
+					<remuneration>Annuel brut : 67046</remuneration>
+					<capitalDetenu>51</capitalDetenu>
+					<nombreParts>2000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Société créée le 26 octobre 2016. 
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>64627</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>50</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>15020</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>99</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>990</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>99</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>35H pour le Sénat ; 7 H pour la commune de Turquestein-Blancrupt</commentaire>
+					<nom>BIRCKEL Marie</nom>
+					<employeur>Commune de Turquestein-Blancrupt</employeur>
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>HENRY-LABONNE Thérèse</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>THIERY Bruno</nom>
+					<employeur>NEANT</employeur>
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>MEGUERDITCHIAN Jade</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>VITO SOPHIE-CHARLOTTE</nom>
+					<employeur>NEANT</employeur>
+					<descriptionActivite />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>57</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Moselle(57)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Moselle(57)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>HERZOG</nom>
+				<prenom>Christine</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>30/12/1968</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

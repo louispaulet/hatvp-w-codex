@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>06/11/2020 17:27:26</dateDepot>
+		<uuid>3707e19c-f1f3-4f3d-9d40-af480f4a67b4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>non rémunéré</commentaire>
+					<nomStructure>Association à Gestion Sociale
+        [Données non publiées]
+    </nomStructure>
+					<descriptionActivite>membre du conseil d'administration</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les montants 2015 et 2016 sont avec la retenue à la source. Les montants 2017, 2018, 2019, 2020 sont net avant prélèvement à la source.</commentaire>
+					<descriptionMandat>mairie de Puteaux</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>25 974</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28 173</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>41 342</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>40 567</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>40 771</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>40 786</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>De 2015 à 2016, pas 0 euro car retenue à la source était prélevée sur un autre mandat. 2019-2020: montant avant prélèvement FRFE</commentaire>
+					<descriptionMandat>Vice-Président du SICUDEF-GENERIA</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3 905</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3 834</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3 726</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 727</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Montants avant prélèvement à la source</commentaire>
+					<descriptionMandat>Vice-Président du SIGEIF</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6 840</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7 076</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7 167</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7 087</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7 120</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7 118</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Vice-Président de POLD (CASD)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16 432</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17 449</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17 139</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14 232</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15 004</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>A date de la déclaration, les indemnités de Vice-Président n'ont pas été délibérées.</commentaire>
+					<descriptionMandat>Vice-Présidente du SIPPEREC</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Activité non rémunérée</commentaire>
+					<descriptionMandat>Membre du Conseil d'Administration du Forum Métropolitain</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Activité non rémunérée</commentaire>
+					<nomSociete>Centre communal d'action Sociale de Puteaux</nomSociete>
+					<activite>Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Activité non rémunérée</commentaire>
+					<nomSociete>Office Public de l'Habitat de Puteaux</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Activité non rémunérée</commentaire>
+					<nomSociete>Paris la Défense (DEFACTO)</nomSociete>
+					<activite>1ère Vice-Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>92062</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Puteaux (92)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Puteaux (92)</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/03/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>CECCALDI RAYNAUD</nom>
+				<prenom>Joelle</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>09/02/1951</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

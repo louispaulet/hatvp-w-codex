@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>26/08/2020 12:30:42</dateDepot>
+		<uuid>1c8e5085-fe21-49ee-b46d-e1bde43c8b0c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>pour 2020 cumul à fin juilletavancement d'échelon fin 2018</commentaire>
+					<description>Fonctionnaire territorial</description>
+					<employeur>mairie Champigny sur Marne</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>42200</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>42437</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>43655</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>46779</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>47369</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>58559</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>34629</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>retraitée</employeurConjoint>
+					<activiteProf>NEANT</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>brut, avant cotisations retenues à la source et déductions frais d'emploi2020 mois d'aout inclus</commentaire>
+					<descriptionMandat>Vice president CAPVM</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28695</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>29711</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>29726</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>29870</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>19913</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Brut avant cotisations, impôts, frais d'emploi2020 jusque fin juillet</commentaire>
+					<descriptionMandat>adjoint au Maire Champs sur Marne</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>14055</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18740</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18740</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18967</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18967</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18967</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10633</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>en tant que délégué de la CAPVM</commentaire>
+					<nomSociete>3 moulins Habitat</nomSociete>
+					<activite>Societé HLM</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>membre du directoire pour représenter mon agglomérationfonction gratuite</commentaire>
+					<nomSociete>coop access</nomSociete>
+					<activite>accession sociale</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Communauté AGGLOMERATION PARIS VALLEE DE LA MARNE</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Vice president avec délégation</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Communauté AGGLOMERATION PARIS VALLEE DE LA MARNE/Vice president avec délégation</qualiteDeclarantForPDF>
+			<dateDebutMandat>06/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Michel</nom>
+				<prenom>BOUGLOUAN</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>16/07/1960</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

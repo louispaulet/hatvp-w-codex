@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>20/01/2025 23:05:50</dateDepot>
+		<uuid>3aceac39-ae23-44b6-a7ad-c8917483fdb5</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 75)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>210</superficieBati>
+					<superficieNonBati>0.02</superficieNonBati>
+					<dateAcquisition>2022</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>1257500</prixAcquisition>
+					<prixTravaux>125000</prixTravaux>
+					<valeurVenale>1160000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 91)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>400</superficieBati>
+					<superficieNonBati>13.2</superficieNonBati>
+					<dateAcquisition>2017</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>291000</prixAcquisition>
+					<prixTravaux>105000</prixTravaux>
+					<valeurVenale>350000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items />
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items />
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items />
+			<neant>true</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Caisse d'Epargne</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>de Montchalin Amélie et 
+        [Données non publiées]
+    </titulaire>
+					<valeur>4072</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>Caisse d'Epargne</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Amélie de Montchalin</titulaire>
+					<valeur>24289</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>Caisse d'Epargne</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Amélie de Montchalin</titulaire>
+					<valeur>12000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items />
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items />
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items />
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items />
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items />
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomCreancier>Caisse d'Epargne</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>Emprunt immobilier
+        [Données non publiées]
+    </nature>
+					<datePassif>15/11/2017</datePassif>
+					<objetDette>
+        [Données non publiées]
+    </objetDette>
+					<montant>275000</montant>
+					<duree>300</duree>
+					<restantDu>207656</restantDu>
+					<mensualite>1074</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomCreancier>Caisse d'Epargne</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>Emprunt travaux 
+        [Données non publiées]
+    </nature>
+					<datePassif>15/11/2017</datePassif>
+					<objetDette>
+        [Données non publiées]
+    </objetDette>
+					<montant>105000</montant>
+					<duree>180</duree>
+					<restantDu>63162</restantDu>
+					<mensualite>646</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomCreancier>Caisse d'Epargne</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>Emprunt immobilier 
+        [Données non publiées]
+    </nature>
+					<datePassif>11/04/2022</datePassif>
+					<objetDette>
+        [Données non publiées]
+    </objetDette>
+					<montant>1025000</montant>
+					<duree>300</duree>
+					<restantDu>936823</restantDu>
+					<mensualite>4004</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items />
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items />
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items />
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mefsincp24</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère auprès du ministre de l'économie des finances et de la souveraineté industrielle et numérique chargé des comptes publics</labelOrgane>
+				<labelDeclaration>Ministre chargée des comptes publics</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre chargée des comptes publics</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Participation aux acquêts</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>de Montchalin</nom>
+				<prenom>Amélie</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>19/06/1985</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

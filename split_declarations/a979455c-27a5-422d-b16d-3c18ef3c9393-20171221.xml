@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>02/10/2020 21:20:37</dateDepot>
+		<uuid>a979455c-27a5-422d-b16d-3c18ef3c9393</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>un peu plus de 2600 nets par mois puis ensuite autour de 2750 euros par mois</commentaire>
+					<description>Collaborateur d'élu - Chargé de mission</description>
+					<employeur>Groupe Socialiste &amp; Apparentés - Mairie de Paris</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>32000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>33000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>33000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>03/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Assistant parlementaire de Mme Annick Lepetit en circonscription, 1500 euros net par mois.</commentaire>
+					<description>Collaborateur parlementaire</description>
+					<employeur>ANNICK LEPETIT - Assemblée nationale</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>23846</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>23846</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>01/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>3230 euros nets mensuel</commentaire>
+					<description>Secrétaire Général Adjoint</description>
+					<employeur>Groupe Socialiste &amp; Apparentés - Mairie de Paris</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>49692</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>49692</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2018</dateDebut>
+					<dateFin>01/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>3230 euros nets mensuel, même salaire que lorsque j'occupais la fonction de Secrétaire général du groupe socialiste &amp; apparentés</commentaire>
+					<description>Conseiller technique en charge de l'organisation et du fonctionnement du Conseil de Paris</description>
+					<employeur>Cabinet Patrick BLOCHE Adjoint à la Maire de Paris en charge du Conseil de Paris</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>49692</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>49692</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>02/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe />
+			<qualiteDeclarant>Conseiller de Paris délégué au Sport de proximité</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Conseiller de Paris délégué au Sport de proximité</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ZIADY</nom>
+				<prenom>KARIM</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>09/05/1989</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

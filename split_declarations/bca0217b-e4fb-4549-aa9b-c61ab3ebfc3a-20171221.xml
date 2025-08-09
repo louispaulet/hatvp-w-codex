@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>21/01/2021 19:47:32</dateDepot>
+		<uuid>bca0217b-e4fb-4549-aa9b-c61ab3ebfc3a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Gérante de société</description>
+					<employeur>pcm teari</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>36846</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>39260</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>103669</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>135402</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>142460</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>116900</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>33520</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2013</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>PCM TEARI</employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PCM TEARI</nomSociete>
+					<evaluation>4106</evaluation>
+					<remuneration>116900</remuneration>
+					<capitalDetenu>49</capitalDetenu>
+					<nombreParts>49</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivité à statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivité à statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivité</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>ASSNC</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivités à statut particulier</nomListeOrgane>
+				<labelOrgane>Assemblée de Province de Nouvelle-Calédonie</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Collectivité à statut particulier/Assemblée de Province de Nouvelle-Calédonie</qualiteDeclarantForPDF>
+			<dateDebutMandat>12/05/2019</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>MONTAGNAT</nom>
+				<prenom>PASCALE</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>03/05/1980</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

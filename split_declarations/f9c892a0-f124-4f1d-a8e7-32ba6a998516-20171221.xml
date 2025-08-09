@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>21/08/2020 09:53:27</dateDepot>
+		<uuid>f9c892a0-f124-4f1d-a8e7-32ba6a998516</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>S
+        [Données non publiées]
+    </commentaire>
+					<description>Rédacteur Territoriale</description>
+					<employeur>GRENOBLE ALPES METROPE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2417631</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24752</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>24752</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>27297</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>31480</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>OT Engenery</employeurConjoint>
+					<activiteProf>Responsable Achats et parc matériel</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>Maison de la Culture Arménienne de Grenoble et du Dauphiné</nomStructure>
+					<descriptionActivite>Membre du CA</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseillière municipale à l'opposition</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>3240</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>3240</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3240</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3240</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3240</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3240</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1620</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>38185</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Grenoble (38)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Adjoint titulaire d'une délégation (commune de + 100000 hab)</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Grenoble (38)/Adjoint titulaire d'une délégation (commune de + 100000 hab)</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>AGOBIAN</nom>
+				<prenom>Anouche</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>01/10/1969</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

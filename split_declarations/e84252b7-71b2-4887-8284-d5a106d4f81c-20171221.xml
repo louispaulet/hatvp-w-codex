@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>24/05/2025 18:51:24</dateDepot>
+		<uuid>e84252b7-71b2-4887-8284-d5a106d4f81c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Conseiller</description>
+					<employeur>Ministère du travail</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>140 175</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>86 224</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Conseiller</description>
+					<employeur>Premier Ministre</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>47 658</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>133 429</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>42 203</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2020</dateDebut>
+					<dateFin>05/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Ministre délégué chargé de l'industrie</description>
+					<employeur>Ministère de l'économie et des finances</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>23 715</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2024</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Caisse des dépôts et consignations</employeurConjoint>
+					<activiteProf>Directrice 
+        [Données non publiées]
+     adjointe</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Député</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>38 342</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 698</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>43 491</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Icare Finance</nomSociete>
+					<evaluation>22670940</evaluation>
+					<remuneration>Néant</remuneration>
+					<capitalDetenu>35</capitalDetenu>
+					<nombreParts>6049</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>15</evaluation>
+					<remuneration>Néant</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mindus23</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère délégué chargé de l'industrie</labelOrgane>
+				<labelDeclaration>Ministre délégué chargé de l'industrie</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre délégué chargé de l'industrie</qualiteDeclarantForPDF>
+			<dateDebutMandat />
+			<dateFinMandat>23/12/2024</dateFinMandat>
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Ferracci</nom>
+				<prenom>Marc</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>19/12/1977</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

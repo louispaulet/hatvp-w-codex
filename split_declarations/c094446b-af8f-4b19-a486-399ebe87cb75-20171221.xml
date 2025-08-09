@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>12/11/2023 13:33:31</dateDepot>
+		<uuid>c094446b-af8f-4b19-a486-399ebe87cb75</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>assistant socio éducatif</description>
+					<employeur>conseil départemental du Nord</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21 481</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21 761</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>22 328</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5 192</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>04/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>neant</employeurConjoint>
+					<activiteProf>retraité</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>association des maires ruraux du nord</nomStructure>
+					<descriptionActivite>secrétaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomStructure>fédération des non inscrits du nord</nomStructure>
+					<descriptionActivite>secrétaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomStructure>association brouckerquoise de coordination</nomStructure>
+					<descriptionActivite>présidente</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>conseillère régionale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8 880</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>18 201</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>15 501</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>communaute de communes des hauts de flandres</nomSociete>
+					<activite>vice presidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18 045</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14 500</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>15 034</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>14 838</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>12 278</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>sivom des rives de l'aa et de la colme</nomSociete>
+					<activite>vice presidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3 451</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 874</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 874</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2 975</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>2 458</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>mairie</nomSociete>
+					<activite>maire</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15 895</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15 895</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>15 895</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>16 451</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>13 915</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>sci 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>10</evaluation>
+					<remuneration>118,30</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>sci 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>10</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>reichard fabien</nom>
+					<employeur>wattebled dany sénateur</employeur>
+					<descriptionActivite>collaborateur parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>dumaine sylvie</nom>
+					<employeur>université</employeur>
+					<descriptionActivite>vacation</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>59</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Nord(59)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Nord(59)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/10/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>lermytte</nom>
+				<prenom>marie claude</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>04/06/1965</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>26/11/2020 18:05:46</dateDepot>
+		<uuid>01743d3c-d4db-4554-b254-e21fdac17be9</uuid>
+		<origine>ADEL Access</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>cessation 31/12/2017</commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>SASU AA CONSEIL</nomEmployeur>
+					<description>mission</description>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2017</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>9747</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>en retraite
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>hopital 
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>IDE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>maire depuis 2008 mairie le mesnil amelot President syndicat (SIEP) dissout a ce jour vice president d'epci 2008 a ce jour</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>33195</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>35126</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>35126</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>22895</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>25448</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>24766</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entrée dans le patrimoine</label>
+					</motif>
+					<commentaire />
+					<contenu>mandats electifs maire de 2008 a ce jour vice president depuis 2008 à 2013 CCPMF 12/2013 à 03/2016 CCPMF 04:2016 à ce jour CARPF</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>communauté d'agglomération Roissy Pays de France</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>vice-président </qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/communauté d'agglomération Roissy Pays de France/vice-président </qualiteDeclarantForPDF>
+			<dateDebutMandat>11/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Aubry</nom>
+				<prenom>Alain</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>06/04/1964</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>20/12/2020 12:57:33</dateDepot>
+		<uuid>38f29394-863f-4493-96c1-d42ee921f31e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Sans emploi aujourd'hui
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Ce sont montants bruts impôts 2015 Cons. metrop 7447 euros brut impôts Adjointe 26398 bruts impôts Députée 52878 cumul imposable 2016 cons métrop 10603 Adjointe 26478 Députée 52690 2017. Cons metrop 12029 Adjointe 26730 Députée 29262 2018. Cons métropole 13005 Adjointe 26879 2019. Cons métropole 13068 Adjointe 27009 2020 cons métropole 13404 Adjointe 25492</commentaire>
+					<descriptionMandat>adjointe au maire, conseillère métropolitaine et député entre 2014 et 2017</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>57 908</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>89 781</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>89 771</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>68 021</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>39 884</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>40 077</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>38 896</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>La société DOMATELLE est un loueur en meublé non professionnel. 
+        [Données non publiées]
+     Madame Laurence ARRIBAGE détient 1 part sur les 500 parts composant le capital de la société. Madame Laurence ARRIBAGE ne perçoit aucune rémunération dans cette société.</commentaire>
+					<nomSociete>DOMATELLE</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>La société DOMATELLE est un loueur en meublé non professionnel. 
+        [Données non publiées]
+    dont Madame Laurence ARRIBAGE détient 1 part sur les 500 parts composant le capital de la société. Madame Laurence ARRIBAGE ne perçoit aucune rémunération dans cette société.</commentaire>
+					<nomSociete>DOMATELLE</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>31555</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Toulouse (31)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>31</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Toulouse (31)</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>arribage</nom>
+				<prenom>laurence</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>25/05/1970</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

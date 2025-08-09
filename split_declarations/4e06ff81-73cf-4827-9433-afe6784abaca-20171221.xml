@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>01/09/2020 20:36:16</dateDepot>
+		<uuid>4e06ff81-73cf-4827-9433-afe6784abaca</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Directeur et manager de point de vente</description>
+					<employeur>MANGO</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22031</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24035</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>26446</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Chargé de communication</description>
+					<employeur>Direction régionale et départementale, de la jeunesse des sports et de la cohésion sociale, du centre-val de Loire et du Loiret</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>4855</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9857</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2018</dateDebut>
+					<dateFin>08/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Chargé de communication, d'événementiel et de la vie associative</description>
+					<employeur>Mairie de Saint-Denis-de-L'Hôtel</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10006</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2020</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Orléans Métropole</employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>L'association a son siège à Châteauneuf sur Loire (ville située à 30 km d'Orléans). Elle intervient dans tout le département du Loiret.</commentaire>
+					<nomStructure>Orléans Beatbox</nomStructure>
+					<descriptionActivite>ORLEANS BEATBOX est une association créée le 9 Juin 2018 et enregistrée auprès du Registre National des Associations. L'association a pour but de favoriser et de promouvoir le Beatbox à travers différents types d’actions, tels que les ateliers d’enseignement, la création multiculturelle, les concerts ou encore les démonstrations publiques. Responsabilité exercée : secrétaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items />
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>45234</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Orléans (45)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Adjoint délégué à la jeunesse et au numérique</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Orléans (45)/Adjoint délégué à la jeunesse et au numérique</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>DEFOSSEZ</nom>
+				<prenom>QUENTIN</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>08/11/1987</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>22/11/2020 18:11:42</dateDepot>
+		<uuid>9a9e5760-2ffc-47b9-af7c-83544cca200b</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Ces rémunérations ne sont pas à cumuler avec la rubrique 3. En complément: distribution annuelle de dividendes en fonction de la décision de l'assemblée générale annuelle qui approuve les comptes .</commentaire>
+					<conservee>false</conservee>
+					<description>expert comptable et commissaire aux comptes</description>
+					<employeur>ALTEXA LE MANS</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>60000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>60000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>68 400</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>68 400</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Néant</employeurConjoint>
+					<activiteProf>Maire
+        [Données non publiées]
+    et Vice Présidente de la communauté de communes
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fin de fonction au 29 septembre 2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>MAIRE DE BONNETABLE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>19159</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16014</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12094</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fin de fonction au 28/09/2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Président du SDIS de la SARTHE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>13685</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13726</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>10444</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fin de fonction au 29/09/2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Président du conseil de surveillance de l'hopital local de BONNETABLE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Ces rémunérations ne sont pas à cumuler avec la rubrique 1. En complément : distribution annuelle de dividendes en fonction de la décision de l'assemblée générale annuelle qui approuve les comptes .</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>ALTEXA LE MANS</nomSociete>
+					<activite>Directeur général délégué</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>60000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>60000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>68 400</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>68 400</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Distribution de dividendes en fonction de la décision lors de l'assemblée générale annuelle</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SASU cabinet JP VOGEL LE MANS</nomSociete>
+					<activite>Président non rémunéré</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Données non publiées]
+    ,SCI 
+        [Données non publiées]
+    ,SARL PHV,</nomSociete>
+					<activite>Co-Gèrant non rémunéré</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>GFA 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Gèrant non rémunéré</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>L'évaluation est faite au 1/1/2020</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>88110</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>26</capitalDetenu>
+					<nombreParts>660</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>L'évaluation est faite au 1/1/2020</commentaire>
+					<nomSociete>GFA 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>7500</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>96</capitalDetenu>
+					<nombreParts>87</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pas de rémunération mais versement de dividendes annuels en fonction du résultat. L'évaluation est faite au 31/01/2020</commentaire>
+					<nomSociete>SASU Cabinet JP VOGEL LE MANS</nomSociete>
+					<evaluation>600000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>10</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Distribution annuelle de dividendes selon décision de l'assemblée générale annuelle qui approuve les comptes. L'évaluation est faite au 30/06/2019.</commentaire>
+					<nomSociete>SA ALTEXA LE MANS</nomSociete>
+					<evaluation>373520</evaluation>
+					<remuneration>voir rubrique 1 et 3 ( non cumulatives )</remuneration>
+					<capitalDetenu>9</capitalDetenu>
+					<nombreParts>92</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Distribution annuelle de dividendes selon décision de l'assemblée générale annuelle qui approuve les comptes</commentaire>
+					<nomSociete>SARL Panorama de la haute venelle LE MANS</nomSociete>
+					<evaluation>257000</evaluation>
+					<remuneration>NEANT</remuneration>
+					<capitalDetenu>16</capitalDetenu>
+					<nombreParts>100</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>MARCHAND Christine</nom>
+					<employeur>AGAP</employeur>
+					<descriptionActivite>assistante parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Temps partiel</commentaire>
+					<nom>ALBAGLI Chantal</nom>
+					<employeur>AGAP</employeur>
+					<descriptionActivite>Assistante parlementaire à temps partiel</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>THERON laurie</nom>
+					<employeur>AGAP</employeur>
+					<descriptionActivite>assistante parlementaire à temps partiel recherche documentation veille juridique</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>72</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Sarthe(72)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Sarthe(72)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>vogel</nom>
+				<prenom>jean pierre</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>07/08/1956</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

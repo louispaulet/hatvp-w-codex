@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>03/09/2021 09:05:46</dateDepot>
+		<uuid>14f5cb01-4953-41aa-a5c9-4abf1c4fb824</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>BULLETIN SALAIRE DEPARTEMENT.pdf</fileName>
+				<serverFileName>14f5cb01-4953-41aa-a5c9-4abf1c4fb824_pj01</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>BULLETIN SALAIRE MAIRIE.pdf</fileName>
+				<serverFileName>14f5cb01-4953-41aa-a5c9-4abf1c4fb824_pj02</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>EN COURS Indemnités de fonction les montants des années 2020, 2019 et 2016 sont des montants bruts 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>1er adjoint au maire de Saint Cyr Sur Mer</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15 681</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15 728</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11 295</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13 399</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>16 043</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14 761</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7 672</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>EN COURS. Par arrêté n°2020-1314 du 7 décembre 2020 j'ai reçu délégation d'une partie des fonctions du Président du Conseil départemental en ma qualité de Vice Présidente.</commentaire>
+					<descriptionMandat>Vice Présidente avec délégation</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>25 641</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>34 331</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>34 764</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>33 687</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>25 965</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>25 592</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>17 296</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    perçoit à ce titre des bénéfices agricoles</commentaire>
+					<nomSociete>SCEA 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>313920</evaluation>
+					<remuneration>1636 €</remuneration>
+					<capitalDetenu>36</capitalDetenu>
+					<nombreParts>7750</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>83</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Var (83)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>93</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Elu départemental/Var (83)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Samat</nom>
+				<prenom>Andrée</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>07/08/1950</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

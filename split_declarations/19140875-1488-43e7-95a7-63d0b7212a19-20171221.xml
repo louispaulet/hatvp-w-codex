@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>25/06/2021 13:29:08</dateDepot>
+		<uuid>19140875-1488-43e7-95a7-63d0b7212a19</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>benefices cabinet dentaire</commentaire>
+					<description>chirurgien dentiste</description>
+					<employeur>nicolas zuili</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>112 459</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>112 534</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>125 907</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>145 511</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>165 731</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>120 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>UNION DENTAIRE</nomStructure>
+					<descriptionActivite>syndicat de chirurgiens dentistes. secrétaire régional Normamdie</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>URPS CHIRURGIENS DENTISTES</nomStructure>
+					<descriptionActivite>Vice President URPS Normandie</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction non rémunérée</commentaire>
+					<nomSociete>SEM ROUEN PARK</nomSociete>
+					<activite>Gestion de parking</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>fonction non rémunérée</commentaire>
+					<nomSociete>SPL ROUEN NORMANDIE</nomSociete>
+					<activite>Gestion de parkings</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>fonction non rémunérée</commentaire>
+					<nomSociete>ROUEN EXPO EVENEMENTS</nomSociete>
+					<activite>GESTION PARC DES EXPOSITIONS</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction non rémunérée depuis la création de la SCI le 06/12/2002</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>location d'immeubles</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>SCI FAMILIALE</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>320000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>149</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRE</commentaire>
+					<nomSociete>ADOCIA</nomSociete>
+					<evaluation>871</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRE</commentaire>
+					<nomSociete>CRCAM NORMANDIE</nomSociete>
+					<evaluation>3329</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>30</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRE
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>CREDIT AGRICOLE</nomSociete>
+					<evaluation>8443</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>712</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRE 
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>EDF</nomSociete>
+					<evaluation>15840</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>1378</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRE</commentaire>
+					<nomSociete>ELECTRICITE DE STRASBOURG</nomSociete>
+					<evaluation>6720</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>60</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRES</commentaire>
+					<nomSociete>ELIOR GROUPE</nomSociete>
+					<evaluation>735</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>110</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRES</commentaire>
+					<nomSociete>FAURECIA</nomSociete>
+					<evaluation>347</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRES</commentaire>
+					<nomSociete>ORANGE</nomSociete>
+					<evaluation>2875</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>300</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRES
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SOCIETE GENERALE</nomSociete>
+					<evaluation>10182</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>404</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRES</commentaire>
+					<nomSociete>STELLANTIS</nomSociete>
+					<evaluation>8880</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>522</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRES</commentaire>
+					<nomSociete>SUEZ</nomSociete>
+					<evaluation>8000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>400</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRES 
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>TF1</nomSociete>
+					<evaluation>23397</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>2750</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>BNP COMPTE TITRES</commentaire>
+					<nomSociete>TOTAL GABON</nomSociete>
+					<evaluation>2840</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>20</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PEA CDN</commentaire>
+					<nomSociete>AIR FRANCE KLM</nomSociete>
+					<evaluation>915</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>210</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PEA CDN</commentaire>
+					<nomSociete>CARREFOUR</nomSociete>
+					<evaluation>2390</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>140</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PEA CDN 
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>ENGIE</nomSociete>
+					<evaluation>10515</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>900</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PEA CDN</commentaire>
+					<nomSociete>INNATE PHARMA</nomSociete>
+					<evaluation>251</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>86</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PEA CDN 
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>NOKIA</nomSociete>
+					<evaluation>6733</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>1560</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PEA CDN</commentaire>
+					<nomSociete>SOLOCAL</nomSociete>
+					<evaluation>16</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>9</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PEA CDN 
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>TOTAL ENERGIES</nomSociete>
+					<evaluation>12460</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>310</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>PEA CDN</commentaire>
+					<nomSociete>VALLOUREC</nomSociete>
+					<evaluation>476</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>53</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>COMPTE TITRE CDN</commentaire>
+					<nomSociete>AXA</nomSociete>
+					<evaluation>2173</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>COMPTE TITRES CDN</commentaire>
+					<nomSociete>BNP PARIBAS</nomSociete>
+					<evaluation>10820</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>200</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>COMPTE TITRE CDN</commentaire>
+					<nomSociete>RENAULT</nomSociete>
+					<evaluation>7073</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>200</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>COMPTE TITRES CDN</commentaire>
+					<nomSociete>SAINT GOBAIN</nomSociete>
+					<evaluation>11238</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>200</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>COMPTE TITRES CDN</commentaire>
+					<nomSociete>UNIBAIL RODAMCO</nomSociete>
+					<evaluation>7991</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>100</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>76540</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Rouen (76)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>76</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Rouen (76)</qualiteDeclarantForPDF>
+			<dateDebutMandat>10/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>zuili</nom>
+				<prenom>nicolas</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>08/03/1965</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

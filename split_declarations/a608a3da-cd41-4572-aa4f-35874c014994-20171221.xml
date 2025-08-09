@@ -1,0 +1,938 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>02/12/2023 11:54:56</dateDepot>
+		<uuid>a608a3da-cd41-4572-aa4f-35874c014994</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<description>Professeure des école</description>
+					<employeur>Ministère de l'Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22606</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>22053</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21483</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>23 473</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>23 450</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>24 584</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>22 800</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>22 364</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>17 481</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>09/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Réseau ecoles montessori 
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Directeur du développement et Président 
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>J'ai quitté mes fonctions éxécutives à compter du mois d'octobre 2023 et ai conservé une fonction de Conseillère de Paris simple. Mes indemnités sont dorénavant écrêtées.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseillère de Paris</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>4 677</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2023</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Entre 2018 et 2019 Ce chiffre augmente car en 2019 l'indemnité de Conseillère de Paris et l'indemnité d'Adjointe ont été fusionnées sur le même bulletin d'indemnité.</commentaire>
+					<descriptionMandat>Adjointe à la Mairie de Paris</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4 958</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24 552</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>53 796</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>51 002</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>52 034</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>49 002</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>42 102</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Conseillère Métropolitaine</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 084</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 758</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>9 253</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>7 819</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>Sénatrice</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>5 527</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2023</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>fonction liée à mon mandat de conseillère de Paris</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SYCTOM</nomSociete>
+					<activite>Vice présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7235</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7235</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7235</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7608</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7716</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3858</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>Théatre de la ville</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomSociete>conseil de surveillance de l'AP HP</nomSociete>
+					<activite>vice présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Groupe Universitaire Paris-psychiatrieet neuroscience GHU</nomSociete>
+					<activite>Membre du Conseil de Surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Association Centre régional de coordination des dépistages des cancers de la région Ile de France CRCDC-IDF</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2019</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Syndicat Mixte du Versant de la Bièvre</nomSociete>
+					<activite>Vice-Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Commission Locale de l'Eau du SAGE Bièvre</nomSociete>
+					<activite>Vice-Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Conférence Régionale de la Santé et de l'Autonomie d'Ile de France</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2022</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Centre Action Sociale de la Ville de Paris</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Fondation des Hopitaux de Paris</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Fédération Hospitalière de France</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Fondation PREMUP</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Institut Imagine</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>CAREL</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2020</dateDebut>
+					<dateFin>07/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>CAREL</nomSociete>
+					<activite>Vice-Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>3 885</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2023</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>société familiale.
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>GFA 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>12224</evaluation>
+					<remuneration>284</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>13</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire />
+					<nomSociete>GECINA</nomSociete>
+					<evaluation>5383</evaluation>
+					<remuneration>100,18 (avril, mai, juin)</remuneration>
+					<capitalDetenu />
+					<nombreParts>54</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire />
+					<nomSociete>AXA</nomSociete>
+					<evaluation>36190</evaluation>
+					<remuneration>1517,25 (annuel)</remuneration>
+					<capitalDetenu />
+					<nombreParts>1275</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire />
+					<nomSociete>AIR LIQUIDE</nomSociete>
+					<evaluation>79851</evaluation>
+					<remuneration>968,48 (annuel en mai)</remuneration>
+					<capitalDetenu />
+					<nombreParts>469</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire />
+					<nomSociete>ENGIE</nomSociete>
+					<evaluation>5896</evaluation>
+					<remuneration>370,45 (annuel)</remuneration>
+					<capitalDetenu />
+					<nombreParts>378</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>PEA BANQUE POSTALE</nomSociete>
+					<evaluation>5527</evaluation>
+					<remuneration>- 239,73 en 2023</remuneration>
+					<capitalDetenu />
+					<nombreParts>0</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Monsieur Royer Noé n'a aucun emploi en dehors de ses fonctions de collaborateur parlementaire à mes cotés.</commentaire>
+					<nom>ROYER NOE</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Lucine Sarkissian est à 60 % car elle poursuit ses études de médecine.</commentaire>
+					<nom>SARKISSIAN Lucine</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Jean-Baptiste Lachenal travaille comme Noé Royer à plein à mes côtés.</commentaire>
+					<nom>LACHENAL Jean-Baptiste</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Paris(75)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Paris(75)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Souyris</nom>
+				<prenom>Anne</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>29/08/1964</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

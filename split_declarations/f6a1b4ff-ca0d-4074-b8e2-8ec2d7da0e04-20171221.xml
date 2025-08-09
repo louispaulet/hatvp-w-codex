@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>03/09/2020 00:05:08</dateDepot>
+		<uuid>f6a1b4ff-ca0d-4074-b8e2-8ec2d7da0e04</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>2020 arrêté à août , dernier salaire connu à la date de déclaration. Montants exprimés en imposables nets tels que mentionnés dans les bulletins de salaire, incluant les charges sociales non déductibles</commentaire>
+					<description>directeur adjoint</description>
+					<employeur>CHU de BORDEAUX</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>68530</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>65483</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>68726</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>76369</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>77544</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>82430</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>62018</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Bordeaux Métropole</employeurConjoint>
+					<activiteProf>directrice
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>montants arrêtés à juin 2020, montants exprimés en montants nets imposables comprenant les charges sociales non déductibles</commentaire>
+					<descriptionMandat>maire de Pessac et vice-président de Bordeaux Métropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>67500</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>67548</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>67004</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>62785</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>63070</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>31404</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>mandat en cours</commentaire>
+					<nomSociete>Pessac Avenir</nomSociete>
+					<activite>président de parti politique</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>33318</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Pessac (33)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>maire de Pessac</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Pessac (33)/maire de Pessac</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>RAYNAL</nom>
+				<prenom>Franck</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>17/11/1971</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

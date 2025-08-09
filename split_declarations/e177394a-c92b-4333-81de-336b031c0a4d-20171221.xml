@@ -1,0 +1,1626 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>16/08/2021 18:17:46</dateDepot>
+		<uuid>e177394a-c92b-4333-81de-336b031c0a4d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>EAP_CD_Fonctions.pdf</fileName>
+				<serverFileName>e177394a-c92b-4333-81de-336b031c0a4d_pj01</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>EAP_CD.pdf</fileName>
+				<serverFileName>e177394a-c92b-4333-81de-336b031c0a4d_pj02</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>EAP_Fonctions_Mandats.pdf</fileName>
+				<serverFileName>e177394a-c92b-4333-81de-336b031c0a4d_pj03</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>EAP_Mairie.pdf</fileName>
+				<serverFileName>e177394a-c92b-4333-81de-336b031c0a4d_pj04</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>EAP_CCTA.pdf</fileName>
+				<serverFileName>e177394a-c92b-4333-81de-336b031c0a4d_pj05</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>EAP_SESAM.pdf</fileName>
+				<serverFileName>e177394a-c92b-4333-81de-336b031c0a4d_pj06</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>EAP_PETR.pdf</fileName>
+				<serverFileName>e177394a-c92b-4333-81de-336b031c0a4d_pj07</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>EAP_BNP_PEA.pdf</fileName>
+				<serverFileName>e177394a-c92b-4333-81de-336b031c0a4d_pj08</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>RETRAITE</commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>NEANT</employeurConjoint>
+					<activiteProf>NEANT</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pour 2016, le montant n'est pas chiffrable, mais inclus dans les 49494.00€ provenant de toutes les indemnités imposables 2016 fourni par le Conseil Départemental. Pour 2021, c'est le montant au 31 juillet 2021. 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Conseiller départemental vice président</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33 326</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>32 979</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24 622</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>23 527</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 736</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pour 2016, le montant n'est pas chiffrable, mais inclus dans les 49494.00€ provenant de toutes les indemnités imposables 2016 fourni par le Conseil Départemental. Pour 2021, c'est le montant au 31 juillet 2021. 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>10 470</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>10 363</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7 747</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8 592</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 284</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Présidente: 01/01/2017 au 31/07/2020. Vice-Présidente: depuis 01/08/2020. 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Communauté de Commmunes Terres d'Auxois, Vice présidente</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>14 531</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>14 572</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10 751</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7 649</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 024</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Vice présidente: 01/01/2016 à 31/07/2020. Présidente: depuis 01/08/2020. Pour 2016, le montant n'est pas chiffrable, mais inclus dans les 49494.00€ provenant de toutes les indemnités imposables 2016 fourni par le Conseil Départemental. Pour 2021, c'est le montant au 31 juillet 2021.
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>SYNDICAT DES EAUX ET SERVIVCES AUXOIS MORVAN (SESAM), Présidente</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3 420</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3 400</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 938</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5 514</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4 182</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Vice présidente: 01/01/2016 au 30/09/2016 Membre Assemblée: depuis le 01/10/2016. Pour 2016, le montant n'est pas chiffrable, mais inclus dans les 49494.00€ provenant de toutes les indemnités imposables 2016 fourni par le Conseil Départemental. 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>PETR (Syndicat mixte de pays auxois morvan côte d'orien</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>09/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Collège Christiane Perceret 8 rue du lycée 21140 Semur en Auxois Voir fichiers joints: EAP_Fonctions_Mandats.PDF</commentaire>
+					<descriptionMandat>Membre du Conseil d'Administration dans le cadre du mandat électif</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Collège Christiane Perceret 8 rue du lycée 21140 Semur en Auxois 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre de la Commission Permanente dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Collège François Pompon 15 rue du collège 21210 Saulieu 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Collège Docteur Kuhn 19 rue de l'hôtel de ville 21350 Vitteaux 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Collège privé Saint Joseph 7 rue jean Jacques Collenot 21140 Semur en Auxois 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Collège Louis Pasteur 10 rue Jean Rostand 21500 Montbard 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Suppléant au Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Collège Jacques Mercuzot Rue Ferdinand Mercuzot 21540 Sombernon 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Suppléant au Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Collège Alesia 7 avenue de l'Europe 21150 Venarey les Laumes 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Suppléant au Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Collège François de la Grange Rond point Gau-Bischofsheim 21430 Liernais 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Centre Hospitalier Robert Morlevat 3 avenue Pasteur 21140 Semur en Auxois 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil de Surveillance dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Centre Hospitalier de la Haute Côte d'Or 7 rue Guéniot 21350 Vitteaux
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil de Surveillance dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Côte d'or tourisme 19 rue Ferdinand de Lesseps 21035 Dijon Membre de l'Assemblée générale depuis le 01/07/2021 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Service Départemental d'incendie et de secours de la Côte d'or 22 D bld Wilson Churchill 21000 Dijon
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre de la Commission d'appel d'offre dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Service Départemental d'incendie et de secours de la Côte d'or 22 D bld Wilson Churchill 21000 Dijon 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Suppléant du Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>SPL MuséoParc Alesia 1 route des 3 Ormeaux 21150 Alise-Sainte-Reine 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Comité Stratégique de la SPL MuséoParc Alesia dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Maison Départementale des Personnes Handicapées de la Côte d'Or 1 Rue Tissot 21000 Dijon 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Présidente de la Commission Exécutive dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Maison de l'enfance 1 rue Messigny 21121 Ahuy 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil de Surveillance dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Comité de bassin de l'Eau Seine-Normandie 51 rue Salvador Allende 92000 Nanterre 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Syndicat Mixte de Musique Auxois Morvan 25 Rue de la Liberté 21140 Semur en Auxois 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Présidente du Comité Syndical dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Syndicat Mixte du Parc naturel régional du Morvan. La Maison du Parc. 58230 Saint Brisson 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du bureau du Parc dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Agence Solidarité Montbard 35 rue d'Abrantés 21500 Montbard 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre de la Commission Territoriale dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Maison d'Enfants " Institut de Vigne" Rue de Vigne 21140 Semur en Auxois 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil d'Exploitation et du Conseil de surveillance dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Commission locale de l'Eau. Syndicat Mixte du Bassin Versant de l'Armançon. 58 rue Vaucorbe, 89700 Tonnerre 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre de la Commission locale de l'eau dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Centre de Gestion de la Fonction Publique Territoriale de la Côte d'Or Rue Nodot 21000 Dijon 
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Membre du Conseil d'Administration dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Comité National d'Action Sociale 11 rue de Verdun 67100 Strasbourg
+        [Données non publiées]
+    </commentaire>
+					<descriptionMandat>Déléguée locale des élus dans le cadre du mandat électif.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Maison d'Accueil et de Retraite du Canton de Précy sous Thil</nomSociete>
+					<activite>Présidente du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>AIRBUS</nomSociete>
+					<evaluation>17006</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>149</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>AKZO NOBEL</nomSociete>
+					<evaluation>7625</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>74</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>ALLIANZ</nomSociete>
+					<evaluation>10140</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>48</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>ASML HOLDING</nomSociete>
+					<evaluation>18348</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>29</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>CAPGEMINI</nomSociete>
+					<evaluation>8467</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>48</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>CARLSBERG S.B</nomSociete>
+					<evaluation>7390</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>47</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>CREDIT AGRICOLE</nomSociete>
+					<evaluation>8571</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>727</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>CRH</nomSociete>
+					<evaluation>8371</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>201</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>EIFFAGE</nomSociete>
+					<evaluation>8772</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>101</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>FRESENIUS</nomSociete>
+					<evaluation>6955</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>152</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>PROSUS</nomSociete>
+					<evaluation>5211</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>74</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>PUMA</nomSociete>
+					<evaluation>8544</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>82</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SANOFI</nomSociete>
+					<evaluation>3387</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>39</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SAP</nomSociete>
+					<evaluation>10061</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>84</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SIEMENS</nomSociete>
+					<evaluation>6650</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>50</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>STELLANTIS</nomSociete>
+					<evaluation>7060</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>446</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>STMICROELECTRONICS</nomSociete>
+					<evaluation>6574</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>200</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>TELEPERFORMANCE</nomSociete>
+					<evaluation>4937</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>14</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>TOTALENERGIES SE</nomSociete>
+					<evaluation>6333</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>173</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>UBISOFT ENTERAIN</nomSociete>
+					<evaluation>6371</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>117</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>21</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Côte-d'Or (21)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>27</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Elu départemental/Côte-d'Or (21)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>EAP</nom>
+				<prenom>MARTINE</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>22/07/1952</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

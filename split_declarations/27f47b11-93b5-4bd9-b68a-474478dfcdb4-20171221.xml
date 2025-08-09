@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>29/09/2021 18:25:43</dateDepot>
+		<uuid>27f47b11-93b5-4bd9-b68a-474478dfcdb4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>2014 : Mairie de Mandelieu: 47919€ Communauté d'agglomération des Pays de Lérins : 4125 € Syndicat Intercommunal d'Assainissement Unifié du Bassin Cannois (SIAUBC) : 2062 € 2015 : Mairie de Mandelieu: 56172€ Communauté d'agglomération des Pays de Lérins : 3093 €</commentaire>
+					<conservee>false</conservee>
+					<description>Directeur de Cabinet</description>
+					<employeur>Mairie de Mandelieu</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>54106</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>59265</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>12/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Directeur de Cabinet</description>
+					<employeur>Mairie de Mandelieu-La Napoule</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>70771</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>74705</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>72885</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>73887</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>74 640</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>36 438</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Mairie de Mandelieu</employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomStructure>Les Républicains</nomStructure>
+					<descriptionActivite>Délégué de circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>département des Alpes-Maritimes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5535</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>33210</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>33371</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>33 360</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 680</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>06</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Alpes-Maritimes (06)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>93</organeParent>
+			</organe>
+			<qualiteDeclarant>Vice Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Alpes-Maritimes (06)/Vice Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Konopnicki</nom>
+				<prenom>David</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>21/05/1980</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

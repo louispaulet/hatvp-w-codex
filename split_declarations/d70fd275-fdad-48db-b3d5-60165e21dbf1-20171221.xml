@@ -1,0 +1,1104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>12/02/2025 22:54:26</dateDepot>
+		<uuid>d70fd275-fdad-48db-b3d5-60165e21dbf1</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>expertise-comptable</description>
+					<employeur>seag</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>50 199</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70 125</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>63 861</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8 500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>03/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>expert-comptable commissaire aux comptes</description>
+					<employeur>activité indépendante</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9 519</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 910</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>11 289</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>GROUPEMENT D'EMPLOYEUR DE BELZAISES</employeurConjoint>
+					<activiteProf>Salarié</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je suis Présidente de la commission des finances et de l'administration générale du Conseil départemental de l'Orne</commentaire>
+					<descriptionMandat>conseiller départemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 800</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 514</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>17 778</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>16 913</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>1 400</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2021</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>député</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71 104</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70 773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70 676</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>71 912</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 698</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>74 556</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Activité immobilière</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Activité immobilière</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Activité immobilière</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>Activité immobilière</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCEA 
+        [Données non publiées]
+    </nomSociete>
+					<activite>exploitation agricole</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>activité immobilière</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>activité immobilière</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>activité immobilière</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>10/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SACC</nomSociete>
+					<activite>commissariat aux comptes</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SEAG</nomSociete>
+					<activite>expertise-comptable</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>50 199</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70 125</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>55 361</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>300000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>1000</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>600000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>1000</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>250000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>1000</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>GFA 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>500</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>3</capitalDetenu>
+					<nombreParts>5</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>3600</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>60</capitalDetenu>
+					<nombreParts>36</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>OSEA</nomSociete>
+					<evaluation>140000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>20</capitalDetenu>
+					<nombreParts>600</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ACCOR</nomSociete>
+					<evaluation>752</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>16</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIR LIQUIDE</nomSociete>
+					<evaluation>1412</evaluation>
+					<remuneration>29</remuneration>
+					<capitalDetenu />
+					<nombreParts>9</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AXA</nomSociete>
+					<evaluation>3226</evaluation>
+					<remuneration>246</remuneration>
+					<capitalDetenu />
+					<nombreParts>94</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BNP PARISBAS ACTIONS A</nomSociete>
+					<evaluation>3139</evaluation>
+					<remuneration>281</remuneration>
+					<capitalDetenu />
+					<nombreParts>53</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CAPGEMINI</nomSociete>
+					<evaluation>1265</evaluation>
+					<remuneration>27</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>DASSAULT SYSTEMES</nomSociete>
+					<evaluation>1139</evaluation>
+					<remuneration>8</remuneration>
+					<capitalDetenu />
+					<nombreParts>34</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EDENRED</nomSociete>
+					<evaluation>286</evaluation>
+					<remuneration>10</remuneration>
+					<capitalDetenu />
+					<nombreParts>9</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ESSILOR LUXITTICA</nomSociete>
+					<evaluation>2356</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>10</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>GAZ TRANSPORT TECHNIGAZ</nomSociete>
+					<evaluation>772</evaluation>
+					<remuneration>32</remuneration>
+					<capitalDetenu />
+					<nombreParts>6</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>HERMES INTERNATIONAL</nomSociete>
+					<evaluation>2322</evaluation>
+					<remuneration>25</remuneration>
+					<capitalDetenu />
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>L'OREAL</nomSociete>
+					<evaluation>4102</evaluation>
+					<remuneration>79</remuneration>
+					<capitalDetenu />
+					<nombreParts>12</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>LEGRAND</nomSociete>
+					<evaluation>1316</evaluation>
+					<remuneration>29</remuneration>
+					<capitalDetenu />
+					<nombreParts>14</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>LVMH</nomSociete>
+					<evaluation>6355</evaluation>
+					<remuneration>130</remuneration>
+					<capitalDetenu />
+					<nombreParts>10</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>MICHELIN</nomSociete>
+					<evaluation>1336</evaluation>
+					<remuneration>57</remuneration>
+					<capitalDetenu />
+					<nombreParts>42</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PUBLICIS GRANCE SA</nomSociete>
+					<evaluation>1648</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>16</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SAFRAN</nomSociete>
+					<evaluation>3394</evaluation>
+					<remuneration>35</remuneration>
+					<capitalDetenu />
+					<nombreParts>16</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SAINT-GOBAIN</nomSociete>
+					<evaluation>2314</evaluation>
+					<remuneration>48</remuneration>
+					<capitalDetenu />
+					<nombreParts>27</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SANOFI</nomSociete>
+					<evaluation>3562</evaluation>
+					<remuneration>143</remuneration>
+					<capitalDetenu />
+					<nombreParts>38</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCHNEIDER ELECTRIC SE</nomSociete>
+					<evaluation>6504</evaluation>
+					<remuneration>94</remuneration>
+					<capitalDetenu />
+					<nombreParts>27</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SODEXO</nomSociete>
+					<evaluation>875</evaluation>
+					<remuneration>112</remuneration>
+					<capitalDetenu />
+					<nombreParts>11</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SPIE</nomSociete>
+					<evaluation>751</evaluation>
+					<remuneration>22</remuneration>
+					<capitalDetenu />
+					<nombreParts>25</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>THALES</nomSociete>
+					<evaluation>1109</evaluation>
+					<remuneration>20</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>TOTAL ENERGIES SE</nomSociete>
+					<evaluation>3736</evaluation>
+					<remuneration>245</remuneration>
+					<capitalDetenu />
+					<nombreParts>70</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>VEOLIA ENVIRONNEMENT</nomSociete>
+					<evaluation>1274</evaluation>
+					<remuneration>59</remuneration>
+					<capitalDetenu />
+					<nombreParts>47</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>VINCI</nomSociete>
+					<evaluation>2194</evaluation>
+					<remuneration>113</remuneration>
+					<capitalDetenu />
+					<nombreParts>22</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIRBUS</nomSociete>
+					<evaluation>4179</evaluation>
+					<remuneration>76</remuneration>
+					<capitalDetenu />
+					<nombreParts>27</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>APERAM</nomSociete>
+					<evaluation>227</evaluation>
+					<remuneration>50</remuneration>
+					<capitalDetenu />
+					<nombreParts>9</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>STELLANTIS</nomSociete>
+					<evaluation>1113</evaluation>
+					<remuneration>155</remuneration>
+					<capitalDetenu />
+					<nombreParts>88</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>STMICROELECTRONICS</nomSociete>
+					<evaluation>922</evaluation>
+					<remuneration>14</remuneration>
+					<capitalDetenu />
+					<nombreParts>38</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CREDIT AGRICOLE</nomSociete>
+					<evaluation>31</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>20</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mdcapme24</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère délégué chargé du commerce de l'artisanat des petites et moyennes entreprises et de l'économie sociale et solidaire </labelOrgane>
+				<labelDeclaration>Ministre déléguée chargée du commerce de l'artisanat des petites et moyennes entreprises et de l'économie sociale et solidaire</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre déléguée chargée du commerce de l'artisanat des petites et moyennes entreprises et de l'économie sociale et solidaire</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>LOUWAGIE</nom>
+				<prenom>Véronique</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>20/03/1961</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

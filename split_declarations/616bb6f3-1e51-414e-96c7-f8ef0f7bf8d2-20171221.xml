@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>29/11/2019 09:10:13</dateDepot>
+		<uuid>616bb6f3-1e51-414e-96c7-f8ef0f7bf8d2</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>33000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>33000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>33000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>33000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>33000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>11/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>pour 7 mois depuis mai 2019</commentaire>
+					<descriptionMandat>conseiller provincial</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>33833</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2019</dateDebut>
+					<dateFin>11/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>membre du congres est rémunéré en tant que conseiller provincial simplement</commentaire>
+					<descriptionMandat>conseiller du congres de NC</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2019</dateDebut>
+					<dateFin>11/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>le président de cette structure n'est pas rémunéré ni en nature</commentaire>
+					<nomSociete>association teasoa</nomSociete>
+					<activite>president</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2018</dateDebut>
+					<dateFin>11/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivité à statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivité à statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivité</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>ASSNC</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivités à statut particulier</nomListeOrgane>
+				<labelOrgane>Assemblée de Province de Nouvelle-Calédonie</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>conseiller provincial</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Collectivité à statut particulier/Assemblée de Province de Nouvelle-Calédonie/conseiller provincial</qualiteDeclarantForPDF>
+			<dateDebutMandat>17/05/2019</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>TUTUGORO</nom>
+				<prenom>Pierre Chanel</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>31/12/1967</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

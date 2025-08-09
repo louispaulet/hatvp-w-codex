@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>15/08/2022 19:24:53</dateDepot>
+		<uuid>c85fb225-a8bb-49cc-862d-ddb180b9d5ea</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>En disponibilité depuis septembre 2020</commentaire>
+					<description>Teleconseiller</description>
+					<employeur>Natixis interepargne</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>15 950</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12 045</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12 883</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>11 744</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10 798</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 799</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Bred</employeurConjoint>
+					<activiteProf>Conseiller bancaire</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller départemental du calvados</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>17 680</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16 524</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>23 186</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24 110</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15 795</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>16 340</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Quantum genomics</nomSociete>
+					<evaluation>2193</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>831</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Genfit</nomSociete>
+					<evaluation>204</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>52</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>14</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Calvados (14)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>28</organeParent>
+			</organe>
+			<qualiteDeclarant>Vice Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Calvados (14)/Vice Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>02/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>willaume</nom>
+				<prenom>ludwig</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>06/01/1981</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

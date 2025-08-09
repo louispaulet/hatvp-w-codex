@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>29/07/2020 10:41:30</dateDepot>
+		<uuid>fa3a2b16-c76c-44f1-94a4-eb92b54d0ed6</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Inspecteur du travail</description>
+					<employeur>DIRECCTE ISERE</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>44922</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>44594</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>43557</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>42612</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>43147</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>40999</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20186</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>en retraite 
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>directrice de crèche</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>CLUB ALPIN FRANCAIS "JEUNES EN MONTAGNE" de Grenoble</nomStructure>
+					<descriptionActivite>membre du CA de ce club qui veut emmener en montagne les jeunes de grenoble</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Association à vocation politique locale</commentaire>
+					<nomStructure>ADES Association démocratie Ecologie Solidarité de Grenoble</nomStructure>
+					<descriptionActivite>membre du CA</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>FEVE Fédération des élus écologistes</nomStructure>
+					<descriptionActivite>membre du CA</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>conseiller municipal de Grenoble délégué au tourisme et à la montagne (+ conseiller régional Rhone-ALpes jusqu'aà décembre 2015)</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>38911</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>31899</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14641</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>14765</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>14773</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14773</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3498</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>mandat de président du CA de la régie (EPIC à capitaux 100% détenus par la ville de Grenoble)</commentaire>
+					<nomSociete>Régie du téléphérique de Grenoble bastille</nomSociete>
+					<activite>régie de transports par cable</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>mandat bénévole d'administrateur de la SEM puis SPL Alpexpo (organisation de foires et salons) à capitaux publics.</commentaire>
+					<nomSociete>ALPEXPO</nomSociete>
+					<activite>membre du CA</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>mandat bénévole d'administrateur de l'opérateur historique de Grenoble (aux capitaux majoritairement publics) en énergie</commentaire>
+					<nomSociete>GEG</nomSociete>
+					<activite>SEM de distribution de gaz et électricité de Grenoble</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2016</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    Ces actions ont été investies lors de la création de la société, devenue en 30 ans le plus grand bureau d'études éolien de France (estimation du capital faite lors de l'entrée d'un investisseur en Janvier 2020).</commentaire>
+					<nomSociete>valorem</nomSociete>
+					<evaluation>2057400</evaluation>
+					<remuneration>montant variable et aléatoire, entre 0 € (les 20 premières années) et plus de 10 000 € selon les années, en fonction de la croissance des projets d'energies renouvelables soutenus par Valorem.</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>180</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+     investit dans des projets de production d'énergies renouvelables. Aucune rémunération n'est versée car il s'agit là de soutenir le développement de projets d'energies renouvelables en aidant à mobiliser des fonds de citoyens.</commentaire>
+					<nomSociete>ENERGIES PARTAGEES</nomSociete>
+					<evaluation>20000</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu />
+					<nombreParts>200</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>participation directe en 2017 au capital d'une start-up centrée sur le développement du velo a assistance électrique, gestion de la batterie, de la flotte...</commentaire>
+					<nomSociete>EBIKES LABS</nomSociete>
+					<evaluation>10000</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu />
+					<nombreParts>1000</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>LENDOSPHERE</nomSociete>
+					<evaluation>57000</evaluation>
+					<remuneration>variable : il s'agit d'un outil de financement direct de projets d'énergies renouvelables mobilisés pour 3 a 5 ans, sous forme d'obligations.</remuneration>
+					<capitalDetenu />
+					<nombreParts>570</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>38185</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Grenoble (38)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Adjoint au Personnel</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Grenoble (38)/Adjoint au Personnel</qualiteDeclarantForPDF>
+			<dateDebutMandat>26/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>meriaux</nom>
+				<prenom>pierre</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>25/11/1960</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

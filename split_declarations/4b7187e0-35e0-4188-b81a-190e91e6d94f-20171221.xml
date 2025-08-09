@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>08/12/2020 13:28:29</dateDepot>
+		<uuid>4b7187e0-35e0-4188-b81a-190e91e6d94f</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>En avril 2015, une participation de 386 euros En mai 2015, 11 euros d'intéressement.</commentaire>
+					<conservee>false</conservee>
+					<description>Employé</description>
+					<employeur>Orange</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2015</dateDebut>
+					<dateFin>11/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai cessé toute activité professionnelle au 1er juin 2014</commentaire>
+					<conservee>false</conservee>
+					<description>Assistant</description>
+					<employeur>FNUF</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>12421</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>5159</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>05/2014</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Orange</employeurConjoint>
+					<activiteProf>Employée</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Conseiller régional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>29764</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>24547</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>10/2014</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2 665</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24150</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>22785</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21 634</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13 914</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12 697</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2015</dateDebut>
+					<dateFin>11/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller métropolitain</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1 734</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3 231</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12 926</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12 926</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 905</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2015</dateDebut>
+					<dateFin>11/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<descriptionMandat>Sénateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>10 732</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>50039</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>61921</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66 308</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67 088</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>45 674</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2015</dateDebut>
+					<dateFin>11/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Depuis8/11/18</commentaire>
+					<nom>MautinLouisMarie</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Depuis 010718 Interruption du contrat du 8 novembre 2019 au 23 mars 2020</commentaire>
+					<nom>BaudinoAntoine</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>13</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Bouches-du-Rhône(13)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Bouches-du-Rhône(13)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/11/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ravier</nom>
+				<prenom>stephane</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>04/08/1969</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

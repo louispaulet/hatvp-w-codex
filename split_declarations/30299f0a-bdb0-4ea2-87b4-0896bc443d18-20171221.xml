@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>01/08/2020 22:32:40</dateDepot>
+		<uuid>30299f0a-bdb0-4ea2-87b4-0896bc443d18</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Ingénieur</description>
+					<employeur>nke-watteco</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>40189</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>38280</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>39056</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>38952</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>38960</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>39622</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>23434</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Groupement Hospitalier 
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Aide-soignante</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Maire adjoint de Caudan</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>6758</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8631</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>8537</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8462</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8397</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>8437</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3217</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Du 23 mai au 31 juillet</commentaire>
+					<descriptionMandat>Maire de Caudan</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3894</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat />
+				<codCategorieMandat />
+				<nomCategorieMandat />
+				<codTypeMandatFichier />
+				<labelTypeMandat />
+				<labelOrgane />
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane />
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Vice-président de Lorient Agglomération</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Vice-président</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Vély</nom>
+				<prenom>Fabrice</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>17/08/1974</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

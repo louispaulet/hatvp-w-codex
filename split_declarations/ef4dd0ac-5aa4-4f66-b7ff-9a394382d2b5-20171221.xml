@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>30/08/2020 20:09:44</dateDepot>
+		<uuid>ef4dd0ac-5aa4-4f66-b7ff-9a394382d2b5</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>CCAS 
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>directrice de la pouponnière 
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>je suis maire et vice président de la Métropole Européenne de Lille Les revenus mentionnés et modifiés pour l'année 2020 après réélection sont des montants mensuels nets avant impôt sur le revenu</commentaire>
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>14896</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>44913</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>47480</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>40666</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>47081</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>47100</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>55632</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>société anonyme HLM 3F</nomSociete>
+					<activite>délégué de la Métropole Européenne de Lille</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>réélu à la fonction de maire le 05 juillet 2020, je porte à votre connaissance une modification de déclaration d'intérêts concernant mes deux fonctions d'élus, celle de Maire et de Vice Président à la Métropole Européenne de LIlle. Le montant des indemnités concernant ces deux fonctions représente par mois la somme de 4 636.06 € net avant impôt sur le revenu. A cela s'ajoutent mes indemnités de représentation à l'organisme HLM 3 F pour un montant annuel de 200 €</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane />
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>maire</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/maire</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>CAUDRON</nom>
+				<prenom>Gérard</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>27/02/1945</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

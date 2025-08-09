@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>03/03/2025 23:04:23</dateDepot>
+		<uuid>09dbaab9-3c0c-4fbf-9527-4becec24a17d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<neant>true</neant>
+		</immeubleDto>
+		<sciDto>
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<neant>true</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Banque Transatlantique</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Haddad Benjamin</titulaire>
+					<valeur>492</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Crédit lyonnais</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Haddad Benjamin</titulaire>
+					<valeur>509</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Banque Transatlantique</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Haddad Benjamin</titulaire>
+					<valeur>38461</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Bien immobilier</nature>
+					<localisation>
+            [Données non publiées]
+        </localisation>
+					<valeur>970363</valeur>
+					<description />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Compte bancaire Wells Fargo</nature>
+					<localisation>
+            [Données non publiées]
+        </localisation>
+					<valeur>1000</valeur>
+					<description>Numéro de compte
+        [Données non publiées]
+    </description>
+				</items>
+			</items>
+			<neant>false</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<neant>true</neant>
+		</passifDto>
+		<observationPatrimoineDto>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mdeur23</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère délégué chargé de l'Europe</labelOrgane>
+				<labelDeclaration>Ministre délégué chargé de l'Europe</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre délégué chargé de l'Europe</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Séparation de biens</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>haddad</nom>
+				<prenom>benjamin</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>23/10/1985</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>10/09/2021 15:01:17</dateDepot>
+		<uuid>4cf0accd-b7bc-40a4-aea5-e0d4184349b2</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>AGRICULTEUR</description>
+					<employeur>GAEC VIDAL ET FILS</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>29 402</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14 289</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>35 878</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>55 093</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>49 225</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 046</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>24 985</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>AGRICULTRICE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12 636</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12 636</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12 636</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12 454</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11 323</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 323</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8 492</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>VICE PRESIDENT D'UNE COMMUNAUTE DE COMMUNES</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 622</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4 140</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>CONSEILLER DEPARTEMENTAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 714</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>COOPERATIVE LAITIERE DE PAULHAC</nomSociete>
+					<activite>PRESIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3 438</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4 584</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 584</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 056</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2018</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CANTAL CONSEIL ELEVAGE</nomSociete>
+					<activite>VICE PRESIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>COOPERATIVE LAITIERE DE PAULHAC</nomSociete>
+					<activite>SECRETAIRE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>3 300</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3 300</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3 300</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>825</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>03/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EDF</nomSociete>
+					<evaluation>338</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>31</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ENGIE</nomSociete>
+					<evaluation>397</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>33</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>GETLINK SE</nomSociete>
+					<evaluation>440</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>32</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PS CACF ST FLOUR</nomSociete>
+					<evaluation>958</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>639</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>COMPTE EN INDIVISION TOTAL 50673€</commentaire>
+					<nomSociete>CRED.AGR 4.50%</nomSociete>
+					<evaluation>25336</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>25</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>COMPTE EN INDIVISION TOTAL 10436€</commentaire>
+					<nomSociete>CREDIT AGRI.3.15%</nomSociete>
+					<evaluation>5218</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>4993</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>15</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Cantal (15)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>84</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Elu départemental/Cantal (15)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>VIDAL</nom>
+				<prenom>CHRISTOPHE</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>07/05/1976</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

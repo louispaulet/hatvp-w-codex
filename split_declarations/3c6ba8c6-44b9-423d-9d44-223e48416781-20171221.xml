@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>26/08/2020 12:16:35</dateDepot>
+		<uuid>3c6ba8c6-44b9-423d-9d44-223e48416781</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Cadre commercial</description>
+					<employeur>CENPAC SA</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>47747</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>52237</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49934</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>53181</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>56894</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>57231</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>41132</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>AMICAL DES SAPEUR POMPIERS DU VAL DE BAR</nomStructure>
+					<descriptionActivite>Commissaire aux comptes</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12913</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>19615</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19674</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17199</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17775</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17861</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9216</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Délégué communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>856</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1098</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1202</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1230</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1179</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1216</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>711</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Ardenne Métropole</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Vice-président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Ardenne Métropole/Vice-président</qualiteDeclarantForPDF>
+			<dateDebutMandat>17/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Branz</nom>
+				<prenom>Cédric</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>16/09/1976</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

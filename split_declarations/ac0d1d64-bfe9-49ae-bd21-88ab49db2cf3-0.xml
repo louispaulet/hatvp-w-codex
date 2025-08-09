@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>06/05/2025 12:14:55</dateDepot>
+		<uuid>ac0d1d64-bfe9-49ae-bd21-88ab49db2cf3</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<nature>Appartement</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 78)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>200</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2012</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>1180000</prixAcquisition>
+					<prixTravaux>30000</prixTravaux>
+					<valeurVenale>1180000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nature>remise</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 78)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>30</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2017</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>50000</prixAcquisition>
+					<prixTravaux>25000</prixTravaux>
+					<valeurVenale>52000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 73)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>160</superficieBati>
+					<superficieNonBati>3.0</superficieNonBati>
+					<dateAcquisition>2024</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Usufruit</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>580500</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>145125</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items />
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items />
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<titulaire>philippe baptiste</titulaire>
+					<etablissement>BPIFRANCE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<naturePlacement>Détention directe</naturePlacement>
+					<valeur>40134</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<titulaire>philippe baptiste</titulaire>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<naturePlacement>PEA</naturePlacement>
+					<valeur>30</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>philippe baptiste</souscripteur>
+					<etablissement>prefon</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>25/04/2003</dateSouscription>
+					<valeurRachat>113014</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<souscripteur>philippe baptiste</souscripteur>
+					<etablissement>amundi</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>01/01/2021</dateSouscription>
+					<valeurRachat>44273</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<souscripteur>philippe baptiste</souscripteur>
+					<etablissement>AXA</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>01/04/2021</dateSouscription>
+					<valeurRachat>12729</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>M ou 
+        [Données non publiées]
+     Baptiste</titulaire>
+					<valeur>26628</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>philippe baptiste</titulaire>
+					<valeur>22481</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>PEL</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>philippe baptiste</titulaire>
+					<valeur>5290</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>philippe baptiste</titulaire>
+					<valeur>8258</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>20400</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>PEL</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>5290</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>8460</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte d'épargne</typeCompte>
+					<etablissement>LCL</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>133</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>lcl</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>philippe baptiste</titulaire>
+					<valeur>323</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte d'épargne</typeCompte>
+					<etablissement>lcl</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>philippe baptiste</titulaire>
+					<valeur>230</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items />
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nature>Terrestre à moteur</nature>
+					<marque>fiat</marque>
+					<anneeAchat>2024</anneeAchat>
+					<valeurAchat>12000</valeurAchat>
+					<valeur>9000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nature>Terrestre à moteur</nature>
+					<marque>Citroen</marque>
+					<anneeAchat>2022</anneeAchat>
+					<valeurAchat>12000</valeurAchat>
+					<valeur>8500</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items />
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items />
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items />
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items />
+			<neant>true</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items />
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mesr23</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère de l'enseignement supérieur et de la recherche</labelOrgane>
+				<labelDeclaration>Ministre de l'enseignement supérieur et de la recherche</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre de l'enseignement supérieur et de la recherche</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Communauté légale réduite aux acquêts</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Baptiste</nom>
+				<prenom>Philippe</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>28/03/1972</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

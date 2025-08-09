@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>26/07/2021 19:27:57</dateDepot>
+		<uuid>900e046e-be29-4f43-9590-1d72ac010fdd</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<description>SECRETAIRE</description>
+					<employeur>GGM CASTRES</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>23814</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>23844</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>23295</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>18805</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6244</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2011</dateDebut>
+					<dateFin>02/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>en poste à ce jour</commentaire>
+					<description>Coordonnatrice</description>
+					<employeur>Association ENSEMBLE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>10 799</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16 187</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>16 417</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18 251</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6 498</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2017</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Réélue le 27/06/2021Fonction identiqueDélégation identiqueAnnée 2021 en coursSommes déclarées = sommes relevée sur avis d'imposition</commentaire>
+					<descriptionMandat>Vice Présidente du Conseil Départemental en charge des Sports</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>13 647</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>20 169</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>20 348</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>19 909</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19 682</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20 960</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>10 862</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Titulaire d'une fonction soumise uniquement au dépôt d’une déclaration d’intérêts</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Autre</typeMandat>
+				<codCategorieMandat>FSDI</codCategorieMandat>
+				<nomCategorieMandat>Autre fonctions soumise uniquement au dépôt d’une déclaration d’intérêts</nomCategorieMandat>
+				<codTypeMandatFichier>autre</codTypeMandatFichier>
+				<labelTypeMandat>Autre</labelTypeMandat>
+				<labelOrgane />
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane />
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Autre</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme.</civilite>
+				<nom>ESPINOSA</nom>
+				<prenom>Isabelle</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>24/02/1962</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

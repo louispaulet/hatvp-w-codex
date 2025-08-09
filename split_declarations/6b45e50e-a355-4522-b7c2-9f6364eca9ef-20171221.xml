@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>16/07/2022 23:57:46</dateDepot>
+		<uuid>6b45e50e-a355-4522-b7c2-9f6364eca9ef</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>service aéronautique formation</description>
+					<employeur>Barth aviation</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>60 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>50 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>65 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>65 000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>65 000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70 000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>25 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>04/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller Territorial</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>19 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>19 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20 000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20 000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>23 000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5 800</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>04/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Association en sommeil</commentaire>
+					<nomSociete>Association Les Ailes de St Barth</nomSociete>
+					<activite>Aeroclub</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2016</dateDebut>
+					<dateFin>04/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Barth's Aviation</nomSociete>
+					<evaluation>500</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>20</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Sans activité</commentaire>
+					<nomSociete>NIVARED SERVICES</nomSociete>
+					<evaluation>600</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>60</capitalDetenu>
+					<nombreParts>600</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Société sans activité</commentaire>
+					<nomSociete>INVESTISSEMENTS ET DEPOSITAIRE MERCURY</nomSociete>
+					<evaluation>600</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>60</capitalDetenu>
+					<nombreParts>600</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivité à statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivité à statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivité</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>CTSTB</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivités à statut particulier</nomListeOrgane>
+				<labelOrgane>Conseil territorial Saint-Barthélemy</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>Vice President</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Collectivité à statut particulier/Conseil territorial Saint-Barthélemy/Vice President</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/04/2022</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>DESOUCHES</nom>
+				<prenom>Maxime</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>07/04/1963</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>22/12/2023 14:50:18</dateDepot>
+		<uuid>0c3ac148-7805-4971-aa48-ed796b9b7975</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>SARL dissoute. Cessation d'activités</commentaire>
+					<conservee>false</conservee>
+					<description>GERANTE MAJORITAIRE - CONSEIL EN VENTE ET MANAGEMENT</description>
+					<employeur>SARL DCA CONSEIL ET FORMATION</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1517</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2016</dateDebut>
+					<dateFin>11/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+     ELU LOCAL</commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>NEANT</employeurConjoint>
+					<activiteProf>NEANT</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Démission en date du 03/01/2022.
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>ADJOINTE AU MAIRE VILLE DE BETHUNE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13601</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13328</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13240</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13299</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10033</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>10 683</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2016</dateDebut>
+					<dateFin>01/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Démission de la fonction de Vice-Présidente de la Région Hauts de France en date du 03/01/2022.
+        [Données non publiées]
+    </commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>CONSEILLERE REGIONALE </descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>24890</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24602</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24710</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18335</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>23 305</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>21 131</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>17 710</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>11/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Démission en date du 03/01/2022. 
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>CONSEILLERE COMMUNAUTAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>404</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>834</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>01/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>ELUE SENATRICE DEPUIS LE 08/12/2021. REELUE EN 09/2023.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>SENATRICE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4 025</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>69 289</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>57 514</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2021</dateDebut>
+					<dateFin>11/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Démission en date du 03/01/2022. 
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<nomSociete>OFFICE INTERCOMMUNAL DE TOURISME</nomSociete>
+					<activite>PRESIDENTE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin>01/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>SARL DISSOUTE SUITE CESSATION ACTIVITES</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SARL DCA CONSEIL ET FORMATION</nomSociete>
+					<activite>GERANTE MAJORITAIRE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1517</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2016</dateDebut>
+					<dateFin>11/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>CO-GERANTE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>11/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>DESIGNEE PAR LE CONSEIL REGIONAL HAUTS DE FRANCE</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SA HLM MAISONS ET CITES</nomSociete>
+					<activite>Membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2023</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>EN LIEN AVEC LES ACTIVITES DE MAISONS ET CITES. DESIGNEE PAR LE CONSEIL REGIONAL HAUTS DE FRANCE</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>EPINORPA (EPIC)</nomSociete>
+					<activite>Membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2023</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>50</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>25</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>CHAUVET VINCENT</nom>
+					<employeur>Universite Paris-Cité / Paris</employeur>
+					<descriptionActivite>Chargé de cours</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>GREGORY DEBAS</nom>
+					<employeur>-Mairie d'Annezin, Pas de Calais -Communauté d'agglomération Béthune Bruay Artois Lys Romane -Société Sitra France à Sailly sur la lys</employeur>
+					<descriptionActivite>- Maire de la commune d'Annezin - Pas-De-Calais -Conseiller communautaire délégué - Employé administratif chez Sitra France
+        [Données non publiées]
+    </descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>LAURENCE COLISSON</nom>
+					<employeur>SIVOM de la Communauté du Bruaysis à Bruay-La-Buissière</employeur>
+					<descriptionActivite>Directrice de la communication 
+        [Données non publiées]
+    </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>62</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Pas-de-Calais(62)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Pas-de-Calais(62)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>GACQUERRE</nom>
+				<prenom>Amel</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>20/12/1976</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>24/06/2021 15:58:37</dateDepot>
+		<uuid>770aa716-f6ab-467b-bc03-55f8538cc8c6</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Location de gîtes</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Vice-Président de la Communauté d'Agglomération du boulonnais</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>11258</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12166</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12212</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12403</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12020</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11682</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1961</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2014</dateDebut>
+					<dateFin>02/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13219</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14376</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14428</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15796</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15663</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15120</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2556</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2014</dateDebut>
+					<dateFin>02/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>BOULOGNE-SUR-MER</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Membre d’EPCI/BOULOGNE-SUR-MER</qualiteDeclarantForPDF>
+			<dateDebutMandat>10/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>FOURCROY</nom>
+				<prenom>CHRISTIAN</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>20/06/1950</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

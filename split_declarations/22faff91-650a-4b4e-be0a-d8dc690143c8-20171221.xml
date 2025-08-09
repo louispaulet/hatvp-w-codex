@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>22/08/2020 18:20:24</dateDepot>
+		<uuid>22faff91-650a-4b4e-be0a-d8dc690143c8</uuid>
+		<origine>ADEL Access</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<description>médecin généraliste</description>
+					<employeur>moi-même</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>70521</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>65961</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>72137</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>76650</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>78817</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>48544</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Côté déco
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Employé</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>17342</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>17295</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17548</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17557</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17642</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7173</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Activité non rémunérée</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Association Vivre ensemble en Salanque</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Crèche inter-communale</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SIVU Les petits salanquais</nomSociete>
+					<activite>Vice-président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3259</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3861</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2510</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1511</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Perpignan Méditerranée métropole</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Vice-président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Perpignan Méditerranée métropole/Vice-président</qualiteDeclarantForPDF>
+			<dateDebutMandat>11/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Médina</nom>
+				<prenom>Marc</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>01/07/1960</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

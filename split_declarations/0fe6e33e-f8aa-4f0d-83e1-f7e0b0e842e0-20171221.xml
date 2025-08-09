@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>27/07/2020 15:15:03</dateDepot>
+		<uuid>0fe6e33e-f8aa-4f0d-83e1-f7e0b0e842e0</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>toujours en activité</commentaire>
+					<conservee>false</conservee>
+					<description>professeur des écoles</description>
+					<employeur>education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>26913</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>27015</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>28937</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>28982</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>28909</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>26747</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Professeur des écoles</description>
+					<employeur>Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>28909</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>26747</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>32268</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>34013</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>33774</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>BNPPARIBAS</employeurConjoint>
+					<activiteProf>Conseiller clients</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>EN RETRAITE 
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>BNPPARIBAS</employeurConjoint>
+					<activiteProf>CONSEILLÈRE CLIENTELE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>mandat toujours en cours</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>adjoint au maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>23781</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>23781</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>23781</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>22614</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22225</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21089</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Vice Président SMTD</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>1614</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>1614</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>1614</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>726</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>05/2014</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>mandat toujours en cours</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice Président SDE</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>6392</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>6392</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>6392</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>5559</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5334</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5334</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>mandat toujours en cours</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice Président SYMAT</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>5387</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>5387</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>5387</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>5387</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5387</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5403</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>MANDAT NON RENOUVELE LE 28/06/2020</commentaire>
+					<descriptionMandat>ADJOINT AU MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22225</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21089</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>20185</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>20195</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20293</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>mandat toujours en cours</commentaire>
+					<descriptionMandat>vice président syndicat départemental d electrification</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5334</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5334</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5316</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5318</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5344</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>MANDAT TOUJOURS EN COURS</commentaire>
+					<descriptionMandat>VICE PRESIDENT SYMAT</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5387</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5403</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5820</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5936</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5964</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>MANDAT TOUJOURS EN COURS</commentaire>
+					<descriptionMandat>VICE PRESIDENT SYNDICAT MIXTE DE L ADOUR</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>MANDAT RENOUVELE LE 15/07/2020</commentaire>
+					<descriptionMandat>VICE PRESIDENT COMMUNAUTE AGGLOMERATION TARBES LOURDES PYRENEES</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15936</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17490</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13174</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2017</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>communauté d'agglomération Tarbes Lourdes Pyrénées</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Vice Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/communauté d'agglomération Tarbes Lourdes Pyrénées/Vice Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>piron</nom>
+				<prenom>jean claude</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>02/05/1961</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

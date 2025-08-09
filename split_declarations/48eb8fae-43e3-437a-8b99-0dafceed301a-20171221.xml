@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>19/10/2020 20:55:08</dateDepot>
+		<uuid>48eb8fae-43e3-437a-8b99-0dafceed301a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Education Nationale</employeurConjoint>
+					<activiteProf>Professeur des écoles</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>association mentionnée dans les participations à des organes dirigeants. Fonction exercée bénévolement.</commentaire>
+					<nomStructure>association Euralens</nomStructure>
+					<descriptionActivite>Président</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>montant net imposable. Le montant 2020 est cumul indiqué sur la fiche de paie d'aout 2020</commentaire>
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>55304</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>54746</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>54782</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>55374</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>54864</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>48688</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>32145</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>montant net imposable. Pour 2020 le montant indiqué est le cumul repris sur la fiche de paie d'aout 2020.</commentaire>
+					<descriptionMandat>président communauté d'agglomération</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>36687</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>43405</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>45903</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>48021</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>49635</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>47278</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>27576</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>association Euralens</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>montant net 2020 non encore calculé</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>gérant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2218</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1494</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2182</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2156</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2495</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2181</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>montant net 2020 non encore calculé</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<activite>associé</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>-30</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>17</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>35</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>montant net 2020 non encore calculé</commentaire>
+					<nomSociete>SCI
+        [Données non publiées]
+    </nomSociete>
+					<activite>associé</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2588</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2462</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2474</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2209</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2380</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2380</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>aucun montant perçu pour 2020 à cette date</commentaire>
+					<nomSociete>Conseil d'orientation et de surveillance caisse d'éparge hauts de france</nomSociete>
+					<activite>représentant des collectivités locales/censeur</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>900</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2700</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5400</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5400</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>représentant de la ville à l'EPCC</commentaire>
+					<nomSociete>EPCC Louvre Lens</nomSociete>
+					<activite>membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>parts sociales</commentaire>
+					<nomSociete>crédit agricole 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>46</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>0</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>20 parts sociales à 20€ l'unité</commentaire>
+					<nomSociete>caisse d'épargne 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>400</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>20</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>communauté d'agglomération de Lens Liévin</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Membre d’EPCI/communauté d'agglomération de Lens Liévin</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ROBERT</nom>
+				<prenom>Sylvain</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>09/04/1972</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

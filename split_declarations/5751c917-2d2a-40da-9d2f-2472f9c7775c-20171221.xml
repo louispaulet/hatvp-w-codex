@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>30/08/2021 17:00:43</dateDepot>
+		<uuid>5751c917-2d2a-40da-9d2f-2472f9c7775c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>Recensement des dÃ©signations et reprÃ©sentations.pdf</fileName>
+				<serverFileName>5751c917-2d2a-40da-9d2f-2472f9c7775c_pj01</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>Pas d'activités Professionnelles </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>NEANT</employeurConjoint>
+					<activiteProf>NEANT</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>les montants déclarés annuellement correspondent à la somme des indemnités de parlementaire et de conseiller départemental. N'étant plus sénateur depuis octobre 2017, ne figurent depuis cette date que les indemnités de Président de conseil Départemental.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Président du conseil départemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>19887</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>83928</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>82717</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>83988</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>84983</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>85416</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>79847</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>37 920</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>30 826</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>30 805</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19 606</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2011</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre du conseil d'administration en attente de la réélection du CA prochainement en précisant toutefois que je n'en serai ni le président ni le vice président</commentaire>
+					<descriptionMandat>Membre de l'Office public de l'habitat " Pas de Calais Habitat"</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1 580</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 128</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>827</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 354</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2018</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pas de rémunération.</commentaire>
+					<descriptionMandat>Membre du comité de pilotage du Grand site de France</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>au titre de Président du conseil départemental en vertu du décret 2020-228 du 10 mars 2020 modifiant de décret 2017-427 relatif à la Société du Canal Seine Nord Europe</commentaire>
+					<descriptionMandat>Membre du Conseil de Surveillance de la Société Canal Seine Nord Europe</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>OBS 1 la fonction de président d'oph est exercée à titre bénévole et gratuit. Les montants déclarés ci dessus correspondent aux indemnités forfaitaires versées par l'Office pour la participation aux réunions du conseil d'administration et des commissions conformément aux dispositions de l'article R421-10 du code de la construction et de l'habitation. OBS 2 : je précise que suite à ma démission des fonctions de Président de l'OPH, je suis resté membre du conseil d'administration de pas de calais habitat jusqu'au prochain renouvellement du conseil départemental OBS 3 : je précise également qu'antérieurement à la fonction de président j'étais administrateur de l'Office et qu'à ce titre j'ai perçu en 2012 une somme de 1505 € et en 2013 une somme de 1505 € et ce au titre des indemnités forfaitaires conformément aux dispositions de l'article R421-10 du CCH</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Office public de l'habitat "PAS DE CALAIS HABITAT"</nomSociete>
+					<activite>PRESIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1600</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1360</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2240</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1656</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2014</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Agence Départementale d'Ingénierie n'a jamais fonctionné, et sera prochainement abrogée par délibération du Conseil Départemental. </commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Conseil Départemental </nomSociete>
+					<activite>Présidence Agence Départementale d'ingénierie Départementale </activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Institution Co Présidée avec Monsieur le Préfet du Pas de Calais. Fin de mandat : à l'expiration du mandat soit Mars 2021.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Conseil Départemental </nomSociete>
+					<activite>Co Présidence du Grand Site des Deux Caps </activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>Concernant les représentations il s'agit des premiers arrêtés de désignations
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>62</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Pas-de-Calais (62)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>32</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Elu départemental/Pas-de-Calais (62)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>LEROY</nom>
+				<prenom>Jean-Claude</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>03/06/1952</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

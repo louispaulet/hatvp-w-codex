@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>15/05/2025 15:25:26</dateDepot>
+		<uuid>86e5c7f1-886b-495d-a42d-16cd0a3ceeac</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<description>directeur général adjoint</description>
+					<employeur>EPSF</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>105 241</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>105 928</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>112 433</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>116 371</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>122 144</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>76 458</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Arundo</employeurConjoint>
+					<activiteProf>gérant</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>rubis</nomSociete>
+					<evaluation>3093</evaluation>
+					<remuneration>217</remuneration>
+					<capitalDetenu />
+					<nombreParts>110</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>vallourec</nomSociete>
+					<evaluation>2371</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>160</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>engie</nomSociete>
+					<evaluation>1114</evaluation>
+					<remuneration>114</remuneration>
+					<capitalDetenu />
+					<nombreParts>80</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>arcelormittal</nomSociete>
+					<evaluation>1054</evaluation>
+					<remuneration>11</remuneration>
+					<capitalDetenu />
+					<nombreParts>49</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>novartis</nomSociete>
+					<evaluation>1018</evaluation>
+					<remuneration>3 49</remuneration>
+					<capitalDetenu />
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>occidental petroleum</nomSociete>
+					<evaluation>849</evaluation>
+					<remuneration>12</remuneration>
+					<capitalDetenu />
+					<nombreParts>15</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>opmobility</nomSociete>
+					<evaluation>664</evaluation>
+					<remuneration>27</remuneration>
+					<capitalDetenu />
+					<nombreParts>70</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>viridien</nomSociete>
+					<evaluation>305</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>600</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>air liquide</nomSociete>
+					<evaluation>824</evaluation>
+					<remuneration>16</remuneration>
+					<capitalDetenu />
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>asml</nomSociete>
+					<evaluation>1978</evaluation>
+					<remuneration>12</remuneration>
+					<capitalDetenu />
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>dassault systèmes</nomSociete>
+					<evaluation>512</evaluation>
+					<remuneration>3</remuneration>
+					<capitalDetenu />
+					<nombreParts>15</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>imerys</nomSociete>
+					<evaluation>430</evaluation>
+					<remuneration>17</remuneration>
+					<capitalDetenu />
+					<nombreParts>13</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>thalès</nomSociete>
+					<evaluation>768</evaluation>
+					<remuneration>13</remuneration>
+					<capitalDetenu />
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ubisoft</nomSociete>
+					<evaluation>1228</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>55</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>chevron</nomSociete>
+					<evaluation>711</evaluation>
+					<remuneration>30</remuneration>
+					<capitalDetenu />
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>freeport</nomSociete>
+					<evaluation>944</evaluation>
+					<remuneration>5</remuneration>
+					<capitalDetenu />
+					<nombreParts>20</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>harmony gold</nomSociete>
+					<evaluation>6422</evaluation>
+					<remuneration>79</remuneration>
+					<capitalDetenu />
+					<nombreParts>700</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>rio tinto</nomSociete>
+					<evaluation>4055</evaluation>
+					<remuneration>262</remuneration>
+					<capitalDetenu />
+					<nombreParts>65</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>shell</nomSociete>
+					<evaluation>841</evaluation>
+					<remuneration>2.7</remuneration>
+					<capitalDetenu />
+					<nombreParts>25</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>valeo</nomSociete>
+					<evaluation>283</evaluation>
+					<remuneration>11</remuneration>
+					<capitalDetenu />
+					<nombreParts>28</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>wawi</nomSociete>
+					<evaluation>1880</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>220</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>hafni</nomSociete>
+					<evaluation>1986</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>280</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>nhy</nomSociete>
+					<evaluation>5170</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>900</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>anglo gold</nomSociete>
+					<evaluation>4841</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>180</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>glencore</nomSociete>
+					<evaluation>3099</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>580</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>aker</nomSociete>
+					<evaluation>6720</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>300</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>equinor</nomSociete>
+					<evaluation>15256</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>620</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>barrick gold</nomSociete>
+					<evaluation>15136</evaluation>
+					<remuneration>177</remuneration>
+					<capitalDetenu />
+					<nombreParts>905</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>newmont</nomSociete>
+					<evaluation>20444</evaluation>
+					<remuneration>240</remuneration>
+					<capitalDetenu />
+					<nombreParts>470</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>gold fields</nomSociete>
+					<evaluation>6429</evaluation>
+					<remuneration>162</remuneration>
+					<capitalDetenu />
+					<nombreParts>430</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>agnico</nomSociete>
+					<evaluation>4811</evaluation>
+					<remuneration>103</remuneration>
+					<capitalDetenu />
+					<nombreParts>70</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>anglo american</nomSociete>
+					<evaluation>7138</evaluation>
+					<remuneration>19</remuneration>
+					<capitalDetenu />
+					<nombreParts>250</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>RTX</nomSociete>
+					<evaluation>2811</evaluation>
+					<remuneration>70</remuneration>
+					<capitalDetenu />
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ENI</nomSociete>
+					<evaluation>2161</evaluation>
+					<remuneration>144</remuneration>
+					<capitalDetenu />
+					<nombreParts>150</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BP ADR</nomSociete>
+					<evaluation>1937</evaluation>
+					<remuneration>97</remuneration>
+					<capitalDetenu />
+					<nombreParts>60</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>taïwan semi conduct</nomSociete>
+					<evaluation>1699</evaluation>
+					<remuneration>20</remuneration>
+					<capitalDetenu />
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>lockheed martin</nomSociete>
+					<evaluation>1272</evaluation>
+					<remuneration>35</remuneration>
+					<capitalDetenu />
+					<nombreParts>3</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BHP</nomSociete>
+					<evaluation>3311</evaluation>
+					<remuneration>165</remuneration>
+					<capitalDetenu />
+					<nombreParts>62</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>northrop</nomSociete>
+					<evaluation>1587</evaluation>
+					<remuneration>30</remuneration>
+					<capitalDetenu />
+					<nombreParts>4</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EXXON</nomSociete>
+					<evaluation>730</evaluation>
+					<remuneration>24</remuneration>
+					<capitalDetenu />
+					<nombreParts>7</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député européen</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>EUR</codCategorieMandat>
+				<nomCategorieMandat>Député européen</nomCategorieMandat>
+				<codTypeMandatFichier>europe</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane />
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane />
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Député européen</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/07/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PIMPIE</nom>
+				<prenom>PIERRE</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>10/09/1971</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>25/08/2024 15:18:22</dateDepot>
+		<uuid>8434e32b-d045-4929-9699-768d4034e49e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Appui commercial</description>
+					<employeur>Caisse régionale du Crédit Agricole Mutuel de Guadeloupe</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8 951</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2017</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fin de contrat avec le Crédit Agricole de Guadeloupe le 19/04/2024</commentaire>
+					<description>Conseiller Clientèle Professionnels</description>
+					<employeur>Caisse régionale du Crédit Agricole Mutuel de Guadeloupe</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12 611</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>48 319</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>44 571</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>43 648</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>44 209</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>45 676</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>48 705</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>28 473</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2017</dateDebut>
+					<dateFin>04/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Activité axée sur la transformation digitale des entreprises  l optimisation des processus comptables et administratifs  et l automatisation des tâches. Offre de solutions sur mesure et de conseils stratégiques pour améliorer l efficacité opérationnelle.</description>
+					<employeur>FQSBH1</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2024</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivité à statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivité à statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivité</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>CTSTB</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivités à statut particulier</nomListeOrgane>
+				<labelOrgane>Conseil territorial Saint-Barthélemy</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant>Conseiller Territorial</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Collectivité à statut particulier/Conseil territorial Saint-Barthélemy/Conseiller Territorial</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/03/2022</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>QUERRARD</nom>
+				<prenom>Fabrice</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>27/03/1988</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

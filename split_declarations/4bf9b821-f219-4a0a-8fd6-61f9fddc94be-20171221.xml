@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>09/10/2023 15:21:53</dateDepot>
+		<uuid>4bf9b821-f219-4a0a-8fd6-61f9fddc94be</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Professeur des Universités</description>
+					<employeur>Université Grenoble Alpes</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>47690</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18159</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>32094</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>46269</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>46522</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>49768</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>51597</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>RIO TINTO par PIMAN</employeurConjoint>
+					<activiteProf>Chef de projet</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Activité bénévole sans rémunération.</commentaire>
+					<nomStructure>Association Loi 1901: "Territoires Singuliers" 
+        [Données non publiées]
+    .</nomStructure>
+					<descriptionActivite>Président</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Rémunération nette annuelle avant déduction des frais d'emploi.</commentaire>
+					<descriptionMandat>Président de métropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>34 467</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>43 673</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>43 667</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>44 194</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>43 808</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>44 011</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>42 862</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Rémunération nette annuelle après déduction des frais d'emploi.</commentaire>
+					<descriptionMandat>MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>22 157</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>17 255</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15 620</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17 245</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24 128</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20 027</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15 335</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>MAISON DE LA CULTURE DE GRENOBLE (EPCC)</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2017</dateDebut>
+					<dateFin>01/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>GRENOBLE ALPES METROPOLE</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/GRENOBLE ALPES METROPOLE/Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>18/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>FERRARI</nom>
+				<prenom>Christophe</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>18/05/1969</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

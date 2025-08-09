@@ -1,0 +1,975 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>23/07/2020 15:55:24</dateDepot>
+		<uuid>131d42e4-0c0e-4570-8af5-d15c51dd16b5</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>En retraite</commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Maire d'Ensisheim</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>21528</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21532</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21533</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>20752</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>20739</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17586</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8560</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Syndicat mixte ADAUHR</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Président Conseil Départemental du Haut-Rhin</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>28659</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>28551</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28157</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>28494</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>28079</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>29037</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14650</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Président Syndicat Eau EBE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>6667</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6645</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7864</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7003</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6880</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6727</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3400</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Président Syndicat Mixte de l'Ill</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>437</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>873</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>980</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>882</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>871</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>873</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>166</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Président Syndicat Mixte Thur Aval</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>437</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>436</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>436</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>435</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>435</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>436</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>83</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>Président Syndicat Mixte de recyclage des boues</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>639</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>638</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>720</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>720</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>613</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>724</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>121</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Bénévole</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Présidentdusyndicatderivièredehautealsace</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Bénévole</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Président Syndicat Mixte du Bioscope</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>président communauté de communes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>14197</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14543</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14078</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13824</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13658</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11616</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5950</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Président du Syndicat de Schéma de Cohérence Territorial RVGB</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Vice-Président du PETR Rhin Vignoble Grand Ballon</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>activité bénévole</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>ECOPARC</nomSociete>
+					<activite>hôtellerie restauration</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>11/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomSociete>Habitats de Haute Alsace</nomSociete>
+					<activite>membre du conseil d'aministration</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>50</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomSociete>Silo SICA</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>200</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>150</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>150</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>150</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>50</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomSociete>Etablissement du Port Rhénan</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>250</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>250</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>250</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>50</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomSociete>Commission Nationale du Débat Public</nomSociete>
+					<activite>membre</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3500</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3500</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3500</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3500</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1450</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomSociete>Haut Comité pour la Transparence et l'Information sur la Sûreté Nucléaire</nomSociete>
+					<activite>membre</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomSociete>Commission Locale d'Information et de Surveillance Centrale Nucléaire de Fessenheim</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>HabitatdeHauteAlsace</nomSociete>
+					<activite>Président</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Communauté de Communes du Centre Haut-Rhin</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Communauté de Communes du Centre Haut-Rhin/Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>08/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>HABIG</nom>
+				<prenom>Michel</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>16/02/1947</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

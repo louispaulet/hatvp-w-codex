@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>14/09/2022 22:46:27</dateDepot>
+		<uuid>182b7561-5006-48a5-bad0-5a19386d9456</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>suspension du contrat de travail en aout 2021</commentaire>
+					<description>service public</description>
+					<employeur>CPAM</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25 479</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>27 018</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>28 773</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>30 579</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>30 494</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>15 980</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>maire commune de Luzinay</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15 067</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15 256</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15 099</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>16 736</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12 484</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>15 980</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>conseiller communautaire CAPV</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7 125</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7 588</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5 121</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6 534</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8 484</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6 370</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>38</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Isère (38)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>84</organeParent>
+			</organe>
+			<qualiteDeclarant>VICE PRESIDENT</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Isère (38)/VICE PRESIDENT</qualiteDeclarantForPDF>
+			<dateDebutMandat>17/01/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>CHARLES</nom>
+				<prenom>Christophe</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>07/07/1970</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

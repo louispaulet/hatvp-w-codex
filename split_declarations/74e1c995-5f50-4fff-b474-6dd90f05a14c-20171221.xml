@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>13/09/2020 15:52:54</dateDepot>
+		<uuid>74e1c995-5f50-4fff-b474-6dd90f05a14c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<description>Chef de Département</description>
+					<employeur>SPIE CityNetworks</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>85605</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>79605</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>80111</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>80111</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>84650</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>91795</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>46936</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Education Nationale 
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Professeur d'Arts Plastiques</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnités calculées jusqu'en juillet 2020.</commentaire>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>10763</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14141</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14183</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>14384</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>14398</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14468</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10369</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Vice-Président EPCI</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>9477</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>10339</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10389</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5656</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Communauté de Communes Sundgau</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Communauté de Communes Sundgau/Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Fremiot</nom>
+				<prenom>Gilles</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>13/06/1968</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

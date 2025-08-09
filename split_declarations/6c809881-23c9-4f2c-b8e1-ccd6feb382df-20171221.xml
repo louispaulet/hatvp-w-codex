@@ -1,0 +1,819 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>18/08/2021 14:47:13</dateDepot>
+		<uuid>6c809881-23c9-4f2c-b8e1-ccd6feb382df</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>départ en retraite le 31/12/2018</commentaire>
+					<description>médecin généraliste</description>
+					<employeur>médecin libéral</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>20 040</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28 762</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>24 932</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>35 194</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>départ en retraite le 31/12/2018</commentaire>
+					<description>addictologue temps partiel</description>
+					<employeur>ANPAA 66</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14 290</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14 954</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15 065</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>23 350</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>néant</employeurConjoint>
+					<activiteProf>retraité de la fonction publique</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>pas de rémunération des conseillers d'opposition de 2015 à 2017</commentaire>
+					<descriptionMandat>conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3 013</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3 013</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>11/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>adjoint</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 062</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>18 200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 322</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 633</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Credit agricole parts sociales</nomSociete>
+					<evaluation>153</evaluation>
+					<remuneration>1</remuneration>
+					<capitalDetenu />
+					<nombreParts>10</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Adocia</nomSociete>
+					<evaluation>4229</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>143</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Air liquide</nomSociete>
+					<evaluation>11733</evaluation>
+					<remuneration>902</remuneration>
+					<capitalDetenu />
+					<nombreParts>304</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Arcelor</nomSociete>
+					<evaluation>2718</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>144</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Arkema</nomSociete>
+					<evaluation>8602</evaluation>
+					<remuneration>230</remuneration>
+					<capitalDetenu />
+					<nombreParts>92</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Atos</nomSociete>
+					<evaluation>7627</evaluation>
+					<remuneration>170</remuneration>
+					<capitalDetenu />
+					<nombreParts>102</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Auplata</nomSociete>
+					<evaluation>41</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>226</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Axa</nomSociete>
+					<evaluation>5853</evaluation>
+					<remuneration>402</remuneration>
+					<capitalDetenu />
+					<nombreParts>300</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BNP Paribas</nomSociete>
+					<evaluation>9267</evaluation>
+					<remuneration>340</remuneration>
+					<capitalDetenu />
+					<nombreParts>215</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BOUYGUES</nomSociete>
+					<evaluation>11777</evaluation>
+					<remuneration>595</remuneration>
+					<capitalDetenu />
+					<nombreParts>350</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Carmat</nomSociete>
+					<evaluation>4245</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>150</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Carrefour</nomSociete>
+					<evaluation>1585</evaluation>
+					<remuneration>48</remuneration>
+					<capitalDetenu />
+					<nombreParts>113</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Casino Guichard</nomSociete>
+					<evaluation>2947</evaluation>
+					<remuneration>182</remuneration>
+					<capitalDetenu />
+					<nombreParts>117</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Credit Agricole SA</nomSociete>
+					<evaluation>30733</evaluation>
+					<remuneration>690</remuneration>
+					<capitalDetenu />
+					<nombreParts>2980</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Danone</nomSociete>
+					<evaluation>12257</evaluation>
+					<remuneration>478</remuneration>
+					<capitalDetenu />
+					<nombreParts>228</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Dassault Systèmes</nomSociete>
+					<evaluation>12461</evaluation>
+					<remuneration>52</remuneration>
+					<capitalDetenu />
+					<nombreParts>75</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>DBV Technos</nomSociete>
+					<evaluation>95</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>22</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Engie</nomSociete>
+					<evaluation>14172</evaluation>
+					<remuneration>817</remuneration>
+					<capitalDetenu />
+					<nombreParts>1132</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Essilor Luxotica</nomSociete>
+					<evaluation>10204</evaluation>
+					<remuneration>163</remuneration>
+					<capitalDetenu />
+					<nombreParts>80</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FDJ</nomSociete>
+					<evaluation>4376</evaluation>
+					<remuneration>52</remuneration>
+					<capitalDetenu />
+					<nombreParts>117</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Hermès</nomSociete>
+					<evaluation>74766</evaluation>
+					<remuneration>386</remuneration>
+					<capitalDetenu />
+					<nombreParts>85</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Icade</nomSociete>
+					<evaluation>4526</evaluation>
+					<remuneration>292</remuneration>
+					<capitalDetenu />
+					<nombreParts>73</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Kering</nomSociete>
+					<evaluation>59440</evaluation>
+					<remuneration>1050</remuneration>
+					<capitalDetenu />
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>LVMH</nomSociete>
+					<evaluation>73569</evaluation>
+					<remuneration>892</remuneration>
+					<capitalDetenu />
+					<nombreParts>144</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Michelin</nomSociete>
+					<evaluation>8186</evaluation>
+					<remuneration>288</remuneration>
+					<capitalDetenu />
+					<nombreParts>78</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Neoen</nomSociete>
+					<evaluation>3762</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>60</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Nokia</nomSociete>
+					<evaluation>1061</evaluation>
+					<remuneration>23</remuneration>
+					<capitalDetenu />
+					<nombreParts>338</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Orange</nomSociete>
+					<evaluation>15655</evaluation>
+					<remuneration>736</remuneration>
+					<capitalDetenu />
+					<nombreParts>1609</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Oreal</nomSociete>
+					<evaluation>47552</evaluation>
+					<remuneration>647</remuneration>
+					<capitalDetenu />
+					<nombreParts>153</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Orpea</nomSociete>
+					<evaluation>3764</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>35</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Pharnext</nomSociete>
+					<evaluation>726</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>220</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Renault</nomSociete>
+					<evaluation>3576</evaluation>
+					<remuneration>355</remuneration>
+					<capitalDetenu />
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Safran</nomSociete>
+					<evaluation>52757</evaluation>
+					<remuneration>828</remuneration>
+					<capitalDetenu />
+					<nombreParts>455</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Saint Gobain</nomSociete>
+					<evaluation>6675</evaluation>
+					<remuneration>236</remuneration>
+					<capitalDetenu />
+					<nombreParts>178</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Sanofi</nomSociete>
+					<evaluation>20462</evaluation>
+					<remuneration>798</remuneration>
+					<capitalDetenu />
+					<nombreParts>260</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Schneider Electric</nomSociete>
+					<evaluation>33597</evaluation>
+					<remuneration>667</remuneration>
+					<capitalDetenu />
+					<nombreParts>284</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Societe generale</nomSociete>
+					<evaluation>4306</evaluation>
+					<remuneration>506</remuneration>
+					<capitalDetenu />
+					<nombreParts>253</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Suez</nomSociete>
+					<evaluation>11208</evaluation>
+					<remuneration>382</remuneration>
+					<capitalDetenu />
+					<nombreParts>691</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>TOTAL</nomSociete>
+					<evaluation>83025</evaluation>
+					<remuneration>5865</remuneration>
+					<capitalDetenu />
+					<nombreParts>2352</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Transgene</nomSociete>
+					<evaluation>2472</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>1500</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Valeo</nomSociete>
+					<evaluation>6875</evaluation>
+					<remuneration>266</remuneration>
+					<capitalDetenu />
+					<nombreParts>213</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Vallourec</nomSociete>
+					<evaluation>240</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>9</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Veolia</nomSociete>
+					<evaluation>12725</evaluation>
+					<remuneration>515</remuneration>
+					<capitalDetenu />
+					<nombreParts>636</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Vinci</nomSociete>
+					<evaluation>22862</evaluation>
+					<remuneration>747</remuneration>
+					<capitalDetenu />
+					<nombreParts>281</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Worldline</nomSociete>
+					<evaluation>6169</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>78</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>66136</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Perpignan (66)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>66</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Perpignan (66)</qualiteDeclarantForPDF>
+			<dateDebutMandat>02/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Gatault</nom>
+				<prenom>Jean-Yves</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>03/11/1954</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>20/11/2021 11:56:09</dateDepot>
+		<uuid>d722ea32-a646-4630-b7ad-c98541932e7e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>cette dernière valeur est approximative à la date de la déclaration car je n'avais pas la déclaration fiscale de 2021.</commentaire>
+					<description>professeur certifié en lycée</description>
+					<employeur>education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>35 872</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>37 372</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33 723</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>35 922</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>35 783</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>37 692</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>35 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>01/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>education nationale</employeurConjoint>
+					<activiteProf>professeure certifiée de Français en Lycée</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15 732</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15 760</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15 998</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15 816</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15 844</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>16 519</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 619</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>je suis devenu vice président en juillet 2020</commentaire>
+					<nomSociete>conseiller communautaire puis vice président</nomSociete>
+					<activite>EPCI CAPH</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>4 824</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>4 770</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4 832</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>4 776</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4 680</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8 557</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 900</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>CAPH</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>vice président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/CAPH/vice président</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>broquet</nom>
+				<prenom>jean-noel</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>15/07/1963</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

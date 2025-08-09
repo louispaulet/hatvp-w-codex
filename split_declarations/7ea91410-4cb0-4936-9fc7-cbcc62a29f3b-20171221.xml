@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>11/09/2020 17:17:34</dateDepot>
+		<uuid>7ea91410-4cb0-4936-9fc7-cbcc62a29f3b</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>EDUCATION NATIONALE</employeurConjoint>
+					<activiteProf>Professeure certifiée d'Histoire-Géographie</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller général</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>20071</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>20071</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>20131</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>20427</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>20437</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20437</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13624</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Les indemnités perçues entre avril 2014 et 2016 sont en netDepuis 2017, il convient de les considérer en brut</commentaire>
+					<descriptionMandat>Maire de VERDUN</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>14537</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>16491</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16389</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>31283</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>38273</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>38458</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>25638</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>AGGLO DU GRAND VERDUN</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Président EPCI de plus de 20000</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/AGGLO DU GRAND VERDUN/Président EPCI de plus de 20000</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>HAZARD</nom>
+				<prenom>Samuel</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>28/05/1979</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

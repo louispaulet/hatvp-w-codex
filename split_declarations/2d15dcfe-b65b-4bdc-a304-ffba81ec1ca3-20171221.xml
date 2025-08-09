@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>05/08/2020 16:48:10</dateDepot>
+		<uuid>2d15dcfe-b65b-4bdc-a304-ffba81ec1ca3</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Revenus déclarant</commentaire>
+					<description>Responsable Administratif et Financier</description>
+					<employeur>Université Bretagne Sud _ IRDL</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>21899</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21597</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21806</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21131</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21132</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>23023</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20098</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Adjointe au Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>8528</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>11541</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>11575</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11745</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>10529</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9704</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6647</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnités votées en septembre 2020, pas d'éléments à communiquer à ce jour</commentaire>
+					<descriptionMandat>Vice Présidente Lorient Agglomération</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>LORIENT AGGLOMERATION</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Vice Présidente</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/LORIENT AGGLOMERATION/Vice Présidente</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/07/2016</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>QUERO-RUEN</nom>
+				<prenom>Patricia</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>25/03/1970</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

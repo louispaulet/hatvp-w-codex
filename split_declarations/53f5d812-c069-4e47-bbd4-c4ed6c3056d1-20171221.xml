@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>06/08/2021 10:22:48</dateDepot>
+		<uuid>53f5d812-c069-4e47-bbd4-c4ed6c3056d1</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>il s'agit de la rémunération de gérance déclarée également en 1</commentaire>
+					<nomEmployeur>andamilauci</nomEmployeur>
+					<description>Conseil en gestion des risques</description>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>48 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>48 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>47 000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>36 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>gérante d'une société de conseil en gestion des risques</description>
+					<employeur>andamilauci</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>24 000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>48 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>48 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>47 000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>36 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>co-gérant</commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>gérant société conseil en gestion des risques</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Présidente bénévolle</commentaire>
+					<nomSociete>rotary club firminy gorges de la Loire</nomSociete>
+					<activite>club services</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>06/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Andamilauci</nomSociete>
+					<evaluation>160500</evaluation>
+					<remuneration>9147</remuneration>
+					<capitalDetenu>4</capitalDetenu>
+					<nombreParts>9147</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>JML INVEST</nomSociete>
+					<evaluation>11950</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>11</capitalDetenu>
+					<nombreParts>1051</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Les 4 C</nomSociete>
+					<evaluation>5000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>4000</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>sci 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>248000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>1500</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>sci 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>54000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>30</capitalDetenu>
+					<nombreParts>180</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>pea</commentaire>
+					<nomSociete>capgemini</nomSociete>
+					<evaluation>190</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>8</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>pea</commentaire>
+					<nomSociete>la française des jeux</nomSociete>
+					<evaluation>45</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>120</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>pea</commentaire>
+					<nomSociete>teleperformance</nomSociete>
+					<evaluation>360</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>4</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>42</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Loire (42)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>84</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Elu départemental/Loire (42)</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Cinieri</nom>
+				<prenom>Danièle</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>12/01/1959</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

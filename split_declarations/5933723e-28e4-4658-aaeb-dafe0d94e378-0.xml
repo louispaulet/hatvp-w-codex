@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>19/04/2020 23:04:57</dateDepot>
+		<uuid>5933723e-28e4-4658-aaeb-dafe0d94e378</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nature>Appartement</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 75)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>120</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2019</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>1200000</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>1200000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nature>Appartement</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 94)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>75</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2014</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>293930</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>325000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items />
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Valeur vénale = compte bancaire Objet social: activité indépendante de mandats d'administratrice ou de directrice indépendante dans des sociétés cotées ou non cotées</commentaire>
+					<denomination>ASCEND</denomination>
+					<valeurActuelle>16445</valeurActuelle>
+					<participation>100.0</participation>
+					<droitReel>Pleine propriété</droitReel>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>activité d'avocat de
+        [Données non publiées]
+    </commentaire>
+					<denomination>SELARL Hobson</denomination>
+					<valeurActuelle>0</valeurActuelle>
+					<participation>100.0</participation>
+					<droitReel>Pleine propriété</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<etablissement>BNPParibas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<naturePlacement>PEA</naturePlacement>
+					<valeur>1363</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<titulaire>SAbine Lochmann 
+        [Données non publiées]
+    </titulaire>
+					<etablissement>BNPParibas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<naturePlacement>PEA</naturePlacement>
+					<valeur>16</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>
+        [Données non publiées]
+    </souscripteur>
+					<etablissement>SOGECAP</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>09/04/1998</dateSouscription>
+					<valeurRachat>76224</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>sabine Lochmann Beaujour</souscripteur>
+					<etablissement>Amundi Protect</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>01/01/2012</dateSouscription>
+					<valeurRachat>6760</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Sabine Lochmann Beaujour</souscripteur>
+					<etablissement>SurAvenir Arkea</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>01/01/2012</dateSouscription>
+					<valeurRachat>20981</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Sabine Lochmann Beaujour</souscripteur>
+					<etablissement>Sur Avenir Arkea</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>01/01/2012</dateSouscription>
+					<valeurRachat>5696</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Sabine Lochmann Beaujour</souscripteur>
+					<etablissement>Cardif</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>28/01/2009</dateSouscription>
+					<valeurRachat>24360</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>
+        [Données non publiées]
+    </souscripteur>
+					<etablissement>Cardif</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>18/12/2015</dateSouscription>
+					<valeurRachat>3911</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Sabine Lochmann Beaujour</souscripteur>
+					<etablissement>Cardif</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>17/12/2015</dateSouscription>
+					<valeurRachat>26043</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Sabine Lochmann Beaujour</souscripteur>
+					<etablissement>Cardif</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>11/04/2008</dateSouscription>
+					<valeurRachat>14752</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BNPParibas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    Mme Lochmann Beaujour</titulaire>
+					<valeur>1417</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BNPParibas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Sabine Lochmann Beaujour</titulaire>
+					<valeur>15328</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>le compte est est USD</commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BNPParibas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>SAbine Lochmann Beaujour</titulaire>
+					<valeur>1186</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte d'épargne</typeCompte>
+					<etablissement>BNPParibas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Sabine Lochmann Beaujour</titulaire>
+					<valeur>73</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>LDD</typeCompte>
+					<etablissement>BNPParibas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>SAbine Lochmann Beaujour</titulaire>
+					<valeur>2751</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>CEL</typeCompte>
+					<etablissement>BNPParibas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>SAbine Lochmann Beaujour</titulaire>
+					<valeur>2122</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>PEL</typeCompte>
+					<etablissement>BNPParibas</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>SAbine Lochmann Beaujour</titulaire>
+					<valeur>3136</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items />
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items />
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>compte courant</description>
+					<denomination>Hobson</denomination>
+					<valeur>15000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Stock options</description>
+					<denomination>Johnson &amp; Johnson</denomination>
+					<valeur>70000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>la valeur est en USD</commentaire>
+					<description>Stock Options</description>
+					<denomination>Moody's</denomination>
+					<valeur>90000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items />
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomCreancier>BNPParibas</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>prêt immobilier</nature>
+					<datePassif>15/03/2019</datePassif>
+					<objetDette>acquisition immoiliere</objetDette>
+					<montant>1200000</montant>
+					<duree>240</duree>
+					<restantDu>1145410</restantDu>
+					<mensualite>4772</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomCreancier>BNPParibas</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>Prêt logement</nature>
+					<datePassif>15/01/2014</datePassif>
+					<objetDette>acquisition immobiliere</objetDette>
+					<montant>293930</montant>
+					<duree>228</duree>
+					<restantDu>233900</restantDu>
+					<mensualite>1888</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items />
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items />
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items />
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration initiale de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre ou dirigeant d’une autorité administrative indépendante</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>AAI</codCategorieMandat>
+				<nomCategorieMandat>Membre d’une AAI</nomCategorieMandat>
+				<codTypeMandatFichier>aai</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>AAI</labelOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>HATVP</codeOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+				<nomListeOrgane>Autorités administratives indépendantes</nomListeOrgane>
+				<labelOrgane>Haute Autorité pour la transparence de la vie publique (HATVP)</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>membre</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Haute Autorité pour la transparence de la vie publique (HATVP)/membre</qualiteDeclarantForPDF>
+			<dateDebutMandat>26/02/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Communauté légale réduite aux acquêts</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Lochmann Beaujour</nom>
+				<prenom>Sabine</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>22/03/1966</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

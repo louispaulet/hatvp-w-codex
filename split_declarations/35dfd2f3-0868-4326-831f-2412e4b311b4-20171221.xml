@@ -1,0 +1,965 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>02/02/2025 19:55:44</dateDepot>
+		<uuid>35dfd2f3-0868-4326-831f-2412e4b311b4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Ministre</description>
+					<employeur>Etat</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>26 234</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2024</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>ville de Sainte Adresse</employeurConjoint>
+					<activiteProf>directeur général des services</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>représentante de la Communauté d'agglomération du Havre</commentaire>
+					<nomStructure>Conseil de développement du Grand Port Maritime du Havre</nomStructure>
+					<descriptionActivite>membre</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>représentante de la ville du Havre</commentaire>
+					<nomStructure>Agence d'urbanisme de la région havraise</nomStructure>
+					<descriptionActivite>membre du conseil d'administration</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>GIP Normandie Impressionniste</nomStructure>
+					<descriptionActivite>Activités culturelles</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>Pole métropolitain de l estuaire de la Seine</nomStructure>
+					<descriptionActivite>Syndicat mixte fermé</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomStructure>Association des Villes pour le vote électronique</nomStructure>
+					<descriptionActivite>Association regroupant les villes utilisatrices de machines à voter</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>sénateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>74 668</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>74 980</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>61 826</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>67 088</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>68 262</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>69 957</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>49 934</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>10/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2 412</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 412</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 412</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 412</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2 496</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>2 496</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 556</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>10/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseillère municipale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8 082</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6 450</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 940</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7 109</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>7 356</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>7 512</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>7 512</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>10/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>Association Régionale des Missions locales</nomSociete>
+					<activite>présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>10/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>Mission Locale le Havre Estuaire et Littoral</nomSociete>
+					<activite>Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2018</dateDebut>
+					<dateFin>10/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>chantier d'insertion</commentaire>
+					<nomSociete>Médiaction</nomSociete>
+					<activite>présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>Union nationale des Missions Locales</nomSociete>
+					<activite>Vice-présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>10/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>Association Louis Delamare</nomSociete>
+					<activite>Présidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>10/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>Ecole de production de la Métropole havraise</nomSociete>
+					<activite>Ecole de formation chaudronnerie pour des jeunes décrocheurs</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>10/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIR LIQUIDE</nomSociete>
+					<evaluation>4404</evaluation>
+					<remuneration>2391,25</remuneration>
+					<capitalDetenu />
+					<nombreParts>25</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AXA</nomSociete>
+					<evaluation>3346</evaluation>
+					<remuneration>1252,27</remuneration>
+					<capitalDetenu />
+					<nombreParts>97</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BNP PARISBAS</nomSociete>
+					<evaluation>6013</evaluation>
+					<remuneration>489,25</remuneration>
+					<capitalDetenu />
+					<nombreParts>95</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CAPGEMINI</nomSociete>
+					<evaluation>2598</evaluation>
+					<remuneration>1381,25</remuneration>
+					<capitalDetenu />
+					<nombreParts>13</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CRÉDIT AGRICOLE</nomSociete>
+					<evaluation>907</evaluation>
+					<remuneration>- 11,70</remuneration>
+					<capitalDetenu />
+					<nombreParts>65</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>DANONE</nomSociete>
+					<evaluation>2294</evaluation>
+					<remuneration>142,45</remuneration>
+					<capitalDetenu />
+					<nombreParts>35</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>DASSAULT SYSTÈME SE</nomSociete>
+					<evaluation>1942</evaluation>
+					<remuneration>327,54</remuneration>
+					<capitalDetenu />
+					<nombreParts>53</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ESSILORLUXOTTICA</nomSociete>
+					<evaluation>1067</evaluation>
+					<remuneration>461,20</remuneration>
+					<capitalDetenu />
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>HERMÈS INTERNATIONAL</nomSociete>
+					<evaluation>4464</evaluation>
+					<remuneration>3575,62</remuneration>
+					<capitalDetenu />
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>L OREAL</nomSociete>
+					<evaluation>5277</evaluation>
+					<remuneration>2669,16</remuneration>
+					<capitalDetenu />
+					<nombreParts>13</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>LVMH MOET HENESSY VUITTON</nomSociete>
+					<evaluation>9847</evaluation>
+					<remuneration>5499,62</remuneration>
+					<capitalDetenu />
+					<nombreParts>14</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>MICHELIN</nomSociete>
+					<evaluation>2714</evaluation>
+					<remuneration>696,42</remuneration>
+					<capitalDetenu />
+					<nombreParts>73</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SAINT GOBAIN</nomSociete>
+					<evaluation>1247</evaluation>
+					<remuneration>610,95</remuneration>
+					<capitalDetenu />
+					<nombreParts>15</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SANOFI</nomSociete>
+					<evaluation>5663</evaluation>
+					<remuneration>1051,60</remuneration>
+					<capitalDetenu />
+					<nombreParts>55</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCHNEIDER ELECTRIC SE</nomSociete>
+					<evaluation>7691</evaluation>
+					<remuneration>4557,44</remuneration>
+					<capitalDetenu />
+					<nombreParts>32</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>THALES</nomSociete>
+					<evaluation>1591</evaluation>
+					<remuneration>107,34</remuneration>
+					<capitalDetenu />
+					<nombreParts>11</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>TOTAL</nomSociete>
+					<evaluation>8517</evaluation>
+					<remuneration>2027,52</remuneration>
+					<capitalDetenu />
+					<nombreParts>144</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>VEOLIA ENVIRONNEMENT</nomSociete>
+					<evaluation>1953</evaluation>
+					<remuneration>646,75</remuneration>
+					<capitalDetenu />
+					<nombreParts>65</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>VINCI</nomSociete>
+					<evaluation>4977</evaluation>
+					<remuneration>1528,20</remuneration>
+					<capitalDetenu />
+					<nombreParts>45</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIRBUS</nomSociete>
+					<evaluation>5352</evaluation>
+					<remuneration>1514,80</remuneration>
+					<capitalDetenu />
+					<nombreParts>40</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ASML HOLDING</nomSociete>
+					<evaluation>1514</evaluation>
+					<remuneration>-137,88</remuneration>
+					<capitalDetenu />
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EDENRED</nomSociete>
+					<evaluation>825</evaluation>
+					<remuneration>- 204,47</remuneration>
+					<capitalDetenu />
+					<nombreParts>23</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PERNOD RICARD</nomSociete>
+					<evaluation>977</evaluation>
+					<remuneration>- 271,32</remuneration>
+					<capitalDetenu />
+					<nombreParts>7</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PUBLICIS GROUPE</nomSociete>
+					<evaluation>1414</evaluation>
+					<remuneration>16,24</remuneration>
+					<capitalDetenu />
+					<nombreParts>14</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>TELEPERFORMANCE</nomSociete>
+					<evaluation>682</evaluation>
+					<remuneration>- 18,34</remuneration>
+					<capitalDetenu />
+					<nombreParts>7</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>STELLANTIS</nomSociete>
+					<evaluation>2967</evaluation>
+					<remuneration>770,71</remuneration>
+					<capitalDetenu />
+					<nombreParts>204</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>STMICROELECTRONICS</nomSociete>
+					<evaluation>1621</evaluation>
+					<remuneration>-420,20</remuneration>
+					<capitalDetenu />
+					<nombreParts>59</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SAFRAN PROV;ECH</nomSociete>
+					<evaluation>3201</evaluation>
+					<remuneration>1312,95</remuneration>
+					<capitalDetenu />
+					<nombreParts>15</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>SAVOYE-REYAL Morgane</nom>
+					<employeur />
+					<descriptionActivite>Accompagnement des fonctions de senateur</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>VERGEZ-HONTA Paul</nom>
+					<employeur />
+					<descriptionActivite>Accompagnement travail lègislatif</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>76</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Seine-Maritime(76)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Seine-Maritime(76)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/01/2025</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>CANAYER</nom>
+				<prenom>Agnès</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>21/09/1965</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

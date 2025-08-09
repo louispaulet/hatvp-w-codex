@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>24/05/2025 18:44:25</dateDepot>
+		<uuid>1cf652cc-e7bb-4da0-9c4c-b7cd0c1c77e0</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nature>Appartement</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 75)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>70</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2006</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>45.0</quotePart>
+					<prixAcquisition>422000</prixAcquisition>
+					<prixTravaux />
+					<valeurVenale>250500</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 44)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>90</superficieBati>
+					<superficieNonBati>0.7</superficieNonBati>
+					<dateAcquisition>2015</dateAcquisition>
+					<origine>Succession</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>37.5</quotePart>
+					<prixAcquisition>100000</prixAcquisition>
+					<prixTravaux />
+					<valeurVenale>37500</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<denomination>
+            [Données non publiées]
+        </denomination>
+					<droitReel>Pleine propriété</droitReel>
+					<capitalDetenu>0.2</capitalDetenu>
+					<autreActif>Ensemble de deux villas situées 
+        [Données non publiées]
+     1: superficie 260 m2 2) 
+        [Données non publiées]
+     superficie 247 m2 Valorisation totale: 6 millions d'euros.</autreActif>
+					<passif>Compte courant associé: 7 2 millions d'euros</passif>
+					<valeur>15</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<denomination>Icare Finance</denomination>
+					<valeurActuelle>22670940</valeurActuelle>
+					<participation>35.0</participation>
+					<droitReel>Pleine propriété</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Ferracci Marc</souscripteur>
+					<etablissement>Société Générale</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>09/01/2006</dateSouscription>
+					<valeurRachat>213</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Société Générale</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Ferracci Marc</titulaire>
+					<valeur>2493</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Société Générale</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Ferracci Marc</titulaire>
+					<valeur>251</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>Société Générale</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Ferracci Marc</titulaire>
+					<valeur>9473</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte d'épargne</typeCompte>
+					<etablissement>Société Générale</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Ferracci Marc</titulaire>
+					<valeur>1298</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CIC</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+     et Marc Ferracci</titulaire>
+					<valeur>613</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<neant>true</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<annee>2024</annee>
+					<revenuMandatItem0>
+						<typeRevenu>Indemnités d'élu</typeRevenu>
+						<revenuElu />
+						<revenuConjoint />
+					</revenuMandatItem0>
+					<revenuMandatItem1>
+						<typeRevenu>Traitements salaires</typeRevenu>
+						<revenuElu>23715</revenuElu>
+						<revenuConjoint>184319</revenuConjoint>
+					</revenuMandatItem1>
+					<revenuMandatItem2>
+						<typeRevenu>Pensions retraites rentes</typeRevenu>
+						<revenuElu />
+						<revenuConjoint />
+					</revenuMandatItem2>
+					<revenuMandatItem3>
+						<typeRevenu>Revenus professionnels (BNC BIC BA)</typeRevenu>
+						<revenuElu />
+						<revenuConjoint />
+					</revenuMandatItem3>
+					<revenuMandatItem4>
+						<typeRevenu>Revenus capitaux mobiliers</typeRevenu>
+						<revenuElu />
+						<revenuConjoint />
+					</revenuMandatItem4>
+					<revenuMandatItem5>
+						<typeRevenu>Revenus fonciers</typeRevenu>
+						<revenuElu>6000</revenuElu>
+						<revenuConjoint>6000</revenuConjoint>
+					</revenuMandatItem5>
+					<revenuMandatItem6>
+						<typeRevenu>Autres revenus</typeRevenu>
+						<revenuElu />
+						<revenuConjoint />
+					</revenuMandatItem6>
+					<revenuMandatItem7>
+						<typeRevenu>Plus-values mobilières</typeRevenu>
+						<revenuElu />
+						<revenuConjoint />
+					</revenuMandatItem7>
+					<revenuMandatItem8>
+						<typeRevenu>Plus-values immobilières</typeRevenu>
+						<revenuElu />
+						<revenuConjoint />
+					</revenuMandatItem8>
+					<totalElu>29715</totalElu>
+					<totalConjoint>190319</totalConjoint>
+				</items>
+			</items>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>true</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSPFM</id>
+				<label>Déclaration de situation patrimoniale de fin de mandat modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mindus23</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère délégué chargé de l'industrie</labelOrgane>
+				<labelDeclaration>Ministre délégué chargé de l'industrie</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre délégué chargé de l'industrie</qualiteDeclarantForPDF>
+			<dateDebutMandat />
+			<dateFinMandat>23/12/2024</dateFinMandat>
+			<dateDernDeclar />
+			<regimeMatrimonial>Séparation de biens</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Ferracci</nom>
+				<prenom>Marc</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>19/12/1977</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

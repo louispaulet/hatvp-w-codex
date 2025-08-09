@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>14/02/2021 15:12:11</dateDepot>
+		<uuid>17e617b9-fa57-4e76-b629-dd116320f188</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomStructure>ANATEEP - Association Nationale qui travaille pour l'amélioration du transport scolaire public</nomStructure>
+					<descriptionActivite>présidente bénévole de cette association</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>il s'agit des indemnités relatives à mon mandat de sénatrice</commentaire>
+					<descriptionMandat>sénatrice</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>50 000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>49 800</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49 800</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>67 550</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66 800</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67 000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>61 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>je suis conseillère départementale depuis 2008, renouvelée en 2015 jusqu'en 2021</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>conseillère départementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>19 200</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>19 200</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19 200</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>20 300</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>20 160</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12 500</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 600</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>je ne suis plus membre de l'EPFNA depuis plusieurs années car non compatible avec un mandat de sénateur</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>EPF Nouvelle Aquitaine</nomSociete>
+					<activite>membre du C.A.</activite>
+					<remuneration />
+					<dateDebut>10/2020</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je ne suis plus ni présidente ni membre du Syndicat des aéroports de Charente depuis 2015</commentaire>
+					<nomSociete>Syndicat des aéroports de Charente</nomSociete>
+					<activite>Présidente</activite>
+					<remuneration />
+					<dateDebut>10/2020</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>il s'agit de parts sociales auprès du Crédit Mutuel 
+        [Données non publiées]
+     . Parts sociales d'un montant fixe et non rémunéré de 44€</commentaire>
+					<nomSociete>CREDIT MUTUEL 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>44</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>VILLENEUVE jordan</nom>
+					<employeur>collaborateur parlementaire en Charente</employeur>
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Marie FRANCESCONI</nom>
+					<employeur>collaborateur parlementaire en Charente</employeur>
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nom>Angélique SUSINI</nom>
+					<employeur>collaborateur parlementaire au Sénat</employeur>
+					<descriptionActivite />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>16</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Charente(16)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Charente(16)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/10/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>BONNEFOY</nom>
+				<prenom>Nicole</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>11/08/1958</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

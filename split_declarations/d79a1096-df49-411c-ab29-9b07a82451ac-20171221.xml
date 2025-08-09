@@ -1,0 +1,782 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>28/04/2025 00:23:22</dateDepot>
+		<uuid>d79a1096-df49-411c-ab29-9b07a82451ac</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<description>Directrice Commerciale</description>
+					<employeur>Vestiaire Collective</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>112 524</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>162 398</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>170 565</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2019</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<description>Directrice de la Mission French Tech</description>
+					<employeur>Ministère de l'Economie et des Finances</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>14 614</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>84 296</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>105 521</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>85 718</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2021</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>Secrétaire d'Etat à l'IA et au Numérique</description>
+					<employeur>Gouvernement</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>25 458</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2024</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Jump</employeurConjoint>
+					<activiteProf>Directeur des Opérations</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Elue au conseil d'administration jusqu'à juin 2025</commentaire>
+					<nomSociete>ESSEC Alumni</nomSociete>
+					<activite>Membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>Vestiaire Collective</nomSociete>
+					<evaluation>74877</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>162776</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>Felix Capital</nomSociete>
+					<evaluation>135940</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>10</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIR LIQUIDE</nomSociete>
+					<evaluation>10567</evaluation>
+					<remuneration>173</remuneration>
+					<capitalDetenu />
+					<nombreParts>60</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BNP PARIBAS</nomSociete>
+					<evaluation>11892</evaluation>
+					<remuneration>723</remuneration>
+					<capitalDetenu />
+					<nombreParts>190</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BUREAU VERITAS</nomSociete>
+					<evaluation>9720</evaluation>
+					<remuneration>244</remuneration>
+					<capitalDetenu />
+					<nombreParts>425</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>DASSAULT SYSTEMES SE</nomSociete>
+					<evaluation>12165</evaluation>
+					<remuneration>56</remuneration>
+					<capitalDetenu />
+					<nombreParts>275</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>DEUTSCHE BOERSE AG</nomSociete>
+					<evaluation>13055</evaluation>
+					<remuneration>174</remuneration>
+					<capitalDetenu />
+					<nombreParts>70</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ESSILORLUXOTTICA SA</nomSociete>
+					<evaluation>8172</evaluation>
+					<remuneration>110</remuneration>
+					<capitalDetenu />
+					<nombreParts>45</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>HEINEKEN NV</nomSociete>
+					<evaluation>9654</evaluation>
+					<remuneration>161</remuneration>
+					<capitalDetenu />
+					<nombreParts>105</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>HERMES INTERNATIONAL SA</nomSociete>
+					<evaluation>7675</evaluation>
+					<remuneration>51</remuneration>
+					<capitalDetenu />
+					<nombreParts>4</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>KONE OYJ -B-</nomSociete>
+					<evaluation>8580</evaluation>
+					<remuneration>203</remuneration>
+					<capitalDetenu />
+					<nombreParts>190</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>L'OREAL</nomSociete>
+					<evaluation>9013</evaluation>
+					<remuneration>117</remuneration>
+					<capitalDetenu />
+					<nombreParts>20</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>LVMH</nomSociete>
+					<evaluation>11004</evaluation>
+					<remuneration>128</remuneration>
+					<capitalDetenu />
+					<nombreParts>15</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>MERCK KGAA</nomSociete>
+					<evaluation>9367</evaluation>
+					<remuneration>69</remuneration>
+					<capitalDetenu />
+					<nombreParts>65</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PERNOD RICARD</nomSociete>
+					<evaluation>8786</evaluation>
+					<remuneration>232</remuneration>
+					<capitalDetenu />
+					<nombreParts>55</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SANOFI</nomSociete>
+					<evaluation>11669</evaluation>
+					<remuneration>451</remuneration>
+					<capitalDetenu />
+					<nombreParts>130</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SMURFIT KAPPA GROUP</nomSociete>
+					<evaluation>9867</evaluation>
+					<remuneration>255</remuneration>
+					<capitalDetenu />
+					<nombreParts>275</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ST MICROELECTRONICS</nomSociete>
+					<evaluation>8138</evaluation>
+					<remuneration>32</remuneration>
+					<capitalDetenu />
+					<nombreParts>180</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>TOTALENERGIES SE</nomSociete>
+					<evaluation>10780</evaluation>
+					<remuneration>455</remuneration>
+					<capitalDetenu />
+					<nombreParts>175</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ASTRAZENECA PLC</nomSociete>
+					<evaluation>12197</evaluation>
+					<remuneration>252</remuneration>
+					<capitalDetenu />
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EPIROC AB -A-</nomSociete>
+					<evaluation>10478</evaluation>
+					<remuneration>133</remuneration>
+					<capitalDetenu />
+					<nombreParts>575</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>NESTLE SA</nomSociete>
+					<evaluation>10530</evaluation>
+					<remuneration>183</remuneration>
+					<capitalDetenu />
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ROCHE HOLDING AG</nomSociete>
+					<evaluation>10562</evaluation>
+					<remuneration>233</remuneration>
+					<capitalDetenu />
+					<nombreParts>40</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>UNILEVER PLC</nomSociete>
+					<evaluation>8332</evaluation>
+					<remuneration>277</remuneration>
+					<capitalDetenu />
+					<nombreParts>190</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ASML HOLDING N.V.</nomSociete>
+					<evaluation>14334</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>20</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCHNEIDER ELECTRIC SE</nomSociete>
+					<evaluation>9368</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>40</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCP LAZARD INVEST. PEA-PME-A2D</nomSociete>
+					<evaluation>17322</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>90</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>GIVAUDAN</nomSociete>
+					<evaluation>14250</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>3</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SMURFIT WESTROCK LIMITED</nomSociete>
+					<evaluation>11680</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>275</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ACCENTURE</nomSociete>
+					<evaluation>18014</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>60</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>ALPHABET</nomSociete>
+					<evaluation>17425</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>120</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AMAZON</nomSociete>
+					<evaluation>18705</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>110</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AMUND.S&amp;P500 II.ETF(DH)-D- EUR</nomSociete>
+					<evaluation>21442</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>75</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BERKSHIRE HATHAWAY INC. -B-</nomSociete>
+					<evaluation>18527</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>45</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EDR US VALUE</nomSociete>
+					<evaluation>34897</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>205</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCP LAZ.ACT.AMER.-PC H EUR(3D)</nomSociete>
+					<evaluation>51933</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>150</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>KLA CORPORATION</nomSociete>
+					<evaluation>18677</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>27</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>MICROSOFT CORP</nomSociete>
+					<evaluation>23573</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>60</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>NVIDIA</nomSociete>
+					<evaluation>23751</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>27</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>VISA INC</nomSociete>
+					<evaluation>20436</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>80</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>LAZARD JAPON</nomSociete>
+					<evaluation>18063</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>15</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>FCP LAZ. ACTS. EMERGENTES-R-3D</nomSociete>
+					<evaluation>42692</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>22</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>OFI INVEST PREC.METALS</nomSociete>
+					<evaluation>12890</evaluation>
+					<remuneration>Pas de rémunération</remuneration>
+					<capitalDetenu />
+					<nombreParts>10</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mdian24</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère délégué chargé de l'intelligence artificielle et du numérique</labelOrgane>
+				<labelDeclaration>Ministre déléguée chargée de l'intelligence artificielle et du numérique</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre déléguée chargée de l'intelligence artificielle et du numérique</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Chappaz</nom>
+				<prenom>Clara</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>14/06/1989</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

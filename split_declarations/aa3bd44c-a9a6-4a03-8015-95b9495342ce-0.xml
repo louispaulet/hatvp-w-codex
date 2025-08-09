@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>22/04/2025 14:20:13</dateDepot>
+		<uuid>aa3bd44c-a9a6-4a03-8015-95b9495342ce</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>appartement</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 59)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>130</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2020</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>380000</prixAcquisition>
+					<prixTravaux>20000</prixTravaux>
+					<valeurVenale>400000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items />
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<denomination>SAS Open !</denomination>
+					<valeurActuelle>15053</valeurActuelle>
+					<participation />
+					<droitReel>Pleine propriété</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<titulaire>Charlotte Parmentier</titulaire>
+					<etablissement>Air Liquide</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<naturePlacement>Détention directe</naturePlacement>
+					<valeur>5388</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>LECOCQ</souscripteur>
+					<etablissement>AGIPI</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>02/01/2015</dateSouscription>
+					<valeurRachat>15600</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>CEL</typeCompte>
+					<etablissement>Banque populaire</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Parmentier</titulaire>
+					<valeur>305</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>dépôt solidarité casden</typeCompte>
+					<etablissement>banque populaire</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Parmentier</titulaire>
+					<valeur>138</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>livret A</typeCompte>
+					<etablissement>banque populaire</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Parmentier</titulaire>
+					<valeur>230</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>LDD</typeCompte>
+					<etablissement>banque populaire</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Parmentier</titulaire>
+					<valeur>206</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>banque populaire
+        [Données non publiées]
+    </etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Parmentier</titulaire>
+					<valeur>1487</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>compte espèces PEA</typeCompte>
+					<etablissement>Banque populaire</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Parmentier</titulaire>
+					<valeur>437</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items />
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items />
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items />
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items />
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items />
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomCreancier>banque populaire</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>Prêt habitat + travaux</nature>
+					<datePassif>01/04/2020</datePassif>
+					<objetDette>
+        [Données non publiées]
+    </objetDette>
+					<montant>410000</montant>
+					<duree>240</duree>
+					<restantDu>320823</restantDu>
+					<mensualite>1867</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomCreancier>banque populaire</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>prêt</nature>
+					<datePassif>28/07/2023</datePassif>
+					<objetDette>
+        [Données non publiées]
+    </objetDette>
+					<montant>15000</montant>
+					<duree>24</duree>
+					<restantDu>4544</restantDu>
+					<mensualite>661</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items />
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mdhand24</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère délégué chargé de l'autonomie et du handicap</labelOrgane>
+				<labelDeclaration>Ministre déléguée chargée de l'autonomie et du handicap</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre déléguée chargée de l'autonomie et du handicap</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Néant</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>LECOCQ</nom>
+				<prenom>Charlotte</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>17/07/1977</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>03/06/2021 17:10:36</dateDepot>
+		<uuid>70cacad1-2306-42ec-8033-7a69ec949454</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<description>RRH</description>
+					<employeur>Icar Services</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>31850</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>31850</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>31850</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>31850</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>31850</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>31850</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>31850</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>31850</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>31850</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21232</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>gerant de la société</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>nov 2017 début des fonctions d'adjointe a la maire de Paris</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>conseillère municipale</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13977</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18636</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18636</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15530</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>01/01/2019 fusion départementale et ville de Paris (fin de l'indemnité distincte de conseillère départementale)</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>conseillère départementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>24381</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>32508</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>32508</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>32508</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>32508</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>brut 2020 arrêté au 31/08/2020</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>conseillère métropolitaine</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5852</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11700</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>11761</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11761</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5782</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>01/01/19 fusion ville et département (plus qu'une seule indemnité fusionnée) brut 2020 arrêté au 31/08/2020 2021 correspond a la période janvier à mai inclus en net après impôts.</commentaire>
+					<descriptionMandat>adjointe a la maire de Paris</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5804</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>34824</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67668</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>45117</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>18 775</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>(2020 commencé en juillet 2020 et arrêté en mai 2021 pour la période 2021 net après impôts en date de la déclaration modificative)</commentaire>
+					<descriptionMandat>conseillère déléguée à la métropole du Grand Paris</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5 110</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 110</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<nomSociete>SEMMARIS</nomSociete>
+					<activite>membre du conseil d'administartion</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>317</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>500</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>550</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>530</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>995</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>350</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>fin des fonctions de présidente en février 2018</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SAEPOPB</nomSociete>
+					<activite>presidente</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18888</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18888</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18888</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2832</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin>02/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PARIS MUSEES</nomSociete>
+					<activite>vice-presidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SEMAEST</nomSociete>
+					<activite>administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CEP (comite des expositions de Paris)</nomSociete>
+					<activite>administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>PIE</nomSociete>
+					<activite>administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SYCTOM</nomSociete>
+					<activite>suppléante</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>CDAC</nomSociete>
+					<activite>représentante de la Maire deParis</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>icar services</nomSociete>
+					<evaluation>100</evaluation>
+					<remuneration>12500 euros net pour l'année 2016 perçus en 2017</remuneration>
+					<capitalDetenu>49</capitalDetenu>
+					<nombreParts>49</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>aucune activité sur la société</commentaire>
+					<nomSociete>tchita boum production</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75000</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Paris (75)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>75</organeParent>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Paris (75)</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>gabelotaud</nom>
+				<prenom>afaf</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>09/10/1975</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

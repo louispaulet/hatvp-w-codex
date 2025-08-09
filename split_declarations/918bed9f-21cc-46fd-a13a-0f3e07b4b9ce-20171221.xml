@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>11/10/2019 12:41:12</dateDepot>
+		<uuid>918bed9f-21cc-46fd-a13a-0f3e07b4b9ce</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>PV_AG.pdf</fileName>
+				<serverFileName>918bed9f-21cc-46fd-a13a-0f3e07b4b9ce_pj01</serverFileName>
+				<base64EncodedContent />
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fin de fonction au 1er juin 2019 (PV AG joint)</commentaire>
+					<description>GERANT</description>
+					<employeur>OPTIMUS SARL</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>18600</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15950</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16892</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>82417</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>70892</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>25000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>05/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items />
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>OPTIMUS SARL</nomSociete>
+					<activite>GERANT</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>05/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>ANNEE 2018</commentaire>
+					<nomSociete>OPTIMUS SARL</nomSociete>
+					<evaluation>2833</evaluation>
+					<remuneration>78.892 euros net sur l'année 2018</remuneration>
+					<capitalDetenu>34</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>
+        [Données non publiées]
+    .</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Dirigeant du secteur public (sociétés publiques, offices publics de l’habitat, EPIC de l’Etat…)</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Autre</typeMandat>
+				<codCategorieMandat>DIR</codCategorieMandat>
+				<nomCategorieMandat>Dirigeant du secteur public</nomCategorieMandat>
+				<codTypeMandatFichier>sn</codTypeMandatFichier>
+				<labelTypeMandat>Autre</labelTypeMandat>
+				<labelOrgane>Nom de la structure </labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane />
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>VICE-PRESIDENT</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Autre/VICE-PRESIDENT</qualiteDeclarantForPDF>
+			<dateDebutMandat>18/07/2019</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete>PROVINCE-SUD</nomSociete>
+			<nomSocieteMere>NOUVELLE-CALEDONIE</nomSocieteMere>
+			<chiffreAffaire>0</chiffreAffaire>
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>tukumuli</nom>
+				<prenom>milakulo</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>19/10/1984</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

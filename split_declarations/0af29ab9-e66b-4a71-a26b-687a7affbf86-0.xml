@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>23/01/2025 11:46:56</dateDepot>
+		<uuid>0af29ab9-e66b-4a71-a26b-687a7affbf86</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entrée dans le patrimoine</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<nature>maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 25)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>240</superficieBati>
+					<superficieNonBati>0.088</superficieNonBati>
+					<dateAcquisition>2009</dateAcquisition>
+					<origine>ACQUISITION</origine>
+					<droitReel>Usufruit</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>350000</prixAcquisition>
+					<prixTravaux>51433</prixTravaux>
+					<valeurVenale>240000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entrée dans le patrimoine</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<nature>maison</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 25)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>64</superficieBati>
+					<superficieNonBati>0.01</superficieNonBati>
+					<dateAcquisition>2001</dateAcquisition>
+					<origine>acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>100000</prixAcquisition>
+					<prixTravaux>51215</prixTravaux>
+					<valeurVenale>200000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 25)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>292</superficieBati>
+					<superficieNonBati>0.19</superficieNonBati>
+					<dateAcquisition>2016</dateAcquisition>
+					<origine>Succession</origine>
+					<droitReel>Nue-propriété</droitReel>
+					<quotePart>8.33</quotePart>
+					<prixAcquisition>16000</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>16000</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items />
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items />
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<souscripteur>
+        [Données non publiées]
+    </souscripteur>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>25/04/2002</dateSouscription>
+					<valeurRachat>182583</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Annie GENEVARD</souscripteur>
+					<etablissement>Société Générale - EBENE</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>16/04/2024</dateSouscription>
+					<valeurRachat>153269</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>SOCIETE GENERALE - AG</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>GENEVARD ANNIE</titulaire>
+					<valeur>1529</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>SOCIETE GENERALE- AG</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>GENEVARD ANNIE</titulaire>
+					<valeur>23630</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>SOCIETE GENERALE - AG</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>GENEVARD ANNIE</titulaire>
+					<valeur>12317</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte d'épargne Livret +</typeCompte>
+					<etablissement>SOCIETE GENERALE BFM</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>GENEVARD ANNIE</titulaire>
+					<valeur>51402</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>SOCIETE GENERALE DG</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>3463</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>23413</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>1440</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte d'épargne plus SG</typeCompte>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>68</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Néant</commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CREDIT MUTUEL- DG</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+    </titulaire>
+					<valeur>169463</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items />
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Néant</commentaire>
+					<conservee>false</conservee>
+					<nature>Terrestre à moteur</nature>
+					<marque>CITROEN C2</marque>
+					<anneeAchat>2009</anneeAchat>
+					<valeurAchat>14050</valeurAchat>
+					<valeur>1</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nature>Terrestre à moteur</nature>
+					<marque>AUDI Q5</marque>
+					<anneeAchat>2018</anneeAchat>
+					<valeurAchat>70361</valeurAchat>
+					<valeur>29639</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items />
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items />
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items />
+			<neant>true</neant>
+		</passifDto>
+		<observationPatrimoineDto>
+			<items />
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>masa23</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère de l'agriculture et de la souveraineté alimentaire</labelOrgane>
+				<labelDeclaration>Ministre de l'agriculture et de la souveraineté alimentaire</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre de l'agriculture et de la souveraineté alimentaire</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Communauté légale réduite aux acquêts</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>GENEVARD</nom>
+				<prenom>Annie</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>07/09/1956</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

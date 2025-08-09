@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>25/01/2021 11:54:01</dateDepot>
+		<uuid>80d9a6b6-e565-489c-9bcf-48580f00f7ca</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Sauvetage / reprise d'une exploitation viticole en très grande difficulté (dépôt de bilan)</commentaire>
+					<conservee>true</conservee>
+					<description>Gérant</description>
+					<employeur>EARL Domaine de la Pâturie</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Création de cette entreprise dans le cadre du sauvetage / de la reprise du domaine de la Pâturie (exploitation viticole) qui était en grande difficulté (dépôt de bilan)</commentaire>
+					<conservee>true</conservee>
+					<description>Gérant</description>
+					<employeur>EURL Joy développement</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Activité bénévole</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Amicale gaulliste de la Haute-Saône</nomStructure>
+					<descriptionActivite>Président</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction bénévole</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Fédération Les Républicains de la Haute-Saône</nomStructure>
+					<descriptionActivite>Secrétaire départemental</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Dans le cadre de mon mandat régional, je suis Vice-Président de la Commission des finances de la Région Bourgogne-Franche-Comté sans indemnité supplémentaire par rapport à celle perçue en tant que Conseiller régional (indemnité de base pour la strate)</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller régional de Bourgogne-Franche-Comté</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21 600</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21 600</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Fonction occupée bénévolement (aucune rémunération ou indemnité) depuis 1995. Juridiquement, le Groupe hospitalier de la Haute-Saône est un "établissement public hospitalier".</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Groupe hospitalier de la Haute-Saône</nomSociete>
+					<activite>Président du Conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Sauvetage / reprise d'une exploitation viticole en très grande difficulté (dépôt de bilan)</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>EARL Domaine de la Pâturie</nomSociete>
+					<activite>Gérant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Création de cette entreprise dans le cadre du sauvetage / de la reprise du domaine de la Pâturie (exploitation viticole) qui était en grande difficulté (dépôt de bilan)</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>EURL Joy développement</nomSociete>
+					<activite>Gérant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>true</conservee>
+					<nomSociete>PUBLIC SENAT</nomSociete>
+					<activite>ADMINISTRATEUR</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Le montant indiqué comme valeur vénale correspond au montant de ma participation dans le capital social. Je ne suis pas en mesure de définir une valeur vénale.</commentaire>
+					<nomSociete>EARL DOMAINE DE LA PATURIE</nomSociete>
+					<evaluation>326000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>81</capitalDetenu>
+					<nombreParts>1630</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EURL JOY DEVELOPPEMENT</nomSociete>
+					<evaluation>50000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>50</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>5</capitalDetenu>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SCI
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>410000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>75</capitalDetenu>
+					<nombreParts>750</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Madame Cardot n'exerce aucune autre activité professionnelle. Elle exerce son activité de collaboratrice parlementaire à hauteur de 26 heures par semaine (CDI).</commentaire>
+					<nom>Emilie Cardot</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Madame Sandra Dreux travaille à mes côtés depuis le 1er octobre dernier à temps partiel 17,50 heures - . Madame Dreux est également chargée de communication au Centre de gestion de la fonction publique territoriale de la Haute-Saône (CDD de 1 an depuis le lundi 2 octobre 2017 à raison de 17 heures 50 par semaine). Elle est aussi micro-entrepreneuse dans la communication depuis 2013 
+        [Données non publiées]
+    </commentaire>
+					<nom>Sandra Dreux</nom>
+					<employeur>Centre de gestion de la fonction publique territoriale de la Haute-Saône</employeur>
+					<descriptionActivite>Chargée de communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Monsieur Dimitri Doussot exerce son activité professionnelle en tant que collaborateur parlementaire à temps complet (CDI). Monsieur Dimitri Doussot est également : - Président du Syndicat d'initiative de Vauconcourt-Nervezain (activité bénévole), - Membre du Conseil d'administration de l'Office de tourisme des 4 rivières (activité bénévole), - Secrétaire général de l'Amicale gaulliste de la Haute-Saône (activité bénévole). Pour ses mandats de maire et de président d'EPCI, il perçoit des indemnités en application du code général des collectivités territoriales.</commentaire>
+					<nom>Dimitri Doussot</nom>
+					<employeur>Commune de Vauconcourt-Nervezain / Syndicat scolaire du pôle éducatif de Lavoncourt /Communauté de commune des 4 rivières</employeur>
+					<descriptionActivite>Maire de Vauconcourt-Nervezain depuis avril 2014 / Président du Syndicat scolaire du pôle éducatif de Lavoncourt depuis septembre 2017/Président de la CC4R</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>70</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Haute-Saône(70)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Haute-Saône(70)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Joyandet</nom>
+				<prenom>Alain</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>15/01/1954</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

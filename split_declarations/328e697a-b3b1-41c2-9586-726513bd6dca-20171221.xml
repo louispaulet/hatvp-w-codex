@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>01/09/2021 16:01:00</dateDepot>
+		<uuid>328e697a-b3b1-41c2-9586-726513bd6dca</uuid>
+		<origine>ADEL Access</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>toujours en activité la date de fin est notée afin de pouvoir valider la rubrique</commentaire>
+					<conservee>false</conservee>
+					<description>agriculteur</description>
+					<employeur>exploitant agricole en nom propre</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>85800</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>85800</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>85800</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>85800</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>85800</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>85800</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire>la date de fin est notée pour valider la rubrique je suis toujours en activité</commentaire>
+					<conservee>false</conservee>
+					<description>adjoint au maire</description>
+					<employeur>mairie de valensole</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>565</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2016</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activité</label>
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>irsn</employeurConjoint>
+					<activiteProf>chimiste</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>fonction toujours exercée</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>adjoint au maire de valensole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>565</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>565</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2016</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>en activité</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>caisse locale credit agricole valensole</nomSociete>
+					<activite>administrateur</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>100</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2016</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>fonction en cours</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>centre de formation agricole carmejane digne les bains</nomSociete>
+					<activite>president</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2016</dateDebut>
+					<dateFin>01/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>en activité</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>chambre d'agriculture</nomSociete>
+					<activite>membre associé</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>100</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>100</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2016</dateDebut>
+					<dateFin>01/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>04</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Alpes-de-Haute-Provence (04)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>vice-président titulaire d'une délégation</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Alpes-de-Haute-Provence (04)/vice-président titulaire d'une délégation</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>gossa</nom>
+				<prenom>marcel</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>08/08/1972</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>03/11/2021 23:51:18</dateDepot>
+		<uuid>7a00f292-658a-4c0a-a087-d3b7daaac5c4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai démissionné de mon poste de Proviseure</commentaire>
+					<conservee>false</conservee>
+					<description>PROVISEURE DE LYCEE DETACHEE</description>
+					<employeur>MISSION LAIQUE FRANCAISE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>37030</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>38249</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>44486</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>53226</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>53448</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>20188</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2012</dateDebut>
+					<dateFin>05/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>DEPUTE</description>
+					<employeur>ASSEMBLEE NATIONALE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>31955</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5920</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>02/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>CHEF D'ETABLISSEMENT</description>
+					<employeur>MINISTERE EDUCATION NATIONALE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>9853</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2018</dateDebut>
+					<dateFin>04/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>DEPUTEE</description>
+					<employeur>ASSEMBLEE NATIONALE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>53 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>70 773</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70 773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>53 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2018</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>EDUCATION NATIONALE</employeurConjoint>
+					<activiteProf>ENSEIGNEMENT</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai été élue membre du conseil d'administration à titre bénévole en juin 2018</commentaire>
+					<nomStructure>ASSOCIATION MISSION LAIQUE FRANCAISE</nomStructure>
+					<descriptionActivite>EDUCATION</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>DEPUTEE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>31 955</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>53 000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>70 773</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70 773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>53 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Temps plein</commentaire>
+					<nom>ARCHAMBAULT Mathilde</nom>
+					<employeur />
+					<descriptionActivite>Basée à Paris, elle sera en charge de la communication et du travail parlementaire.Quotité horaire : temps plein.​Ses missions :1/ Gérer les dossiers administratifsMettre à jour l'agenda du parlementaireCommunication numérique, site internet, messagerie2/ Assurer une veille politique et juridiqueEchanger avec les représentants d’intérêts3/ Fournir une expertise politique et juridiquePréparer et suivre les travaux en commission parlementaireContribuer à la rédaction d’amendements ou de propositions de loi4/ Gérer les relations publiques du parlementairePlume du parlementaire (discours, tribunes, articles etc.)​</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Emploi à temps partielBasé au Portugal</commentaire>
+					<nom>SAILLARD Yann</nom>
+					<employeur>Auto entrepreneur</employeur>
+					<descriptionActivite>Assistant parlementaire  en charge des élus</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Temps partielBasée à Valence</commentaire>
+					<nom>Lagabrielle Jeanne</nom>
+					<employeur>Developpeur web auto entrepreneur</employeur>
+					<descriptionActivite>Gestion plateforme collaborative enseignement française à l'étrangerRéseaux sociaux</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Temps partiel</commentaire>
+					<nom>Reverchon Stephanie</nom>
+					<employeur>Collaboratrice parlementaire</employeur>
+					<descriptionActivite>Travail législatif</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Temps partiel</commentaire>
+					<nom>Suberville Sophie</nom>
+					<employeur />
+					<descriptionActivite>Conseillère politique en charge des élus</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>997</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>représentant les Français établis hors de France (Sénat série 2)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/représentant les Français établis hors de France (Sénat série 2)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/10/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>CAZEBONNE</nom>
+				<prenom>SAMANTHA</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>10/08/1971</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

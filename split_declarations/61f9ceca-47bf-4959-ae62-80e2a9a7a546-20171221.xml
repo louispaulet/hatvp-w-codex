@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>12/08/2020 11:25:42</dateDepot>
+		<uuid>61f9ceca-47bf-4959-ae62-80e2a9a7a546</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Passage de la SCP à l'IS au 01/01/2019. Avant 2019, part de BNC net me revenant. Depuis le 1er janvier 2019, part de dividendes reçue en sus de la rémunération : 24 500€ net.</commentaire>
+					<description>Notaire</description>
+					<employeur>SCP 
+        [Données non publiées]
+     VUILLEMIN</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>109757</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>127248</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>142266</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>48550</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>51500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Gérante 
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>SCP 
+        [Données non publiées]
+    et ERIC VUILLEMIN</employeurConjoint>
+					<activiteProf>Notaire</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Chiffres arrondis et faisant masse avec la déclaration des indemnités de Président de CCPRS.</commentaire>
+					<descriptionMandat>MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>18500</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18500</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18800</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18900</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18500</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20400</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Voir page précédente. Les indemnités sont celles nettes figurant dans la déclaration d'impôts.</commentaire>
+					<descriptionMandat>PRESIDENT CCPRS</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>6000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>9000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>8657</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8934</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8888</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10275</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11300</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Seuls les frais de déplacements sont remboursés sur le barème kilométrique.</commentaire>
+					<nomSociete>SDEA</nomSociete>
+					<activite>Syndicat Départemental d'Energie</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SEMTAC</nomSociete>
+					<activite>Société d'Economie Mixte</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>BSC</nomSociete>
+					<activite>Association de développement économique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2019</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre du Bureau.</commentaire>
+					<nomSociete>PETR Seine En Plaine Champenoise</nomSociete>
+					<activite>Organisme territorial</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Vice-Président.</commentaire>
+					<nomSociete>Office du Tourisme</nomSociete>
+					<activite>Tourisme</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Vice-Président</commentaire>
+					<nomSociete>AMF 10</nomSociete>
+					<activite>Association des Maires de l'Aube</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Membre du Comité Directeur depuis 2011. Membre du CNEN entre 2014 et 2017. Membre du CNOS depuis 2014.</commentaire>
+					<nomSociete>AMF FRANCE</nomSociete>
+					<activite>Association des Maires de France</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Passage à l'IS en 2019.</commentaire>
+					<nomSociete>SCP 
+        [Données non publiées]
+     et ERIC VUILLEMIN</nomSociete>
+					<evaluation>750000</evaluation>
+					<remuneration>Voir page 1. 2019 = 24 500€ de dividendes nets.</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>1800</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Passage à l'IS en 2019. Divers emprunts à son passif. SCI détenant des biens à usage d'habitation.</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>1200</evaluation>
+					<remuneration>0€</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>1000</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Passage à l'IS en 2019. Antérieurement, revenus fonciers ayant généré en 2016 : 7000€ ; en 2017 : 11 000€ ; en 2018 : 22 000€.</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>50000</evaluation>
+					<remuneration>0€</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>600</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Bien détenu non loué depuis le 1er décembre 2018.</commentaire>
+					<nomSociete>SCI 
+        [Données non publiées]
+    </nomSociete>
+					<evaluation>28000</evaluation>
+					<remuneration>0€</remuneration>
+					<capitalDetenu>10</capitalDetenu>
+					<nombreParts>54</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>AIRESIS</nomSociete>
+					<evaluation>12000</evaluation>
+					<remuneration>0€</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>11500</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Société dépendant du notariat.</commentaire>
+					<nomSociete>UNOFI PARTICIPATION</nomSociete>
+					<evaluation>165000</evaluation>
+					<remuneration>1470€ net /an</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>500</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>
+        [Données non publiées]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>CCPRS</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/CCPRS/Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>05/06/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>VUILLEMIN</nom>
+				<prenom>ERIC</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>22/03/1971</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

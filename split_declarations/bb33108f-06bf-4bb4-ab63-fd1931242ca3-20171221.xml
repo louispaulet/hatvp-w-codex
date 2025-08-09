@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>09/08/2020 17:16:32</dateDepot>
+		<uuid>bb33108f-06bf-4bb4-ab63-fd1931242ca3</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Attaché parlementaire de M. Dominique Baert Député du Nord de mai 2015 à juin 2017 et de Mme Catherine Osson Député du Nord entre juillet à septembre 2020</commentaire>
+					<description>Attaché parlementaire</description>
+					<employeur>Assemblée Nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21823</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>31564</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>31186</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2015</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    Agglomération</employeurConjoint>
+					<activiteProf>Responsable pôle habitat</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>En complément de mon indemnité de fonction de maire de Torcy, en tant que Conseiller délégué à la Politique de la Ville , j'ai perçu des indemnités de fonction de la CA Paris Vallée de la Marne: - 13 870€ brut en 2016, -- 14 855€ brut en 2017, - 14 863€ brut en 2018, - 14 935€ brut en 2019, - 10 205€ brut de janvier à juillet 2020 ( Cf Déclaration de situation patrimoniale en date du 1er février 2020).</commentaire>
+					<descriptionMandat>maire de Torcy</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>29190</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>58380</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>58555</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>59412</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>59436</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>61922</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>34844</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>Au titre de mes fonctions et mandats électifs ( point7), j'ai rajouté en observation les indemnités perçues entre janvier 2016 et juillet 2020 dans le cadre de ma fonction de Conseiller délégué à la politique de la Ville au sein de la Communauté d'Agglomération Paris Vallée de la Marne 
+        [Données non publiées]
+    . Le 6 juillet 2020, j'ai été élu président de la Communauté d'Agglomération paris vallée de la Marne.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Communauté d'Agglomération Paris Vallée de la Marne</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Communauté d'Agglomération Paris Vallée de la Marne/Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>06/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>LE LAY-FELZINE</nom>
+				<prenom>Guillaume</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>27/02/1963</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

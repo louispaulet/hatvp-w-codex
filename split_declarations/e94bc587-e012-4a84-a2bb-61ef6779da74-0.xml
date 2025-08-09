@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>25/01/2025 14:49:13</dateDepot>
+		<uuid>e94bc587-e012-4a84-a2bb-61ef6779da74</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entrée dans le patrimoine</label>
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<nature>Appartement</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 73)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>170</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2011</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>495000</prixAcquisition>
+					<prixTravaux>200000</prixTravaux>
+					<valeurVenale>450000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items />
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<denomination>OMEGREEN SARL</denomination>
+					<valeurActuelle>300</valeurActuelle>
+					<participation>30.0</participation>
+					<droitReel>Pleine propriété</droitReel>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<denomination>UN PLUS UN EGALE TROIS SARL</denomination>
+					<valeurActuelle>13900</valeurActuelle>
+					<participation>70.0</participation>
+					<droitReel>Pleine propriété</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items />
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<conservee>false</conservee>
+					<souscripteur>mignola patrick</souscripteur>
+					<etablissement>societe generale</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>01/10/2006</dateSouscription>
+					<valeurRachat>247</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>societe generale</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>mignola patrick</titulaire>
+					<valeur>-1</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Crédit Agricole 
+        [Données non publiées]
+    </etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Patrick MIGNOLA</titulaire>
+					<valeur>5504</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Crédit Agricole 
+        [Données non publiées]
+    </etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>
+        [Données non publiées]
+     et Patrick MIGNOLA</titulaire>
+					<valeur>43547</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>LDD</typeCompte>
+					<etablissement>Crédit Agricole 
+        [Données non publiées]
+    </etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Patrick MIGNOLA</titulaire>
+					<valeur>12545</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>Crédit Agricole 
+        [Données non publiées]
+    </etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Patrick MIGNOLA</titulaire>
+					<valeur>23993</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<description>Tableau 
+        [Données non publiées]
+    </description>
+					<valeur>11500</valeur>
+					<typeEstimation>Valeur d acquisition</typeEstimation>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<description>Tableau
+        [Données non publiées]
+    </description>
+					<valeur>12200</valeur>
+					<typeEstimation>Valeur d acquisition</typeEstimation>
+				</items>
+			</items>
+			<neant>false</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items />
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items />
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<description>compte à terme</description>
+					<denomination>Crédit Agricole 
+        [Données non publiées]
+    </denomination>
+					<valeur>15000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items />
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomCreancier>Crédit Agricole 
+        [Données non publiées]
+    </nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>Prêt Immobilier</nature>
+					<datePassif>05/11/2022</datePassif>
+					<objetDette>
+        [Données non publiées]
+    </objetDette>
+					<montant>200000</montant>
+					<duree>120</duree>
+					<restantDu>153628</restantDu>
+					<mensualite>1945</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomCreancier>SOCIETE GENERALE</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>Prêt immobilier</nature>
+					<datePassif>08/12/2006</datePassif>
+					<objetDette>
+        [Données non publiées]
+    </objetDette>
+					<montant>260000</montant>
+					<duree>240</duree>
+					<restantDu>30660</restantDu>
+					<mensualite>767</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items />
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat> Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>Intitulé du ministère</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>mrparl23</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Ministères</nomListeOrgane>
+				<labelOrgane>Ministère délégué chargé des relations avec le Parlement</labelOrgane>
+				<labelDeclaration>Ministre délégué chargé des relations avec le Parlement</labelDeclaration>
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Ministre délégué chargé des relations avec le Parlement</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/12/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Séparation de biens</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>mignola</nom>
+				<prenom>patrick</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>08/08/1971</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

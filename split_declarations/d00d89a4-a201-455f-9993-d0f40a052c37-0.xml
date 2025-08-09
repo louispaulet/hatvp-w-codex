@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>21/01/2022 19:13:12</dateDepot>
+		<uuid>d00d89a4-a201-455f-9993-d0f40a052c37</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>La valeur vénale est de 715 000 €</commentaire>
+					<nature>Appartement</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 94)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>75</superficieBati>
+					<superficieNonBati>0.05</superficieNonBati>
+					<dateAcquisition>2003</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>425000</prixAcquisition>
+					<prixTravaux>50000</prixTravaux>
+					<valeurVenale>357500</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 16)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>80</superficieBati>
+					<superficieNonBati>0.13</superficieNonBati>
+					<dateAcquisition>2017</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>60000</prixAcquisition>
+					<prixTravaux>70000</prixTravaux>
+					<valeurVenale>115000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>L'acte de vente n'a pas été encore signé chez le notaire. Les appels de fond seront échelonnés jusqu'à la livraison du bien au 3ème trimestre 2023</commentaire>
+					<nature>Appartement en résidence étudiante en LMNP</nature>
+					<adresse>
+            [Données non publiées]
+        </adresse>
+					<codePostal>
+            [Données non publiées] (Département : 80)
+        </codePostal>
+					<localite>
+            [Données non publiées]
+        </localite>
+					<superficieBati>27</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2023</dateAcquisition>
+					<origine>Contrat de réservation signé le 2 décembre 2021</origine>
+					<droitReel>Pleine propriété</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>135200</prixAcquisition>
+					<prixTravaux />
+					<valeurVenale>135200</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je suis associé dans une société civile avec 
+        [Données non publiées]
+     
+        [Données non publiées]
+     </commentaire>
+					<denomination>HT CO</denomination>
+					<valeurActuelle>192</valeurActuelle>
+					<participation />
+					<droitReel>Pleine propriété</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Gérard Terrien</souscripteur>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>30/03/2009</dateSouscription>
+					<valeurRachat>104409</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Gérard Terrien</souscripteur>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>13/12/2004</dateSouscription>
+					<valeurRachat>210748</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<souscripteur>Gérard Terrien</souscripteur>
+					<etablissement>GMF</etablissement>
+					<reference>
+            [Données non publiées]
+        </reference>
+					<dateSouscription>31/12/2007</dateSouscription>
+					<valeurRachat>22887</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Gérard Terrien</titulaire>
+					<valeur>8716</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Compte d'épargne</typeCompte>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Gérard Terrien</titulaire>
+					<valeur>5011</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>LDD</typeCompte>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Gérard Terrien</titulaire>
+					<valeur>5038</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>COMPTE SUR LIVRET BFM</typeCompte>
+					<etablissement>SOCIETE GENERALE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Gérard Terrien</titulaire>
+					<valeur>192252</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>LA POSTE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Gérard Terrien</titulaire>
+					<valeur>263</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Compte courant joint
+        [Données non publiées]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>LA POSTE</etablissement>
+					<numeroCompte>
+            [Données non publiées]
+        </numeroCompte>
+					<titulaire>Gérard Terrien</titulaire>
+					<valeur>3729</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nature>Terrestre à moteur</nature>
+					<marque>PEUGEOT 208</marque>
+					<anneeAchat>2013</anneeAchat>
+					<valeurAchat>13000</valeurAchat>
+					<valeur>5700</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nature>Terrestre à moteur</nature>
+					<marque>TOYOTA AYGO</marque>
+					<anneeAchat>2003</anneeAchat>
+					<valeurAchat>8000</valeurAchat>
+					<valeur>1000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomCreancier>SOCIETE GENERALE BFM</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>PRET BANCAIRE</nature>
+					<datePassif>01/05/2020</datePassif>
+					<objetDette>PRET A LA CONSOMMATION</objetDette>
+					<montant>25000</montant>
+					<duree>62</duree>
+					<restantDu>18735</restantDu>
+					<mensualite>453</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomCreancier>BOUYGUES IMMOBILIER</nomCreancier>
+					<adresseCreancier>
+            [Données non publiées]
+        </adresseCreancier>
+					<nature>Contrat de réservation d'un appartement en LMNP dans la résidence étudiante 
+        [Données non publiées]
+     </nature>
+					<datePassif>02/12/2021</datePassif>
+					<objetDette>acquisition immobilière</objetDette>
+					<montant>135200</montant>
+					<duree>18</duree>
+					<restantDu>135200</restantDu>
+					<mensualite>0</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>Déclaration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre ou dirigeant d’une autorité administrative indépendante</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>AAI</codCategorieMandat>
+				<nomCategorieMandat>Membre d’une AAI</nomCategorieMandat>
+				<codTypeMandatFichier>aai</codTypeMandatFichier>
+				<labelTypeMandat />
+				<labelOrgane>AAI</labelOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>HATVP</codeOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+				<nomListeOrgane>Autorités administratives indépendantes</nomListeOrgane>
+				<labelOrgane>Haute Autorité pour la transparence de la vie publique (HATVP)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>MEMBRE</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Haute Autorité pour la transparence de la vie publique (HATVP)/MEMBRE</qualiteDeclarantForPDF>
+			<dateDebutMandat>10/12/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial>Séparation de biens</regimeMatrimonial>
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>TERRIEN</nom>
+				<prenom>Gérard</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>14/12/1954</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

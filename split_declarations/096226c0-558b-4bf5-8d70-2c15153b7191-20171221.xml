@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>17/10/2021 19:45:56</dateDepot>
+		<uuid>096226c0-558b-4bf5-8d70-2c15153b7191</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>secrétaire</description>
+					<employeur>Clinique vétérinaire d'Acy Romance</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7 819</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7 941</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7 981</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8 138</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>8 479</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 925</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4 581</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Ces montants correspondent au chiffre d'affaires réalisé. je suis en micro-entreprise.</commentaire>
+					<description>hébergement touristique</description>
+					<employeur>entreprise individuelle</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>10 040</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13 370</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18 854</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12 083</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>28 020</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 599</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>10 950</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>profession libérale</employeurConjoint>
+					<activiteProf>vétérinaire</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7 000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7 138</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7 934</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 706</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 149</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>08</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Ardennes (08)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>44</organeParent>
+			</organe>
+			<qualiteDeclarant>VP avec délégation</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Ardennes (08)/VP avec délégation</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Fraipont</nom>
+				<prenom>Anne</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>28/09/1967</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

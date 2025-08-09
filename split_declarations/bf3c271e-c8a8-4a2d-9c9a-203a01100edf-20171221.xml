@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>02/09/2021 19:45:22</dateDepot>
+		<uuid>bf3c271e-c8a8-4a2d-9c9a-203a01100edf</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Temps partiel auprès de l'Education Nationale (75%) de la date de l'élection, le 29 mars 2015, jusqu'au 1° septembre 2015, date de mon départ à la retraite</commentaire>
+					<conservee>false</conservee>
+					<description>Professeur des Ecoles</description>
+					<employeur>Education Nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15 100</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>20 000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>20 200</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>20 500</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20 500</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20 600</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>15 750</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnités de maire de commune de 1500 habitants</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14371</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18162</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17676</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17 500</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17 500</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18 000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Conseillère Départementale Tarn</commentaire>
+					<descriptionMandat>Conseillère Départementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12 600</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16 800</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17 000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17 500</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17 500</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 500</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>11 200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Titulaire d'une fonction soumise uniquement au dépôt d’une déclaration d’intérêts</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Autre</typeMandat>
+				<codCategorieMandat>FSDI</codCategorieMandat>
+				<nomCategorieMandat>Autre fonctions soumise uniquement au dépôt d’une déclaration d’intérêts</nomCategorieMandat>
+				<codTypeMandatFichier>autre</codTypeMandatFichier>
+				<labelTypeMandat>Autre</labelTypeMandat>
+				<labelOrgane />
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane />
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Autre</qualiteDeclarantForPDF>
+			<dateDebutMandat>05/07/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Rabou</nom>
+				<prenom>Catherine</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>18/06/1960</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

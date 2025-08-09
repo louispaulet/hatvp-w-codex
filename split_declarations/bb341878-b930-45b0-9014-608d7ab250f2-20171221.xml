@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>21/10/2020 22:22:51</dateDepot>
+		<uuid>bb341878-b930-45b0-9014-608d7ab250f2</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>participation occasionnelle à des jury de la fonction publique en tant qu'élue. exemple : revenus perçus centre de gestion 86 pour 2019 = 4041 €</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>24086</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>25089</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25162</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>22 429</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>22 180</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22 275</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14 918</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<conservee>false</conservee>
+					<descriptionMandat>vice présidente EPCI</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>15365</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15692</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15738</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13 036</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13 782</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9 282</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 904</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>En tant qu'élue je siège dans différentes instances (syndicat, association...) sans y occuper de fonction de présidente ou vice présidente et sans percevoir d'indemnité.A titre occasionnel, j'ai été membre de Jury auprès du centre de gestion, du conservation... cela représentant une rémunération annuelle de 0 à 4000 euros</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Communauté Urbaine Grand Poitiers</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Membre d’EPCI/Communauté Urbaine Grand Poitiers</qualiteDeclarantForPDF>
+			<dateDebutMandat>10/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>JARDIN</nom>
+				<prenom>Florence</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>20/07/1965</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

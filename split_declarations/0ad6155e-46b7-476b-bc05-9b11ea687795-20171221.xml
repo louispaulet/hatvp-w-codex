@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>09/06/2022 11:52:04</dateDepot>
+		<uuid>0ad6155e-46b7-476b-bc05-9b11ea687795</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Travail partiel (12h par mois)</commentaire>
+					<description>salarié agricole</description>
+					<employeur>Ferme des templiers</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1 500</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1 500</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1 500</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 500</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 500</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 500</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>750</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Ferme des templiers</employeurConjoint>
+					<activiteProf>Chef d'exploitation</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnité nette de maire à l'année</commentaire>
+					<descriptionMandat>Commune d'Oxelaëre</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>3 162</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnité nette de vice président de l'EPCI à l'année</commentaire>
+					<descriptionMandat>Communauté de communes de Flandre intérieure</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7 128</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>14 256</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>7 128</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnité nette de conseiller département à l'année</commentaire>
+					<descriptionMandat>Département du Nord</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 200</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>13 200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnité nette par an</commentaire>
+					<nomSociete>Commune d'Oxelaëre</nomSociete>
+					<activite>Maire</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6 324</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>3 162</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnité nette par an</commentaire>
+					<nomSociete>Département du Nord</nomSociete>
+					<activite>Conseiller départemental</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 200</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>13 200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Communauté de communes de Flandre Intérieure</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant>vice-président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Communauté de communes de Flandre Intérieure/vice-président</qualiteDeclarantForPDF>
+			<dateDebutMandat>13/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Dieusaert</nom>
+				<prenom>Stéphane</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>27/06/1970</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

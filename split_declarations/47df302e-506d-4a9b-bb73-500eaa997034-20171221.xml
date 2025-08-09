@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>13/09/2021 22:46:12</dateDepot>
+		<uuid>47df302e-506d-4a9b-bb73-500eaa997034</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>je réalisais des animations commerciales les week end.</commentaire>
+					<description>animatrices</description>
+					<employeur>animations</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>3 001</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3 978</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>71</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2 185</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 162</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 769</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>02/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<description>educatrice</description>
+					<employeur>SEAPB</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>572</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2 590</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1 889</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6 802</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>792</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2016</dateDebut>
+					<dateFin>02/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>SUITE à l annulation des réalisés en 2020 je ne suis plus élue adjointe au maire de boucau depuis le 31072021</commentaire>
+					<descriptionMandat>adjointe au maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7 632</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7 632</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7 632</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7 632</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7 632</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7 632</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4 452</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>64</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Pyrénées-Atlantiques (64)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>75</organeParent>
+			</organe>
+			<qualiteDeclarant>déléguée ESS et égalité homme femme</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Pyrénées-Atlantiques (64)/déléguée ESS et égalité homme femme</qualiteDeclarantForPDF>
+			<dateDebutMandat>11/08/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>EVENE-MATEO</nom>
+				<prenom>MONIA</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>08/04/1978</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>05/09/2020 07:24:29</dateDepot>
+		<uuid>abdd02e7-683d-4c63-bda6-373e9dbfec1e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>REDUCTION TEMPS DE TRAVAIL 50% A PARTIR DE OCTOBRE 2019</commentaire>
+					<description>ANIMATEUR FORMATEUR</description>
+					<employeur>AFOC 53</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>35407</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>43951</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>34279</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>34584</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>46474</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>32653</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17610</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>OGEC ECOLE 
+        [Données non publiées]
+    
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>INDEMNITES BRUTES PERCUES JUSQU4EN AOUT 2020</commentaire>
+					<descriptionMandat>MAIRE LE BOURGNEUF LA FORET</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4963</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>INDEMNITES BRUTES PRECUES A CE JOUR</commentaire>
+					<descriptionMandat>VICE PRESIDENT LAVAL AGGLO</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1890</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>1 PART SOCIALE A POUR 15€ 1240 PARTS SOCIALES B POUR 12400€ DANS LE CADRE D'UN PEA</commentaire>
+					<nomSociete>CREDIT MUTUEL ARKEA</nomSociete>
+					<evaluation>12415</evaluation>
+					<remuneration>ANNEE 2019 1€</remuneration>
+					<capitalDetenu />
+					<nombreParts>1242</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>LAVAL AGGLOMERATION</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>VICE PRESIDENT</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/LAVAL AGGLOMERATION/VICE PRESIDENT</qualiteDeclarantForPDF>
+			<dateDebutMandat>06/07/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>BERROU</nom>
+				<prenom>FRANCOIS</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>12/06/1959</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

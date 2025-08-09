@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>01/03/2021 17:10:35</dateDepot>
+		<uuid>fc903b32-dadd-487d-a8af-3b2bac830a87</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Chargée de mission au cabinet de la ministre.</commentaire>
+					<conservee>false</conservee>
+					<description>Chargée de mission</description>
+					<employeur>Ministère de la culture</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>3274</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>21385</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>8794</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2012</dateDebut>
+					<dateFin>05/2014</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Education Nationale</employeurConjoint>
+					<activiteProf>Proviseur de lycée</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'occupe cette fonction depuis le mois de juillet 2016.</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Fédération des EPL</nomStructure>
+					<descriptionActivite>Membre du Conseil d'administration</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai démissionné de la Présidence de l'association et suis devenue secrétaire de l'association</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Compagnie 2052</nomStructure>
+					<descriptionActivite>théâtre</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai exercé cette activité en réalité depuis le mois d'avril 2010. J'ai démissionné à compter de mon élection au Sénat.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Présidente Région Bretagne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>36027</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>36082</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>35728</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>28644</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>09/2014</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Vice-Présidente de Rennes Métropole. J'ai exercé ces fonctions en réalité depuis 2008.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Présidente Rennes Métropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>27485</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>27367</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>27197</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>8564</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>04/2014</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Rennes Métropole.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseillère communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>796</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1168</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2311</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2 475</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2 475</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 475</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 237</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Ville de Rennes. Activité débutée en réalité en avril 2008.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseillère municipale déléguée</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>9822</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>9801</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>9377</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2156</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>03/2014</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai démissionné de ces fonctions le 10 septembre 2017 pour me mettre en conformité avec la loi sur le non-cumul des mandats. Je reste conseillère municipale.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Adjointe au maire Rennes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>21335</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>24334</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18535</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13148</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai démissionné de mon poste d'adjointe le 10 septembre 2017 pour redevenir conseillère municipale (loi sur le non-cumul des mandats).</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseillère municipale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>207</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2 204</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 204</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 102</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2017</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai débuté en réalité cette activité en juin 2008.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Rennes Cité Média</nomSociete>
+					<activite>Présidente du CA</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>6010</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>6010</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>6010</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1001</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>05/2014</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai poursuivi cette activité à titre bénévole à compter de mon élection au Sénat et jusqu'en juin 2016.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Rennes Citédia</nomSociete>
+					<activite>Présidente du CA</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>3871</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>09/2014</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai de nouveau été désignée commissaire de la CNIL Réf JO 2 février 2021</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>CNIL</nomSociete>
+					<activite>Commissaire</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je siège en tant que membre du conseil d'administration, après en avoir été présidente (rémunérée puis bénévole). Je perçois entre 90 et 100 euros pour chacune de mes participations aux séances.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Rennes Citédia</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai exercé à titre bénévole à compter de mon élection au Sénat.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Rennes Citédia</nomSociete>
+					<activite>Présidente bénévole du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2014</dateDebut>
+					<dateFin>05/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>EVOA</nomSociete>
+					<evaluation>3978</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>153</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Assistante parlementaire sur la circonscription</commentaire>
+					<nom>Giron-Préault Lilian</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Assistant parlementaire au Sénat</commentaire>
+					<nom>Novakovic-Beteille Cyril</nom>
+					<employeur />
+					<descriptionActivite />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Sénateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>Sénateur</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>35</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Ille-et-Vilaine(35)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Sénateur/Ille-et-Vilaine(35)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Robert</nom>
+				<prenom>Sylvie</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>28/08/1963</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

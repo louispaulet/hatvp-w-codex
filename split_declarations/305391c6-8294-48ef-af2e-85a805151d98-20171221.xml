@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>20/08/2024 13:14:20</dateDepot>
+		<uuid>305391c6-8294-48ef-af2e-85a805151d98</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items />
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items />
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Je n'ai aucune activité dans aucune de ces associations je me contente de les soutenir plus ou moins régulièrement. 
+        [Données non publiées]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Membre cotisant dans plusieurs associations de protection animale : L214; CIWF France; Welfram; Fondation AAA (assistance aux animaux) ; Fondation Brigitte BARDOT; SPA; Ani'Meaux; COLBAC.</nomStructure>
+					<descriptionActivite>Aucune activité simplement soutien financier. Soutien irrégulier pour la plupart prélèvements réguliers pour L214 Wolfram CIWF France</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Aucune activité ni rôle particulier au sein de ces associations</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Associations de protection de l'enfance. Enfance et partage</nomStructure>
+					<descriptionActivite>Aucune activité au sein de ces associations. Seulement un soutien financier régulier ne dépassant pas jusqu'à maintenant 500 euros par an.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pas d'activité ni de rôle dans ces associations soutien financier ponctuel en dehors du Secours Catholique 
+        [Données non publiées]
+    .</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Associations humanitaires telles que Secours Catholique croix rouge ou autres.</nomStructure>
+					<descriptionActivite>Aucune activité dans de telles associations. seulement soutien financier en général irrégulier. Je cotise actuellement mensuellement pour le secours catholiques; je ne cotise plus depuis de nombreuses années à Médecins du Monde. Je donne de façon ponctuelle à l'une ou l'autre (exemple : Téléthon)</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Pour l'instant j'envisage de poursuivre mon mandant de conseillère régionale et je verrai avec le temps si je peux correctement me donner aux deux en même temps.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller régional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 937</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 250</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+     Embauchée à mi temps puis un seul jour à partir de septembre 2024. Réembauchée après ma réélection en juillet 2024 et passée à 2 jours par semaine.</commentaire>
+					<nom>GREFFIN Nathalie</nom>
+					<employeur>Néant</employeur>
+					<descriptionActivite>Collaboratrice sur Paris : recherches juridiques rédaction d'amendements de questions écrites gestion du courrier relative à l'activité sur Paris</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Embauchée en décembre 2023 et ré-embauchée à l'occasion de ma réélection.</commentaire>
+					<nom>TREULLÉ Émilie</nom>
+					<employeur />
+					<descriptionActivite>Collaborateur en circonscription à mi temps</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>Déclaration d'intérêts et d'activités</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Député ou sénateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Député</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>Député ou sénateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>Député</labelTypeMandat>
+				<labelOrgane>Département d'élection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>77</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'élection des parlementaires</nomListeOrgane>
+				<labelOrgane>Seine-et-Marne(77)</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant />
+			<qualiteDeclarantForPDF>Député/Seine-et-Marne(77)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>ROULLAUD</nom>
+				<prenom>Béatrice</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>09/06/1960</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>21/07/2020 14:55:14</dateDepot>
+		<uuid>4c17aaf0-e494-491e-9434-2ac8446dae43</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>encore en activité professionnelle</commentaire>
+					<description>Directrice, ayant pour misssion le management de l'équipe, coordination des projets, coordination des partenariats, gestion et suivi des aspects financiers, coordination de la gouvernance</description>
+					<employeur>Fédération Familles Rurales de Vendée</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>41377</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>40933</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>38819</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>36886</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>35415</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18376</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>
+        [Données non publiées]
+    </employeurConjoint>
+					<activiteProf>Exploitant agricole</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>arrêt de l'engagement en fin d'année 2020</commentaire>
+					<nomStructure>Crédit agricole atlantique Vendée</nomStructure>
+					<descriptionActivite>élue dans le conseil d'administration de la caisse locale du crédit AGRICOLE de Pouzauges</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>durée du mandat 6 ans donc jusqu'en 2026</commentaire>
+					<descriptionMandat>1ère adjointe à la mairie de Chavagnes les Redoux</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2434</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<descriptionMandat>Conseillère departementale du Canton des Herbiers</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18298</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24397</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>24397</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24397</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24397</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>24397</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items />
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items />
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items />
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d’EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d’EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>Communauté de Communes du Pays de Pouzauges</labelOrgane>
+				<labelDeclaration />
+			</organe>
+			<qualiteDeclarant>Presidente</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d’EPCI/Communauté de Communes du Pays de Pouzauges/Presidente</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/06/2020</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Soulard</nom>
+				<prenom>Bérengère</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>29/07/1973</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

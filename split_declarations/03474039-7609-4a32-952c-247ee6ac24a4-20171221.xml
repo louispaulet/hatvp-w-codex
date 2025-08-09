@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>19/01/2022 20:02:36</dateDepot>
+		<uuid>03474039-7609-4a32-952c-247ee6ac24a4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items />
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Activité professionnelle débutée en août 2020, toujours en cours 
+        [Données non publiées]
+    </commentaire>
+					<description>Chargé de communication</description>
+					<employeur>FORMAPI</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 929</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>33 967</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai été assistant parlementaire d'octobre 2012 à mars 2017.
+        [Données non publiées]
+    </commentaire>
+					<description>Assistant parlementaire</description>
+					<employeur>Assemblée Nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>52 088</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11 591</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>03/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>
+        [Données non publiées]
+    </commentaire>
+					<description>Demandeur d'emploi</description>
+					<employeur>Indemnités chômage</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>37 728</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>31 582</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18 245</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>LE PROGRES</employeurConjoint>
+					<activiteProf>Journaliste</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items />
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai été élu Conseiller Départemental en mars 2015 mais le champ à remplir n'autorise que 2016. Pour 2021, je déclare ici les indemnités percues du 1er janvier au 30 juin 2021, correspondant au mandat précédent. Elles s'entendent en net à payer avant impôt. Je précise aussi que durant ce mandat, j'ai été élu vice-président en octobre 2017 (délibération en date du 30 octobre 2017).</commentaire>
+					<descriptionMandat>Conseiller Départemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>17 153</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>19 006</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>22 802</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22 166</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>22 301</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>11 772</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Rien à déclarer en 2022 car janvier en cours.</commentaire>
+					<nomSociete>Syndicat Mixte de la Station des Rousses</nomSociete>
+					<activite>Vice-Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>786</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 582</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>SDIS du JURA</nomSociete>
+					<activite>Vice-Président</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3 828</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5 104</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 552</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2019</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>J'ai été élu au CA de la Maison pour Tous en mars 2015 après ma première élection. J'ai déclaré ici 2016 car 2015 ne peut être renseigné. Je n'ai reçu aucune indemnité de mandat pour cette fonction d'administrateur. J'y suis toujours mais la structure s'appelle désormais SCIC La Maison pour Tous. J'y ai une part sociale (déclarée par ailleurs) mais je ne perçois aucune indemnité pour faire partie du CA.</commentaire>
+					<nomSociete>OPH 39</nomSociete>
+					<activite>membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2016</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>En tant qu'élu au CA de cette SCIC dans le logement social, j'ai une part sociale symbolique dans cette société coopérative (ex OPH 39). Je n'en connais pas la valeur. Elle m'a été attribuée lors de ma nomination (via ma fonction départementale).</commentaire>
+					<nomSociete>SCIC La Maison pour Tous</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu />
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items />
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<contenu>Je tiens à signaler que durant ces dernières années, j'ai fait partie du Conseil d'Administration de SEM reliées au Conseil Départemental : la SOCAD (absorbée depuis par SEDIA), Expansion 39 (qui n'existe plus désormais). J'étais administrateur simple de ces structures et je n'y ai perçu aucune indemnité mensuelle (et donc annuelle). Même chose, de 2015 à 2018, au sein du Parc Naturel Régional du Haut Jura. Je participais au CA en tant qu'administrateur (relié à ma fonction départementale) mais sans percevoir là encore la moindre indemnité mensuelle (et donc annuelle).</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d’un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu départemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d’EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu départemental</labelTypeMandat>
+				<labelOrgane>Département</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>39</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>Départements</nomListeOrgane>
+				<labelOrgane>Jura (39)</labelOrgane>
+				<labelDeclaration />
+				<organeParent>27</organeParent>
+			</organe>
+			<qualiteDeclarant>Vice-Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu départemental/Jura (39)/Vice-Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Brero</nom>
+				<prenom>Cyrille</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>15/12/1971</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>

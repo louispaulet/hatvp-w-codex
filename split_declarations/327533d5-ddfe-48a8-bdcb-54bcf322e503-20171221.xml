@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<declarations><declaration>
+		<dateDepot>21/06/2024 19:29:40</dateDepot>
+		<uuid>327533d5-ddfe-48a8-bdcb-54bcf322e503</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName />
+				<base64EncodedContent />
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnité de fonction de Maire et conseiller communautaire</commentaire>
+					<description>Maire et conseiller communautaire délégué</description>
+					<employeur>Mairie + EPN</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12 935</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12 515</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18 048</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>23 970</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>24 995</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>24 995</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>13 947</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2018</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomConjoint>
+            [Données non publiées]
+        </nomConjoint>
+					<employeurConjoint>Retraitée</employeurConjoint>
+					<activiteProf>
+        [Données non publiées]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnité de fonction de Maire</commentaire>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12 937</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12 515</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14 776</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 269</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>16 552</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>16 965</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>8 597</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2018</dateDebut>
+					<dateFin />
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnités de fonction Maire</commentaire>
+					<nomSociete>Commune de gauciel</nomSociete>
+					<activite>Maire</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12 937</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12 515</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14 776</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 269</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>16 552</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>16 965</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>8 597</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2018</dateDebut>
+					<dateFin />
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire>Indemnité de fonction de conseiller communautaire délégué</commentaire>
+					<nomSociete>EPN</nomSociete>
+					<activite>Conseiller communautaire délégué</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 272</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7 701</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>7 835</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>8 030</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>3 350</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin>05/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>DBV Technc</nomSociete>
+					<evaluation>38</evaluation>
+					<remuneration>- 93</remuneration>
+					<capitalDetenu />
+					<nombreParts>40</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>HAULOTTE</nomSociete>
+					<evaluation>60</evaluation>
+					<remuneration>-43</remuneration>
+					<capitalDetenu />
+					<nombreParts>20</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>La FRANCAISE DES JEUX</nomSociete>
+					<evaluation>324</evaluation>
+					<remuneration>2 43</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>10</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>RENAULT</nomSociete>
+					<evaluation>729</evaluation>
+					<remuneration>25</remuneration>
+					<capitalDetenu />
+					<nombreParts>15</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label />
+					</motif>
+					<commentaire />
+					<nomSociete>STELLANTIS</nomSociete>
+					<evaluation>646</evaluation>
+					<remuneration>70</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>34</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>Déclaration d'intérêts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d un établissement public de coopération intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane />
+			</qualiteMandat>
+			<organe>
+				<codeOrgane />
+				<codeListeOrgane />
+				<nomListeOrgane />
+				<labelOrgane>EPN</labelOrgane>
+				<labelDeclaration />
+				<organeParent />
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant>Vice Président</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d EPCI/EPN/Vice Président</qualiteDeclarantForPDF>
+			<dateDebutMandat>17/04/2023</dateDebutMandat>
+			<dateFinMandat />
+			<dateDernDeclar />
+			<regimeMatrimonial />
+			<regimeMatrimonialComments />
+			<nomSociete />
+			<nomSocieteMere />
+			<chiffreAffaire />
+			<nbLogements />
+			<declarationModificative>false</declarationModificative>
+			<etablissement />
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Hamel</nom>
+				<prenom>Rénald</prenom>
+				<email>
+            [Données non publiées]
+        </email>
+				<dateNaissance>15/05/1954</dateNaissance>
+				<pieceIdentite />
+				<telephoneDec>
+            [Données non publiées]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Données non publiées]
+        </voie>
+					<complement>
+            [Données non publiées]
+        </complement>
+					<codePostal>
+            [Données non publiées]
+        </codePostal>
+					<ville>
+            [Données non publiées]
+        </ville>
+					<pays>
+            [Données non publiées]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration></declarations>
