@@ -8,15 +8,22 @@ def main() -> None:
     df = pd.read_csv(report_path)
 
     df["total_valuation"] = pd.to_numeric(df["total_valuation"], errors="coerce").fillna(0)
-    df_sorted = df.sort_values("total_valuation", ascending=False)
+    df["stock_count"] = pd.to_numeric(df["stock_count"], errors="coerce").fillna(0)
 
-    top10 = df_sorted.head(10)[["nom", "prenom", "stock_count", "total_valuation"]]
-    bottom10 = df_sorted.tail(10)[["nom", "prenom", "stock_count", "total_valuation"]]
+    df["nom_clean"] = df["nom"].str.lower().str.strip()
+    df["prenom_clean"] = df["prenom"].str.lower().str.strip()
+    df_unique = df.drop_duplicates(subset=["nom_clean", "prenom_clean"])
+
+    df_sorted_desc = df_unique.sort_values("total_valuation", ascending=False)
+    top10 = df_sorted_desc.head(10)[["nom", "prenom", "stock_count", "total_valuation"]]
+
+    df_sorted_asc = df_unique.sort_values("total_valuation", ascending=True)
+    bottom10 = df_sorted_asc.head(10)[["nom", "prenom", "stock_count", "total_valuation"]]
 
     summary = {
-        "total_people": len(df_sorted),
-        "aggregate_valuation": df_sorted["total_valuation"].sum(),
-        "average_valuation": df_sorted["total_valuation"].mean(),
+        "total_people": len(df_unique),
+        "aggregate_valuation": df_unique["total_valuation"].sum(),
+        "average_valuation": df_unique["total_valuation"].mean(),
     }
 
     lines = [
@@ -42,3 +49,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
