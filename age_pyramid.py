@@ -1,5 +1,3 @@
-"""Generate an age pyramid plot by gender using Seaborn."""
-
 from pathlib import Path
 
 import pandas as pd
@@ -28,6 +26,10 @@ def main() -> None:
     max_age = (int(df["age"].max()) // 5 + 1) * 5
     age_bins = list(range(min_age, max_age + 5, 5))
     df["age_group"] = pd.cut(df["age"], bins=age_bins, right=False)
+
+    # Reverse order so youngest is at the bottom
+    age_categories = df["age_group"].cat.categories[::-1]
+    df["age_group"] = pd.Categorical(df["age_group"], categories=age_categories, ordered=True)
 
     # Count by age group and gender
     pyramid = (
