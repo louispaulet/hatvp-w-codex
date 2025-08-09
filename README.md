@@ -21,9 +21,11 @@ OpenAI Codex is a model capable of understanding and generating code in many pro
 ├── LICENSE
 ├── README.md
 ├── extract_personal_info.py
+├── ocr_pdf_downloads.py
 ├── liste.csv
 ├── pii/
 │   └── personal_info.csv
+├── pdf_downloads/             # source PDFs
 ├── script_to_split_declarations.py
 ├── split_declarations/        # individual declaration XML files (omitted)
 ├── stock_analysis/
@@ -61,4 +63,19 @@ Index-based filtering shows the prominence of major market indices:
 - **S&P 500**: 80 stock records (top holdings include Microsoft, Kraft Heinz, Linde, Accenture and Amazon)
 
 Generated CSV outputs are stored under `stock_analysis/output/`, with subfolders for each index.
+
+## OCR of PDF downloads
+
+The repository includes a `pdf_downloads/` folder with source PDFs. The script
+`ocr_pdf_downloads.py` runs [ocrmypdf](https://ocrmypdf.readthedocs.io/) on
+each file and writes an OCR-enhanced PDF plus a `.txt` sidecar to
+`ocr_output/`.
+
+Install the dependencies and run the script:
+
+```bash
+apt-get install -y tesseract-ocr tesseract-ocr-fra
+pip install ocrmypdf
+python ocr_pdf_downloads.py
+```
 
