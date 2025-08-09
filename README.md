@@ -16,8 +16,35 @@ OpenAI Codex is a model capable of understanding and generating code in many pro
 
 ## Repository structure
 
-- **split_declarations/** – sample dataset of individual declaration files created from the official bulk XML release. Each file contains metadata such as the deposit date, UUID and attached PDF references.
-- **script_to_split_declarations.py** – utility used to split the original massive `declarations.xml` file into separate XML documents, one per declaration.
+ - **split_declarations/** – sample dataset of individual declaration files created from the official bulk XML release. Each file contains metadata such as the deposit date, UUID and attached PDF references.
+ - **script_to_split_declarations.py** – utility used to split the original massive `declarations.xml` file into separate XML documents, one per declaration.
+ - **stock_extract/** – raw stock holdings extracted from declarations.
+ - **stock_analysis/** – cleaning scripts and CSV outputs for stock statistics and index filtering.
 
 This README is intentionally brief and will be expanded as the project evolves.
+
+## Stock holdings
+
+The repository includes `stock_extract/stocks.csv` describing declared equity interests. After normalising company names and removing placeholder values, the dataset contains **8 145 entries** for **2 667 unique companies**.
+
+Most frequently declared companies:
+
+1. CREDIT AGRICOLE – 214 declarations
+2. AIR LIQUIDE – 136
+3. ORANGE – 128
+4. ENGIE – 125
+5. AXA – 95
+6. AIRBUS – 89
+7. SANOFI – 87
+8. LVMH – 77
+9. SOCIETE GENERALE – 76
+10. EDF – 69
+
+Index-based filtering shows the prominence of major market indices:
+
+- **CAC40**: 1 913 stock records
+- **SBF120**: 2 242 stock records
+- **S&P 500**: 80 stock records (top holdings include Microsoft, Kraft Heinz, Linde, Accenture and Amazon)
+
+Generated CSV outputs are stored under `stock_analysis/output/`, with subfolders for each index.
 
