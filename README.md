@@ -20,14 +20,25 @@ OpenAI Codex is a model capable of understanding and generating code in many pro
 .
 ├── LICENSE
 ├── README.md
+├── age_pyramid.py
+├── download_avis_pdfs.py
+├── extract_avis_bs4.py
 ├── extract_personal_info.py
+├── extract_spouse_activity.py
+├── gender_analysis.py
 ├── liste.csv
+├── pdf_downloads/             # downloaded avis PDFs
 ├── pii/
-│   └── personal_info.csv
+│   ├── personal_info.csv
+│   ├── personal_info_with_gender.csv
+│   └── spouse_activities.csv
+├── raw_avis/                  # HTML pages used to build avis link list
 ├── script_to_split_declarations.py
 ├── split_declarations/        # individual declaration XML files (omitted)
 ├── stock_analysis/
 │   ├── filter_by_index.py
+│   ├── generate_person_stock_report.py
+│   ├── generate_transparency_report.py
 │   ├── normalize_stocks.py
 │   └── output/
 └── stock_extract/
@@ -61,4 +72,27 @@ Index-based filtering shows the prominence of major market indices:
 - **S&P 500**: 80 stock records (top holdings include Microsoft, Kraft Heinz, Linde, Accenture and Amazon)
 
 Generated CSV outputs are stored under `stock_analysis/output/`, with subfolders for each index.
+
+## Personal information and spouse activities
+
+`extract_personal_info.py` parses each declaration XML file and writes basic
+details—such as name, email and birth date—to `pii/personal_info.csv`.
+Complementary information about declarants' partners can be gathered with
+`extract_spouse_activity.py`, which saves results to
+`pii/spouse_activities.csv`.
+
+## Gender and age analysis
+
+`gender_analysis.py` enriches the personal info dataset with gender
+guesses derived from first names and summarises the distribution in
+`pii/gender_report.md`. The output CSV is then reused by
+`age_pyramid.py` to build the demographic chart `age_pyramid.png`.
+
+## HATVP avis PDFs
+
+The repository also includes tooling to work with HATVP deliberations and
+opinions. `extract_avis_bs4.py` scans raw HTML pages stored in
+`raw_avis/` and generates a list of PDF URLs in `avis_links_bs4.txt`.
+These files can then be downloaded with `download_avis_pdfs.py`, which
+saves them under `pdf_downloads/`.
 
