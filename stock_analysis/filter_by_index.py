@@ -1,6 +1,7 @@
 import pandas as pd
 from pathlib import Path
-from normalize_stocks import clean_name
+
+from .normalize_stocks import clean_name
 
 INDEX_FILES = {
     'cac40': 'cac40.csv',
