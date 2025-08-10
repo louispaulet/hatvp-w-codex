@@ -1,58 +1,158 @@
-# MBA-Style Dossier
-**Risk Exposure of Declarants in the HATVP Database**
+# 📊 MBA-Style Dossier  
+## 🛡️ Risk Exposure of Declarants in the HATVP Database  
+**Prepared for:** 📰 Journalists • 🌍 NGOs • 🕵️‍♂️ Compliance Officers • 📋 Investigative Units  
 
-## 1. Executive Summary
-- The dataset covers 2,607 declarants with combined stock valuations exceeding €2.05 billion and median individual holdings of €12,192.
-- Concentrated positions in major regulated firms—Credit Agricole (214 declarations), Air Liquide (136), Orange (128), Engie (125)—signal heightened conflict-of-interest exposure.
+---
 
-## 2. Introduction & Methodology
-- HATVP requires French public officials to file asset and interest declarations (Law n°2013‑907 and Law n°2016‑1691).
-- Data sources: `person_stock_report.csv`, `normalized_stocks.csv`, index membership files (`cac40.csv`, `sbf120.csv`, `sp500.csv`), and `spouse_occupation_gender_counts.csv`.
-- Risk assessment follows COSO internal control and OECD anti-corruption guidance.
+## 1️⃣ Executive Summary  
 
-## 3. Macroeconomic & Regulatory Context
-- French and EU frameworks mandate transparency and anti-corruption safeguards.
-- Historical scandals (e.g., Thomas Thévenoud, François Fillon) highlight reputational fallout from disclosure gaps.
+**📈 Scale of exposure**  
+The HATVP dataset contains **2,607** distinct declarants with reported cumulative stock valuations exceeding **€2.05 billion** and a median individual valuation of **€12,192**.  
+Concentrated holdings in major listed firms — *Crédit Agricole* alone appears in **214** declarations — signal potential sectoral capture, particularly in **finance**, **energy**, and **telecommunications**.
 
-## 4. Risk Typology & Assessment Criteria
-- **Financial**: outlier valuations or rapid wealth growth.
-- **Reputational**: media scrutiny of holdings in strategic sectors.
-- **Ethical/Conflict-of-interest**: equity ties to regulated industries.
-- **Operational/Political**: investigations leading to sanctions or resignations.
+**⚠️ Key Risk Typologies**
 
-## 5. Data-Driven Analysis
-### 5.1 Distribution of assets
-- Total valuation: €2,051,113,142 with a highly skewed distribution (median €12,192, max €303 million).
-- **Figure 1** illustrates the distribution of total valuation across declarants.
+| 💼 Risk Type | 📌 Indicators | 📊 Exposure |
+|--------------|--------------|-------------|
+| 💰 Financial | Large/unexplained holdings; extreme outliers (e.g., €303 M stake) | 🔴 High for outliers / 🟠 Medium overall |
+| 📰 Reputational | Media scrutiny of prominent firms, controversies | 🟠 Medium–🔴 High |
+| ⚖️ Ethical / Conflict of Interest | Equity ties to regulated sectors | 🔴 High |
+| 🏛️ Operational / Political | Investigations, sanctions risk | 🟠 Medium |
 
-### 5.2 Sectoral exposure
-- Holdings cluster in finance, energy, telecom, and utilities.
-- **Figure 2** shows the proportion of declared valuations by sector for index-listed companies.
+**🔥 Heatmap Summary**
 
-### 5.3 International exposure
-- 43 declarants hold S&P 500 stocks, notably Microsoft, Amazon, and Kraft Heinz.
+| 👤 Type of Official | 💰 Financial | 📰 Reputational | ⚖️ Ethical | 🏛️ Operational |
+|--------------------|-------------|----------------|-----------|----------------|
+| 🏛️ National-level | 🔴 High | 🔴 High | 🔴 High | 🔴 High |
+| 🏘️ Local officials | 🟠 Medium | 🟠 Medium | 🟠 Medium | 🟠 Medium |
+| 🗂️ Senior civil servants | 🟠 Medium | 🟠 Medium | 🟠 Medium | 🟠 Medium |
+| 👫 Spouse/household | 🟢 Low | 🟠 Medium | 🟠 Medium | 🟢 Low |
 
-### 5.4 Spousal occupations
-- “Neant” (unspecified) is the most frequent spousal occupation label (266 male, 649 female entries), limiting transparency.
+**📌 Headline Risks**
+- 📍 **Strategic sector concentration** → high conflict-of-interest potential.  
+- 🕵️‍♂️ **Opaque spouse data** → “Neant” 266× (male) & 649× (female).  
+- 🌐 **Cross-border holdings** → Microsoft, Linde, Amazon → foreign influence & FX risk.  
+- 💎 **Extreme outliers** → Philippe Briand (€303 M).  
 
-### 5.5 Illustrative graphs and heatmaps
+---
+
+## 2️⃣ Introduction & Methodology  
+
+### 2.1 📜 Legal Framework
+- French law **n°2013-907** → mandatory asset disclosure.  
+- HATVP verifies, publishes, sanctions.  
+- EU directives (AML, Whistleblower) shape compliance.
+
+### 2.2 📂 Data Sources
+- `person_stock_report.csv` → equity valuations  
+- `normalized_stocks.csv` → cleaned company names  
+- `indexes/*.csv` → CAC40, SBF120, S&P500 mappings  
+- `spouse_occupation_gender_counts.csv` → declared spouse jobs
+
+### 2.3 📐 Risk Assessment Method
+- Based on **COSO**, **OECD Anti-Corruption Guidelines**, **Transparency International CPI**.  
+- Risk scoring matrix across **financial**, **reputational**, **ethical**, **operational**.
+
+---
+
+## 3️⃣ Macroeconomic & Regulatory Context  
+
+### 3.1 ⚖️ Regulations
+- 🇫🇷 **Law Sapin II (2016)** → anti-corruption, risk mapping.  
+- 🇪🇺 **5th/6th AMLD** → due diligence, ownership transparency.  
+- 📅 **Upcoming** → EU Anti-Corruption Directive 2023.
+
+### 3.2 📰 Past Controversies
+- 2014 — Thomas Thévenoud: tax irregularities.  
+- 2017 — François Fillon: fictitious jobs scandal.  
+- 2018 — Alexandre Benalla: secondary income questions.
+
+---
+
+## 4️⃣ Risk Typology & Assessment  
+
+### 💰 Financial Risk  
+- Outliers: Philippe Briand (€303 M), Roger Pellenc (€84 M).  
+- High inequality in asset distribution.  
+
+### 📰 Reputational Risk  
+- Sensitive firms: Crédit Agricole, Engie, Orange, Sanofi.  
+- Risk of perceived bias in policymaking.
+
+### ⚖️ Ethical / Conflict of Interest  
+- Ministers owning stocks in sectors they regulate.  
+- Ambiguous spousal occupations.
+
+### 🏛️ Operational / Political Risk  
+- Possible parliamentary inquiries, suspensions, legal action.
+
+---
+
+## 5️⃣ Data-Driven Analysis  
+
+### 5.1 📊 Asset Distribution
+- Total: **€2.05 B**  
+- Median: **€12,192**  
+- Mean: **€786,771**  
+- Max: **€303 M**  
 ![Figure 1: Asset distribution histogram](report_assets/fig1_asset_distribution.png)
 
+### 5.2 🏦 Sector Analysis  
+**Top CAC40/SBF120 Holdings**: Crédit Agricole (214), Air Liquide (136), Orange (128), Engie (125), Axa (95)  
+**Top S&P500 Holdings**: Microsoft (11), Kraft Heinz (5), Linde (4)  
 ![Figure 2: Sector exposure pie chart](report_assets/fig2_sector_exposure.png)
 
+### 5.3 🔍 Policy Influence Links  
+- Finance Committee ↔ bank stocks.  
+- Energy Ministers ↔ utilities stocks.
+
+### 5.4 👫 Spousal Occupations  
+- “Neant” most common → 915 total unspecified.  
+- Large data gap limits indirect risk assessment.  
 ![Figure 3: Gender distribution heatmap for spouse occupations](report_assets/fig3_spouse_gender_heatmap.png)
 
-## 6. High-Risk Profiles & Case Studies
-- Outlier wealth figures (e.g., Philippe Briand, Roger Pellenc) merit enhanced scrutiny.
-- Energy-sector overlaps (local officials holding Engie or TotalEnergies shares) risk policy capture.
+---
 
-## 7. Risk Mitigation & Governance Recommendations
-- Enhance disclosure granularity for assets and spousal occupations.
-- Require interim updates and conflict-of-interest training.
-- Adapt best practices from U.S. blind trusts, U.K. frequent updates, and Canadian ethics audits.
+## 6️⃣ High-Risk Profiles & Case Studies  
 
-## 8. Appendices
-- Data tables, methodology notes, and glossary as referenced in main text.
+**A. Municipal Leader (€303 M)** → Financial, Ethical, Reputational risk.  
+**B. Energy Sector Overlap** → Conflict in municipal contracts.  
+**C. International Tech Exposure** → Data sovereignty & bias risks.  
+**D. Opaque Spouse Role** → Hidden lobbying/consultancy.
 
-## Notes
-Run `python generate_report_figures.py` to generate Figures 1–3 into the `report_assets/` directory.
+---
+
+## 7️⃣ Risk Mitigation & Governance  
+
+- 📑 **More granular disclosures** (sector tags, spouse employer).  
+- 📅 **Annual updates** instead of mandate start/end only.  
+- 🎓 **Conflict-of-interest training**.  
+
+**🌍 Comparative Best Practices**  
+- 🇺🇸 Blind trusts (Cabinet)  
+- 🇬🇧 Monthly registers (spousal interests)  
+- 🇨🇦 Ethics Commissioner audits  
+
+---
+
+## 8️⃣ Appendices  
+
+**Key Metrics**
+| Metric | Value | Source |
+|--------|-------|--------|
+| Declarants | 2,607 | `person_stock_report.csv` |
+| Total Equity Valuation | €2,051,113,142 | idem |
+| Median Valuation | €12,192 | idem |
+| Top CAC40 Holdings | Crédit Agricole (214), Air Liquide (136), … | CAC40/SBF120 |
+| Top S&P500 Holdings | Microsoft (11), Kraft Heinz (5) | S&P500 |
+| Most frequent spouse occupation | “Neant” (915 total) | spouse_occupation_gender_counts.csv |
+
+---
+
+## 📚 References  
+- 🇫🇷 Law n°2013-907 (Transparency of Public Life)  
+- 🇫🇷 Law n°2016-1691 “Sapin II”  
+- OECD (2017) *Preventing Policy Capture*  
+- Transparency International (2023) *Corruption Perceptions Index*  
+
+---
