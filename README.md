@@ -17,10 +17,37 @@ OpenAI Codex is a model capable of understanding and generating code in many pro
 ## Repository structure
 
 ```text
-TODO: update this!
+.
+├── avis/
+├── pii/
+├── report_assets/
+├── split_declarations/
+├── stock_analysis/
+├── stock_extract/
+├── generate_report_figures.py
+├── script_to_split_declarations.py
+└── README.md
 ```
 
 The listing above omits the many XML files under `split_declarations/`, which contains the sample declaration dataset.
+
+### Regenerating datasets and figures
+
+The repository includes scripts to rebuild derived artifacts:
+
+```bash
+# Personal info dataset
+python pii/extract_personal_info.py
+
+# Stock analysis CSVs
+python stock_analysis/normalize_stocks.py
+python stock_analysis/generate_person_stock_report.py
+
+# Figures for reports
+python generate_report_figures.py
+```
+
+Outputs such as `pii/personal_info.csv`, files in `stock_analysis/output/` and images in `report_assets/` are generated locally and should not be committed.
 
 ## Stock holdings
 
