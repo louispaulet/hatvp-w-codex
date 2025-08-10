@@ -170,3 +170,5 @@ npm install
 npm run dev
 ```
 
+The app currently includes charts for organization mentions, declarant age distribution, an age pyramid by gender, gender breakdown, and publication delays by mandate type.
+

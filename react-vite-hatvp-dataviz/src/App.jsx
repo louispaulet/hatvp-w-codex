@@ -6,6 +6,7 @@ import AgeDistribution from './pages/AgeDistribution';
 import GenderDistribution from './pages/GenderDistribution';
 import DelayByMandate from './pages/DelayByMandate';
 import About from './pages/About';
+import AgePyramid from './pages/AgePyramid';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Routes>
             <Route path="/" element={<OrganizationMentions />} />
             <Route path="/age" element={<AgeDistribution />} />
+            <Route path="/pyramid" element={<AgePyramid />} />
             <Route path="/gender" element={<GenderDistribution />} />
             <Route path="/delay" element={<DelayByMandate />} />
             <Route path="/about" element={<About />} />

@@ -27,6 +27,18 @@ def main() -> None:
     gender_counts.columns = ["gender", "count"]
     gender_counts.to_csv(public / "gender_counts.csv", index=False)
 
+    # Age pyramid by gender and age band
+    pyramid = (
+        personal.groupby(["age_band", "gender"]).size().reset_index(name="count")
+    )
+    pivot = pyramid.pivot(
+        index="age_band", columns="gender", values="count"
+    ).fillna(0)
+    if "male" in pivot.columns:
+        pivot["male"] = -pivot["male"]
+    pivot.sort_index(inplace=True)
+    pivot.reset_index().to_csv(public / "age_pyramid.csv", index=False)
+
     # Median publication delay by mandate type
     mandates = pd.read_csv(root / "mandates_features.csv")
     delay_by_type = (
