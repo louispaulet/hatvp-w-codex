@@ -1,59 +1,132 @@
-"""Utilities for querying a local LLM for Wikipedia URLs."""
+"""Query a local LLM (Ollama) for a French Wikipedia URL, streaming per the demo pattern,
+then parse the result into a minimal Pydantic model with only full_name and url.
+"""
 
 from __future__ import annotations
 
 import json
-from typing import Iterable
+import sys
+from typing import Iterable, Optional
 
 import requests
+from pydantic import BaseModel, Field, HttpUrl, ValidationError, field_validator
 
 MODEL = "gpt-oss:20b"
 URL = "http://localhost:11434/api/generate"
 
 
+# ----------------------------
+# Minimal Pydantic schema
+# ----------------------------
+class WikipediaEntry(BaseModel):
+    full_name: str = Field(..., description="Person's full name as recognized")
+    url: HttpUrl = Field(..., description="Full French Wikipedia URL")
+
+    @field_validator("url")
+    @classmethod
+    def ensure_fr_wikipedia(cls, v: HttpUrl) -> HttpUrl:
+        if v.host != "fr.wikipedia.org":
+            raise ValueError("URL must be on fr.wikipedia.org")
+        return v
+
+
+# ----------------------------
+# Streaming helpers (demo-style)
+# ----------------------------
 def stream_lines(response: requests.Response) -> Iterable[dict]:
-    """Yield decoded JSON objects from a streaming response."""
+    """Yield decoded JSON lines from a streaming response."""
     for line in response.iter_lines():
         if not line:
             continue
         yield json.loads(line.decode("utf-8"))
 
 
+# ----------------------------
+# Prompt
+# ----------------------------
 def build_prompt(first_name: str, last_name: str) -> str:
-    """Return a prompt asking for the person's Wikipedia URL."""
-    return (
-        "Provide the full English Wikipedia URL for the public figure named "
-        f"{first_name} {last_name}. If you are unsure, respond with 'None'."
-    )
+    """Prompt that asks the model to return a minimal JSON object."""
+    return f"""Return ONLY a single compact JSON object (no markdown, no backticks, no prose) with fields:
+  "full_name": string,
+  "url": string (must be like "https://fr.wikipedia.org/wiki/...").
+
+If there are multiple people with that name, pick the most prominent.
+
+Person: "{first_name} {last_name}"
+"""
 
 
-def get_wikipedia_url(first_name: str, last_name: str) -> str:
-    """Use the local LLM to retrieve a Wikipedia URL for a person."""
-    payload = {
-        "model": MODEL,
-        "prompt": build_prompt(first_name, last_name),
-        "stream": True,
-    }
+# ----------------------------
+# Core call
+# ----------------------------
+def call_llm_stream(prompt: str) -> str:
+    """Call Ollama using the streaming pattern from the demo and return the raw text."""
     headers = {"Content-Type": "application/json"}
+    payload = {"model": MODEL, "prompt": prompt, "stream": True}
 
-    result: list[str] = []
+    chunks: list[str] = []
+    with requests.post(URL, headers=headers, json=payload, stream=True) as response:
+        for data in stream_lines(response):
+            if "response" in data:
+                chunks.append(data["response"])
+            if data.get("done"):
+                break
+
+    raw_text = "".join(chunks)
+    print("\n[DEBUG] Raw API response:\n")
+    print(raw_text)
+    print("\n[DEBUG] End raw API response.\n")
+    return raw_text
+
+
+# ----------------------------
+# Parsing & recovery
+# ----------------------------
+def extract_json_object(raw: str) -> dict:
+    """Best-effort extraction of a single JSON object from streamed text."""
+    s = raw.strip()
+    start = s.find("{")
+    end = s.rfind("}")
+    if start == -1 or end == -1 or end < start:
+        raise ValueError("No JSON object braces found in LLM output")
+
+    candidate = s[start : end + 1]
     try:
-        with requests.post(URL, headers=headers, json=payload, stream=True, timeout=120) as response:
-            for data in stream_lines(response):
-                if "response" in data:
-                    result.append(data["response"])
-                if data.get("done"):
-                    break
-    except requests.RequestException:
-        return ""
-
-    return "".join(result).strip()
+        return json.loads(candidate)
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Invalid JSON from LLM: {e}\nCandidate was:\n{candidate}") from e
 
 
+def parse_entry(raw: str) -> WikipediaEntry:
+    obj = extract_json_object(raw)
+    try:
+        return WikipediaEntry.model_validate(obj)
+    except ValidationError as e:
+        raise ValueError(f"JSON did not match schema: {e}") from e
+
+
+# ----------------------------
+# Public API
+# ----------------------------
+def get_wikipedia_entry(first_name: str, last_name: str) -> Optional[WikipediaEntry]:
+    raw = call_llm_stream(build_prompt(first_name, last_name))
+    if not raw.strip():
+        return None
+    try:
+        return parse_entry(raw)
+    except ValueError:
+        return None
+
+
+# ----------------------------
+# CLI
+# ----------------------------
 if __name__ == "__main__":
-    import sys
-
     if len(sys.argv) != 3:
         raise SystemExit("Usage: python wikipedia_url.py FIRST_NAME LAST_NAME")
 
-    print(get_wikipedia_url(sys.argv[1], sys.argv[2]))
+    entry = get_wikipedia_entry(sys.argv[1], sys.argv[2])
+    if entry:
+        print(entry.url)
+    else:
+        print("")
