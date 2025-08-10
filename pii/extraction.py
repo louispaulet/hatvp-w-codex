@@ -5,8 +5,19 @@ from __future__ import annotations
 import pandas as pd
 
 
-AGE_BANDS = [0, 30, 40, 50, 60, 70, 80, 90, 200]
-AGE_LABELS = ["<30", "30-39", "40-49", "50-59", "60-69", "70-79", "80-89", "90+"]
+# Age bands in ten-year increments. Individuals younger than 20 are
+# excluded as the dataset focuses on adult officials.
+AGE_BANDS = [20, 30, 40, 50, 60, 70, 80, 90, 100]
+AGE_LABELS = [
+    "20-29",
+    "30-39",
+    "40-49",
+    "50-59",
+    "60-69",
+    "70-79",
+    "80-89",
+    "90-99",
+]
 
 
 def compute_age_features(df: pd.DataFrame) -> pd.DataFrame:
