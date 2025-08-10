@@ -17,33 +17,7 @@ OpenAI Codex is a model capable of understanding and generating code in many pro
 ## Repository structure
 
 ```text
-.
-├── LICENSE
-├── README.md
-├── age_pyramid.py
-├── download_avis_pdfs.py
-├── extract_avis_bs4.py
-├── extract_personal_info.py
-├── extract_spouse_activity.py
-├── gender_analysis.py
-├── liste.csv
-├── pdf_downloads/             # downloaded avis PDFs
-├── pii/
-│   ├── personal_info.csv
-│   ├── personal_info_with_gender.csv
-│   └── spouse_activities.csv
-├── raw_avis/                  # HTML pages used to build avis link list
-├── script_to_split_declarations.py
-├── split_declarations/        # individual declaration XML files (omitted)
-├── stock_analysis/
-│   ├── filter_by_index.py
-│   ├── generate_person_stock_report.py
-│   ├── generate_transparency_report.py
-│   ├── normalize_stocks.py
-│   └── output/
-└── stock_extract/
-    ├── extract_stocks.py
-    └── stocks.csv
+TODO: update this!
 ```
 
 The listing above omits the many XML files under `split_declarations/`, which contains the sample declaration dataset.
@@ -101,4 +75,19 @@ opinions. `extract_avis_bs4.py` scans raw HTML pages stored in
 `raw_avis/` and generates a list of PDF URLs in `avis_links_bs4.txt`.
 These files can then be downloaded with `download_avis_pdfs.py`, which
 saves them under `pdf_downloads/`.
+
+## OCR of PDF downloads
+
+The repository includes a `pdf_downloads/` folder with source PDFs. The script
+`ocr_pdf_downloads.py` runs [ocrmypdf](https://ocrmypdf.readthedocs.io/) on
+each file and writes an OCR-enhanced PDF plus a `.txt` sidecar to
+`ocr_output/`.
+
+Install the dependencies and run the script:
+
+```bash
+apt-get install -y tesseract-ocr tesseract-ocr-fra
+pip install ocrmypdf
+python ocr_pdf_downloads.py
+```
 
