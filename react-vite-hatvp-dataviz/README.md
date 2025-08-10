@@ -1,12 +1,28 @@
-# React + Vite
+# HATVP Organization Mentions Visualizations
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive visualizations of organization mentions from HATVP datasets.
 
-Currently, two official plugins are available:
+## Dataset
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The app reads `public/organization_mentions.csv`, which lists how often each organization is mentioned across declarations. The main view displays a bar chart of the top organizations sorted by mention count, with organization names on the y-axis and counts on the x-axis.
 
-## Expanding the ESLint configuration
+## Dependencies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [d3](https://d3js.org/) for parsing CSV data
+- [Recharts](https://recharts.org/) for rendering the bar chart
+- [Tailwind CSS](https://tailwindcss.com/) for styling
+
+## Development
+
+Install dependencies and start the dev server:
+
+```bash
+npm install
+npm run dev
+```
+
+Build the app for production:
+
+```bash
+npm run build
+```
