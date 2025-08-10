@@ -1,4 +1,3 @@
-import sys
 import csv
 from pathlib import Path
 import xml.etree.ElementTree as ET
@@ -17,12 +16,22 @@ def find_child(parent: ET.Element, wanted: str):
     return None
 
 
+def clean_text(s: str) -> str:
+    """Normalize whitespace and special spaces."""
+    if not s:
+        return ""
+    return (
+        s.replace("\u202f", " ")  # narrow no-break space
+         .replace("\u00a0", " ")  # no-break space
+         .replace("\n", " ")
+         .strip()
+    )
+
+
 def child_text(parent: ET.Element, tag: str) -> str:
     """Get direct child text by tag name (namespace agnostic)."""
     child = find_child(parent, tag)
-    if child is not None and child.text:
-        return child.text.replace("\n", " ").strip()
-    return ""
+    return clean_text(child.text) if (child is not None and child.text) else ""
 
 
 def parse_file(path: Path):
@@ -49,14 +58,24 @@ def parse_file(path: Path):
 
 
 def main() -> None:
-    paths = sorted(Path("split_declarations").glob("*.xml"))
-    writer = csv.DictWriter(sys.stdout, fieldnames=[
-        "file", "nomSociete", "evaluation", "capitalDetenu", "nombreParts", "remuneration"
-    ])
-    writer.writeheader()
-    for path in paths:
-        for row in parse_file(path):
-            writer.writerow(row)
+    input_dir = Path("split_declarations")
+    output_csv = Path("participations.csv")
+
+    paths = sorted(input_dir.glob("*.xml"))
+    output_csv.parent.mkdir(parents=True, exist_ok=True)
+
+    fieldnames = ["file", "nomSociete", "evaluation", "capitalDetenu", "nombreParts", "remuneration"]
+    with output_csv.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for path in paths:
+            try:
+                for row in parse_file(path):
+                    writer.writerow(row)
+            except ET.ParseError as e:
+                print(f"Warning: failed to parse {path.name}: {e}")
+
+    print(f"✅ Wrote {output_csv}")
 
 
 if __name__ == "__main__":
