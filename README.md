@@ -48,6 +48,7 @@ python generate_report_figures.py
 ```
 
 Outputs such as `pii/personal_info.csv`, files in `stock_analysis/output/` and images in `report_assets/` are generated locally and should not be committed.
+Running `generate_person_stock_report.py` now also creates `person_stock_sector_report.csv` with valuations by sector and adds a Herfindahl index column to `person_stock_report.csv`.
 
 ## Stock holdings
 
