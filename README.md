@@ -95,6 +95,20 @@ guesses derived from first names and summarises the distribution in
 
 The current dataset spans **11 990 records**, with gender guesses indicating **64.15 % male** and **35.85 % female** entries. Frequent first names include Jean (249), Philippe (205), Patrick (173) and Marie (147). See `pii/gender_report.md` for full tables.
 
+## Mandate compliance analysis
+
+Declarations of mandates are published some time after they are filed. The
+scripts under `mandates/` examine this delay and model factors associated with
+longer turnaround times:
+
+```bash
+python mandates/prepare_features.py --csv liste.csv --out mandates_features.csv
+python mandates/compliance_model.py --csv liste.csv
+```
+
+The generated CSV and any figures remain local artefacts and are not committed
+to version control.
+
 ## HATVP avis PDFs
 
 The repository also includes tooling to work with HATVP deliberations and
