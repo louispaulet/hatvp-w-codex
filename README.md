@@ -160,3 +160,13 @@ pip install ocrmypdf
 python ocr_pdf_downloads.py
 ```
 
+## React visualizations
+
+The `react-vite-hatvp-dataviz/` directory contains a Vite + React + Tailwind app that displays interactive charts from the repository's CSV datasets. Install dependencies and start the development server with:
+
+```bash
+cd react-vite-hatvp-dataviz
+npm install
+npm run dev
+```
+
