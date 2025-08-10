@@ -1,6 +1,9 @@
 import { useEffect, useState } from 'react';
 import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer } from 'recharts';
 import * as d3 from 'd3';
+import Container from '@mui/material/Container';
+import Typography from '@mui/material/Typography';
+import Paper from '@mui/material/Paper';
 
 const COLORS = ['#3b82f6', '#ef4444', '#10b981', '#facc15'];
 
@@ -15,12 +18,14 @@ function GenderDistribution() {
   }, []);
 
   return (
-    <div>
-      <h1 className="text-2xl font-bold">Gender Distribution</h1>
-      <p className="text-sm text-gray-600 mb-4">
+    <Container>
+      <Typography variant="h4" component="h1" gutterBottom>
+        Gender Distribution
+      </Typography>
+      <Typography variant="body1" color="text.secondary">
         Gender identities among declarants.
-      </p>
-      <div className="w-full h-96">
+      </Typography>
+      <Paper sx={{ mt: 3, height: 420, display: 'flex' }}>
         <ResponsiveContainer>
           <PieChart>
             <Pie data={data} dataKey="count" nameKey="gender" outerRadius={120} label>
@@ -31,8 +36,8 @@ function GenderDistribution() {
             <Tooltip />
           </PieChart>
         </ResponsiveContainer>
-      </div>
-    </div>
+      </Paper>
+    </Container>
   );
 }
 

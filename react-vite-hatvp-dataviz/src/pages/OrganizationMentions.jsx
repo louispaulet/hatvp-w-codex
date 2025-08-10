@@ -1,6 +1,14 @@
 import { useEffect, useMemo, useState } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 import * as d3 from 'd3';
+import Container from '@mui/material/Container';
+import Typography from '@mui/material/Typography';
+import TextField from '@mui/material/TextField';
+import Grid from '@mui/material/Grid';
+import Paper from '@mui/material/Paper';
+import Box from '@mui/material/Box';
+import InputAdornment from '@mui/material/InputAdornment';
+import SearchIcon from '@mui/icons-material/Search';
 
 function OrganizationMentions() {
   const [allData, setAllData] = useState([]);
@@ -27,51 +35,57 @@ function OrganizationMentions() {
   }, [allData, searchTerm, topN]);
 
   return (
-    <div>
-      <h1 className="text-2xl font-bold">Top Organization Mentions</h1>
-      <p className="text-sm text-gray-600">
+    <Container>
+      <Typography variant="h4" component="h1" gutterBottom>
+        Top Organization Mentions
+      </Typography>
+      <Typography variant="body1" color="text.secondary">
         Explore which organizations are most frequently referenced in declarations.
-      </p>
-      <div className="flex flex-wrap gap-4 mt-4">
-        <div>
-          <label className="block text-sm font-medium mb-1" htmlFor="search">
-            Search
-          </label>
-          <input
-            id="search"
-            type="text"
-            value={searchTerm}
-            onChange={e => setSearchTerm(e.target.value)}
-            className="border rounded px-2 py-1"
-            placeholder="Type a name..."
-          />
-        </div>
-        <div>
-          <label className="block text-sm font-medium mb-1" htmlFor="topn">
-            Top N
-          </label>
-          <input
-            id="topn"
-            type="number"
-            min="1"
-            max="50"
-            value={topN}
-            onChange={e => setTopN(Math.max(1, Number(e.target.value)))}
-            className="border rounded px-2 py-1 w-24"
-          />
-        </div>
-      </div>
-      <div className="w-full h-96 mt-4">
+      </Typography>
+      <Box sx={{ mt: 2 }}>
+        <Grid container spacing={2}>
+          <Grid item xs={12} sm={8} md={6}>
+            <TextField
+              fullWidth
+              id="search"
+              label="Search"
+              variant="outlined"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              placeholder="Type a name..."
+              InputProps={{
+                startAdornment: (
+                  <InputAdornment position="start">
+                    <SearchIcon color="action" />
+                  </InputAdornment>
+                ),
+              }}
+            />
+          </Grid>
+          <Grid item xs={12} sm={4} md={3}>
+            <TextField
+              fullWidth
+              id="topn"
+              label="Top N"
+              type="number"
+              inputProps={{ min: 1, max: 50 }}
+              value={topN}
+              onChange={(e) => setTopN(Math.max(1, Number(e.target.value)))}
+            />
+          </Grid>
+        </Grid>
+      </Box>
+      <Paper sx={{ mt: 3, height: 420 }}>
         <ResponsiveContainer>
           <BarChart data={data}>
             <XAxis dataKey="organization" angle={-45} textAnchor="end" height={120} />
             <YAxis />
             <Tooltip />
-            <Bar dataKey="mentions" fill="#3b82f6" />
+            <Bar dataKey="mentions" fill="#1976d2" />
           </BarChart>
         </ResponsiveContainer>
-      </div>
-    </div>
+      </Paper>
+    </Container>
   );
 }
 

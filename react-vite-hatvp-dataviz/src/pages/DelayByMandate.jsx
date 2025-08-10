@@ -1,6 +1,9 @@
 import { useEffect, useState } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 import * as d3 from 'd3';
+import Container from '@mui/material/Container';
+import Typography from '@mui/material/Typography';
+import Paper from '@mui/material/Paper';
 
 function DelayByMandate() {
   const [data, setData] = useState([]);
@@ -13,22 +16,24 @@ function DelayByMandate() {
   }, []);
 
   return (
-    <div>
-      <h1 className="text-2xl font-bold">Median Publication Delay by Mandate</h1>
-      <p className="text-sm text-gray-600 mb-4">
+    <Container>
+      <Typography variant="h4" component="h1" gutterBottom>
+        Median Publication Delay by Mandate
+      </Typography>
+      <Typography variant="body1" color="text.secondary">
         Median days between deposit and publication.
-      </p>
-      <div className="w-full h-96">
+      </Typography>
+      <Paper sx={{ mt: 3, height: 420 }}>
         <ResponsiveContainer>
           <BarChart data={data}>
             <XAxis dataKey="mandate_type" angle={-45} textAnchor="end" height={120} />
             <YAxis />
             <Tooltip />
-            <Bar dataKey="delay_days" fill="#3b82f6" />
+            <Bar dataKey="delay_days" fill="#1976d2" />
           </BarChart>
         </ResponsiveContainer>
-      </div>
-    </div>
+      </Paper>
+    </Container>
   );
 }
 
