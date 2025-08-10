@@ -14,6 +14,11 @@ def main() -> None:
 
     # Age band distribution
     personal = pd.read_csv(root / "personal_info_with_gender.csv")
+    age_bins = list(range(20, 101, 10))
+    age_labels = [f"{b}-{b + 9}" for b in age_bins[:-1]]
+    personal["age_band"] = pd.cut(
+        personal["age"], bins=age_bins, right=False, labels=age_labels
+    )
     age_counts = (
         personal["age_band"].value_counts().sort_index().reset_index()
     )
@@ -36,7 +41,7 @@ def main() -> None:
     ).fillna(0)
     if "male" in pivot.columns:
         pivot["male"] = -pivot["male"]
-    pivot.sort_index(inplace=True)
+    pivot.sort_index(ascending=False, inplace=True)
     pivot.reset_index().to_csv(public / "age_pyramid.csv", index=False)
 
     # Median publication delay by mandate type
