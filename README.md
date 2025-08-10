@@ -18,18 +18,45 @@ OpenAI Codex is a model capable of understanding and generating code in many pro
 
 ```text
 .
-├── avis/
-├── pii/
-├── report_assets/
-├── split_declarations/
-├── stock_analysis/
+├── avis/                        # Scrape, download and OCR HATVP deliberations
+│   ├── extract_avis_bs4.py      # Parse HTML pages to collect PDF links
+│   ├── download_avis_pdfs.py    # Download PDF files from the collected links
+│   └── ocr_pdf_downloads.py     # Run OCR and write searchable PDFs + text
+├── pii/                         # Personal data extraction and analysis
+│   ├── extract_personal_info.py         # Pull names, contact info, birth dates
+│   ├── extract_spouse_activity.py       # Capture spouses’ professional activity
+│   ├── gender_analysis.py               # Guess gender and produce stats
+│   ├── spouse_occupation_analysis.py    # Trend analysis of spouse occupations
+│   ├── gender_discrimination_analysis.py# Compare male/female spouse jobs
+│   └── age_pyramid.py                   # Build demographic age pyramid
+├── report_assets/               # Generated figures for reports (not versioned)
+├── split_declarations/          # Sample declaration XML files
+├── stock_analysis/              # Clean holdings and derive stock reports
+│   ├── normalize_stocks.py            # Standardise company names and filter noise
+│   ├── filter_by_index.py             # Keep holdings found in CAC40/SBF120/S&P500
+│   ├── generate_person_stock_report.py# Aggregate valuations per person
+│   ├── generate_transparency_report.py# Summarise holdings into Markdown
+│   ├── test_filter_by_index.py        # Unit test for index filtering
+│   ├── index_lists/                   # Reference CSVs for market indices
+│   └── output/                        # Generated CSV outputs (ignored)
 ├── stock_extract/
-├── generate_report_figures.py
-├── script_to_split_declarations.py
+│   └── extract_stocks.py        # Extract declared equity interests from XML
+├── generate_report_figures.py   # Produce charts from processed datasets
+├── script_to_split_declarations.py # Split bulk XML into individual declarations
+├── liste.csv                    # Index of declarations used in experiments
 └── README.md
 ```
 
 The listing above omits the many XML files under `split_declarations/`, which contains the sample declaration dataset.
+
+### Data extraction and transformation pipelines
+
+1. **Split declarations** – `script_to_split_declarations.py` turns the bulk `declarations.xml` file into individual XML files placed in `split_declarations/`.
+2. **Personal details** – `pii/extract_personal_info.py` records names, contact information and birth dates into `pii/personal_info.csv`. Subsequent scripts (`gender_analysis.py`, `age_pyramid.py`) enrich and visualise this dataset.
+3. **Spouse information** – `pii/extract_spouse_activity.py` gathers partners' professions, which are analysed by `spouse_occupation_analysis.py` and `gender_discrimination_analysis.py`.
+4. **Stock holdings** – `stock_extract/extract_stocks.py` harvests declared equity interests. The `stock_analysis` scripts normalise company names, match holdings to major indices, compute per‑person totals and generate a transparency report.
+5. **HATVP deliberations** – tools in `avis/` collect and OCR opinion PDFs, enabling text search of deliberations.
+6. **Reporting figures** – `generate_report_figures.py` builds charts saved under `report_assets/`.
 
 ### Regenerating datasets and figures
 
