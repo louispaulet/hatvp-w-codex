@@ -4,9 +4,11 @@ from __future__ import annotations
 
 import argparse
 import sys
+from itertools import islice
 from pathlib import Path
 
 import pandas as pd
+from tqdm import tqdm
 
 # Allow running the script directly without installing the package.
 sys.path.append(str(Path(__file__).resolve().parents[1]))
@@ -20,9 +22,11 @@ def enrich(csv_path: Path, limit: int | None = None) -> None:
     """Add a ``wikipedia_url`` column to ``csv_path`` in place."""
     df = pd.read_csv(csv_path)
     rows = df.iterrows()
+    total = len(df)
     if limit is not None:
-        rows = list(rows)[:limit]
-    for idx, row in rows:
+        total = min(limit, total)
+        rows = islice(rows, limit)
+    for idx, row in tqdm(rows, total=total):
         df.loc[idx, "wikipedia_url"] = get_wikipedia_url(row["prenom"], row["nom"])
     df.to_csv(csv_path, index=False)
 
