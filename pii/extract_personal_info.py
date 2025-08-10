@@ -19,9 +19,14 @@ Missing elements simply yield blank fields, while duplicated
 ``ValueError`` rather than crashing the script.
 """
 
+import argparse
 import csv
 from pathlib import Path
 import xml.etree.ElementTree as ET
+
+import pandas as pd
+
+from extraction import compute_age_features
 
 
 def extract_personal_info(xml_path: Path) -> dict:
@@ -92,6 +97,16 @@ def extract_personal_info(xml_path: Path) -> dict:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Extract personal info and optionally enrich with age features"
+    )
+    parser.add_argument(
+        "--enrich",
+        action="store_true",
+        help="Compute age columns and save to personal_info_enriched.csv",
+    )
+    args = parser.parse_args()
+
     decl_dir = Path("split_declarations")
 
     output_dir = Path("pii")
@@ -114,6 +129,12 @@ def main() -> None:
         for xml_file in sorted(decl_dir.glob("*.xml")):
             info = extract_personal_info(xml_file)
             writer.writerow(info)
+
+    if args.enrich:
+        df = pd.read_csv(output_file)
+        df = compute_age_features(df)
+        enriched = output_dir / "personal_info_enriched.csv"
+        df.to_csv(enriched, index=False)
 
 
 if __name__ == "__main__":
