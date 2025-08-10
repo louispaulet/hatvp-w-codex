@@ -14,6 +14,10 @@ from pydantic import BaseModel, Field, HttpUrl, ValidationError, field_validator
 MODEL = "gpt-oss:20b"
 URL = "http://localhost:11434/api/generate"
 
+#run this command to get the WSL host localhost url:
+# $ ip route show | grep -i default | awk '{ print $3}'
+URL = "http://172.23.144.1:11434/api/generate"
+
 
 # ----------------------------
 # Minimal Pydantic schema
