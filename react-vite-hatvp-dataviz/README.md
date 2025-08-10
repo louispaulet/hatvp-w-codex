@@ -1,10 +1,14 @@
 # HATVP Organization Mentions Visualizations
 
 Interactive visualizations of organization mentions from HATVP datasets.
+Users can filter organizations with a search box and adjust how many top
+results are displayed.
 
 ## Dataset
 
-The app reads `public/organization_mentions.csv`, which lists how often each organization is mentioned across declarations. The main view displays a bar chart of the top organizations sorted by mention count, with organization names on the y-axis and counts on the x-axis.
+The app reads `public/organization_mentions.csv`, which lists how often each organization is mentioned across declarations. The
+main view displays a bar chart of the top organizations sorted by mention
+count, with organization names on the y-axis and counts on the x-axis.
 
 ## Dependencies
 
