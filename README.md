@@ -17,24 +17,7 @@ OpenAI Codex is a model capable of understanding and generating code in many pro
 ## Repository structure
 
 ```text
-.
-├── LICENSE
-├── README.md
-├── extract_personal_info.py
-├── ocr_pdf_downloads.py
-├── liste.csv
-├── pii/
-│   └── personal_info.csv
-├── pdf_downloads/             # source PDFs
-├── script_to_split_declarations.py
-├── split_declarations/        # individual declaration XML files (omitted)
-├── stock_analysis/
-│   ├── filter_by_index.py
-│   ├── normalize_stocks.py
-│   └── output/
-└── stock_extract/
-    ├── extract_stocks.py
-    └── stocks.csv
+TODO: update this!
 ```
 
 The listing above omits the many XML files under `split_declarations/`, which contains the sample declaration dataset.
@@ -63,6 +46,35 @@ Index-based filtering shows the prominence of major market indices:
 - **S&P 500**: 80 stock records (top holdings include Microsoft, Kraft Heinz, Linde, Accenture and Amazon)
 
 Generated CSV outputs are stored under `stock_analysis/output/`, with subfolders for each index.
+
+## Public holdings valuation
+
+`stock_analysis/generate_transparency_report.py` aggregates declared equity valuations by person. The latest report covers **1 389 individuals** with a combined valuation of **€1 092 305 734** and an average of roughly **€786 397** per person. Top holdings include Philippe Briand (€303 454 971) and Roger Pellenc (€84 801 656), while some declarations report negligible or even negative valuations such as Chantal Deseyne (‑€3 473). See `stock_analysis/output/public_holdings_report.md` for complete rankings.
+
+## Personal information and spouse activities
+
+`extract_personal_info.py` parses each declaration XML file and writes basic
+details—such as name, email and birth date—to `pii/personal_info.csv`.
+Complementary information about declarants' partners can be gathered with
+`extract_spouse_activity.py`, which saves results to
+`pii/spouse_activities.csv`.
+
+## Gender and age analysis
+
+`gender_analysis.py` enriches the personal info dataset with gender
+guesses derived from first names and summarises the distribution in
+`pii/gender_report.md`. The output CSV is then reused by
+`age_pyramid.py` to build the demographic chart `age_pyramid.png`.
+
+The current dataset spans **11 990 records**, with gender guesses indicating **64.15 % male** and **35.85 % female** entries. Frequent first names include Jean (249), Philippe (205), Patrick (173) and Marie (147). See `pii/gender_report.md` for full tables.
+
+## HATVP avis PDFs
+
+The repository also includes tooling to work with HATVP deliberations and
+opinions. `extract_avis_bs4.py` scans raw HTML pages stored in
+`raw_avis/` and generates a list of PDF URLs in `avis_links_bs4.txt`.
+These files can then be downloaded with `download_avis_pdfs.py`, which
+saves them under `pdf_downloads/`.
 
 ## OCR of PDF downloads
 
