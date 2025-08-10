@@ -3,10 +3,13 @@
 from __future__ import annotations
 
 import argparse
+import sys
 from pathlib import Path
 
 import pandas as pd
 
+# Allow running the script directly without installing the package.
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 from local_llm.wikipedia_url import get_wikipedia_url
 
 
