@@ -25,6 +25,45 @@ def clean_name(name: str) -> str:
     return name
 
 
+def map_sector(df: pd.DataFrame) -> pd.DataFrame:
+    """Map company names to sector information from index lists.
+
+    Parameters
+    ----------
+    df:
+        DataFrame containing a ``clean_name`` column.
+
+    Returns
+    -------
+    pd.DataFrame
+        Original ``df`` with optional ``GICS`` sector columns joined.
+    """
+
+    index_dir = Path(__file__).resolve().parent / 'index_lists'
+    sector_frames = []
+    for path in index_dir.glob('*.csv'):
+        idx_df = pd.read_csv(path)
+        if 'Security' in idx_df.columns:
+            name_col = 'Security'
+        elif 'name' in idx_df.columns:
+            name_col = 'name'
+        else:
+            continue
+
+        sector_cols = [col for col in ['GICS Sector', 'GICS Sub-Industry'] if col in idx_df.columns]
+        if not sector_cols:
+            continue
+
+        idx_df['clean_name'] = idx_df[name_col].apply(clean_name)
+        sector_frames.append(idx_df[['clean_name'] + sector_cols])
+
+    if not sector_frames:
+        return df
+
+    sectors = pd.concat(sector_frames, ignore_index=True).drop_duplicates('clean_name')
+    return df.merge(sectors, on='clean_name', how='left')
+
+
 def main() -> None:
     base = Path(__file__).resolve().parent.parent
     df = pd.read_csv(base / 'stock_extract' / 'stocks.csv')
@@ -34,6 +73,7 @@ def main() -> None:
     df = df[~df['clean_name'].str.contains('NON PUBLIE', na=False)]
     df['evaluation'] = df['evaluation'].astype(str)
     df = df[~df['evaluation'].str.contains('non', case=False, na=False)]
+    df = map_sector(df)
     output_dir = base / 'stock_analysis' / 'output'
     output_dir.mkdir(parents=True, exist_ok=True)
     df.to_csv(output_dir / 'normalized_stocks.csv', index=False)
