@@ -73,6 +73,10 @@ Index-based filtering shows the prominence of major market indices:
 
 Generated CSV outputs are stored under `stock_analysis/output/`, with subfolders for each index.
 
+## Public holdings valuation
+
+`stock_analysis/generate_transparency_report.py` aggregates declared equity valuations by person. The latest report covers **1 389 individuals** with a combined valuation of **€1 092 305 734** and an average of roughly **€786 397** per person. Top holdings include Philippe Briand (€303 454 971) and Roger Pellenc (€84 801 656), while some declarations report negligible or even negative valuations such as Chantal Deseyne (‑€3 473). See `stock_analysis/output/public_holdings_report.md` for complete rankings.
+
 ## Personal information and spouse activities
 
 `extract_personal_info.py` parses each declaration XML file and writes basic
@@ -87,6 +91,8 @@ Complementary information about declarants' partners can be gathered with
 guesses derived from first names and summarises the distribution in
 `pii/gender_report.md`. The output CSV is then reused by
 `age_pyramid.py` to build the demographic chart `age_pyramid.png`.
+
+The current dataset spans **11 990 records**, with gender guesses indicating **64.15 % male** and **35.85 % female** entries. Frequent first names include Jean (249), Philippe (205), Patrick (173) and Marie (147). See `pii/gender_report.md` for full tables.
 
 ## HATVP avis PDFs
 
