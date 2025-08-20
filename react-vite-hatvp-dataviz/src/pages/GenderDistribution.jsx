@@ -69,9 +69,7 @@ function GenderDistribution() {
           <Typography variant="body2" sx={{ mt: 1 }}>
             👉 In other words, for every woman declarant, there are about <strong>1.8 men</strong>.
           </Typography>
-          <Typography variant="body2" sx={{ mt: 1.5 }}>
-            Would you like me to combine the three plots (age distribution, pyramid, and pie chart) into a short <strong>narrative analysis</strong> that could work in a report?
-          </Typography>
+          
         </div>
       </SectionCard>
     </PageContainer>
