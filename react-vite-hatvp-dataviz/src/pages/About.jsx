@@ -1,6 +1,5 @@
 import * as React from 'react';
 import PropTypes from 'prop-types';
-import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Link from '@mui/material/Link';
@@ -21,6 +20,8 @@ import AccordionDetails from '@mui/material/AccordionDetails';
 import Tooltip from '@mui/material/Tooltip';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { useTheme } from '@mui/material/styles';
+import SectionTitle from '../components/SectionTitle';
+import { PageContainer } from '../components/Layout';
 
 import InfoIcon from '@mui/icons-material/Info';
 import InsightsIcon from '@mui/icons-material/Insights';
@@ -54,7 +55,7 @@ export default function About({
   const euros = new Intl.NumberFormat(undefined, { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
 
   return (
-    <Container maxWidth="xl" sx={{ py: { xs: 4, md: 6 } }}>
+    <PageContainer>
       {/* Header */}
       <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, mb: 1 }}>
         <InfoIcon color="primary" fontSize="large" />
@@ -272,7 +273,7 @@ export default function About({
         <Box sx={{ display: { xs: 'none', sm: 'inline' } }}>•</Box>
         <Typography variant="body2">Version {version} • Updated {lastUpdated}</Typography>
       </Stack>
-    </Container>
+    </PageContainer>
   );
 }
 
@@ -289,14 +290,7 @@ About.propTypes = {
   contactEmail: PropTypes.string,
 };
 
-function SectionTitle({ icon, title }) {
-  return (
-    <Stack direction="row" spacing={1} alignItems="center" sx={{ mb: 1 }}>
-      {icon}
-      <Typography variant="h5" component="h2" sx={{ fontWeight: 700 }}>{title}</Typography>
-    </Stack>
-  );
-}
+// SectionTitle moved to shared component
 
 function StatCard({ icon, label, value }) {
   return (

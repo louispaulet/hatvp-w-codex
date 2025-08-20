@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 import * as d3 from 'd3';
-import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
-import Paper from '@mui/material/Paper';
+import TimelineIcon from '@mui/icons-material/Timeline';
+import { PageContainer, SectionCard } from '../components/Layout';
+import SectionTitle from '../components/SectionTitle';
 
 function DelayByMandate() {
   const [data, setData] = useState([]);
@@ -16,14 +17,9 @@ function DelayByMandate() {
   }, []);
 
   return (
-    <Container>
-      <Typography variant="h4" component="h1" gutterBottom>
-        Median Publication Delay by Mandate
-      </Typography>
-      <Typography variant="body1" color="text.secondary">
-        Median days between deposit and publication.
-      </Typography>
-      <Paper sx={{ mt: 3, height: 420 }}>
+    <PageContainer>
+      <SectionTitle icon={<TimelineIcon color="primary" />} title="Median Publication Delay by Mandate" subtitle="Median days between deposit and publication." />
+      <SectionCard sx={{ mt: 2, height: 420 }}>
         <ResponsiveContainer>
           <BarChart data={data}>
             <XAxis dataKey="mandate_type" angle={-45} textAnchor="end" height={120} />
@@ -32,8 +28,8 @@ function DelayByMandate() {
             <Bar dataKey="delay_days" fill="#1976d2" />
           </BarChart>
         </ResponsiveContainer>
-      </Paper>
-    </Container>
+      </SectionCard>
+    </PageContainer>
   );
 }
 

@@ -1,14 +1,15 @@
 import { useEffect, useMemo, useState } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 import * as d3 from 'd3';
-import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import TextField from '@mui/material/TextField';
 import Grid from '@mui/material/Grid';
-import Paper from '@mui/material/Paper';
 import Box from '@mui/material/Box';
 import InputAdornment from '@mui/material/InputAdornment';
 import SearchIcon from '@mui/icons-material/Search';
+import InsightsIcon from '@mui/icons-material/Insights';
+import { PageContainer, SectionCard } from '../components/Layout';
+import SectionTitle from '../components/SectionTitle';
 
 function OrganizationMentions() {
   const [allData, setAllData] = useState([]);
@@ -35,13 +36,8 @@ function OrganizationMentions() {
   }, [allData, searchTerm, topN]);
 
   return (
-    <Container>
-      <Typography variant="h4" component="h1" gutterBottom>
-        Top Organization Mentions
-      </Typography>
-      <Typography variant="body1" color="text.secondary">
-        Explore which organizations are most frequently referenced in declarations.
-      </Typography>
+    <PageContainer>
+      <SectionTitle icon={<InsightsIcon color="primary" />} title="Top Organization Mentions" subtitle="Explore which organizations are most frequently referenced in declarations." />
       <Box sx={{ mt: 2 }}>
         <Grid container spacing={2}>
           <Grid item xs={12} sm={8} md={6}>
@@ -75,7 +71,7 @@ function OrganizationMentions() {
           </Grid>
         </Grid>
       </Box>
-      <Paper sx={{ mt: 3, height: 420 }}>
+      <SectionCard sx={{ mt: 2, height: 420 }}>
         <ResponsiveContainer>
           <BarChart data={data}>
             <XAxis dataKey="organization" angle={-45} textAnchor="end" height={120} />
@@ -84,8 +80,8 @@ function OrganizationMentions() {
             <Bar dataKey="mentions" fill="#1976d2" />
           </BarChart>
         </ResponsiveContainer>
-      </Paper>
-    </Container>
+      </SectionCard>
+    </PageContainer>
   );
 }
 
