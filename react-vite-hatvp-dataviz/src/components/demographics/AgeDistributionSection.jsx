@@ -2,13 +2,13 @@ import { useEffect, useState } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 import * as d3 from 'd3';
 import Typography from '@mui/material/Typography';
-import InsightsIcon from '@mui/icons-material/Insights';
-import { PageContainer, SectionCard } from '../components/Layout';
-import SectionTitle from '../components/SectionTitle';
 import Box from '@mui/material/Box';
 import Divider from '@mui/material/Divider';
+import BarChartIcon from '@mui/icons-material/BarChart';
+import { SectionCard } from '../Layout';
+import SectionTitle from '../SectionTitle';
 
-function AgeDistribution() {
+function AgeDistributionSection() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -19,20 +19,20 @@ function AgeDistribution() {
   }, []);
 
   return (
-    <PageContainer>
-      <SectionTitle icon={<InsightsIcon color="primary" />} title="Declarant Age Distribution" subtitle="Age bands among declarants." />
-      <SectionCard sx={{ mt: 2, height: 420 }}>
-        <ResponsiveContainer>
-          <BarChart data={data}>
-            <XAxis dataKey="age_band" />
-            <YAxis />
-            <Tooltip />
-            <Bar dataKey="count" fill="#1976d2" />
-          </BarChart>
-        </ResponsiveContainer>
-      </SectionCard>
+    <>
       <SectionCard sx={{ mt: 2 }}>
-        <SectionTitle icon={<InsightsIcon color="primary" />} title="About this chart" />
+        <SectionTitle icon={<BarChartIcon color="primary" />} title="Declarant Age Distribution" />
+        <Box sx={{ height: 420, mt: 2 }}>
+          <ResponsiveContainer>
+            <BarChart data={data}>
+              <XAxis dataKey="age_band" />
+              <YAxis />
+              <Tooltip />
+              <Bar dataKey="count" fill="#1976d2" />
+            </BarChart>
+          </ResponsiveContainer>
+        </Box>
+        <Divider variant="middle" sx={{ my: 2 }} />
         <Box sx={{ mt: 1 }}>
           <Typography variant="body1" sx={{ mb: 1 }}>
             This bar chart shows the <strong>age distribution of declarants</strong> across different age bands.
@@ -83,8 +83,8 @@ function AgeDistribution() {
           </Typography>
         </Box>
       </SectionCard>
-    </PageContainer>
+    </>
   );
 }
 
-export default AgeDistribution;
+export default AgeDistributionSection;

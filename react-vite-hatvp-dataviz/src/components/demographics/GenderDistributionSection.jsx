@@ -3,13 +3,13 @@ import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer } from 'recharts';
 import * as d3 from 'd3';
 import Typography from '@mui/material/Typography';
 import Divider from '@mui/material/Divider';
-import InsightsIcon from '@mui/icons-material/Insights';
-import { PageContainer, SectionCard } from '../components/Layout';
-import SectionTitle from '../components/SectionTitle';
+import WcIcon from '@mui/icons-material/Wc';
+import { SectionCard } from '../Layout';
+import SectionTitle from '../SectionTitle';
 
 const COLORS = ['#3b82f6', '#ef4444', '#10b981', '#facc15'];
 
-function GenderDistribution() {
+function GenderDistributionSection() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -20,22 +20,22 @@ function GenderDistribution() {
   }, []);
 
   return (
-    <PageContainer>
-      <SectionTitle icon={<InsightsIcon color="primary" />} title="Gender Distribution" subtitle="Gender identities among declarants." />
-      <SectionCard sx={{ mt: 2, height: 420, display: 'flex' }}>
-        <ResponsiveContainer>
-          <PieChart>
-            <Pie data={data} dataKey="count" nameKey="gender" outerRadius={120} label>
-              {data.map((entry, index) => (
-                <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-              ))}
-            </Pie>
-            <Tooltip />
-          </PieChart>
-        </ResponsiveContainer>
-      </SectionCard>
+    <>
       <SectionCard sx={{ mt: 2 }}>
-        <SectionTitle icon={<InsightsIcon color="primary" />} title="About this chart" />
+        <SectionTitle icon={<WcIcon color="primary" />} title="Gender Distribution" />
+        <div style={{ height: 420, display: 'flex', marginTop: 8 }}>
+          <ResponsiveContainer>
+            <PieChart>
+              <Pie data={data} dataKey="count" nameKey="gender" outerRadius={120} label>
+                {data.map((entry, index) => (
+                  <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                ))}
+              </Pie>
+              <Tooltip />
+            </PieChart>
+          </ResponsiveContainer>
+        </div>
+        <Divider variant="middle" sx={{ my: 2 }} />
         <div style={{ marginTop: 8 }}>
           <Typography variant="body1" sx={{ mb: 1 }}>
             This pie chart summarizes the <strong>gender split among declarants</strong> (HATVP declarations).
@@ -69,11 +69,10 @@ function GenderDistribution() {
           <Typography variant="body2" sx={{ mt: 1 }}>
             👉 In other words, for every woman declarant, there are about <strong>1.8 men</strong>.
           </Typography>
-          
         </div>
       </SectionCard>
-    </PageContainer>
+    </>
   );
 }
 
-export default GenderDistribution;
+export default GenderDistributionSection;

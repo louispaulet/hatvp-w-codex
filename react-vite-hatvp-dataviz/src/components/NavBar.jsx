@@ -27,29 +27,11 @@ function NavBar() {
         <Button
           color="inherit"
           component={RouterLink}
-          to="/age"
-          variant={isActive('/age') ? 'outlined' : 'text'}
-          aria-current={isActive('/age') ? 'page' : undefined}
+          to="/demographics"
+          variant={isActive('/demographics') ? 'outlined' : 'text'}
+          aria-current={isActive('/demographics') ? 'page' : undefined}
         >
-          Age
-        </Button>
-        <Button
-          color="inherit"
-          component={RouterLink}
-          to="/pyramid"
-          variant={isActive('/pyramid') ? 'outlined' : 'text'}
-          aria-current={isActive('/pyramid') ? 'page' : undefined}
-        >
-          Age Pyramid
-        </Button>
-        <Button
-          color="inherit"
-          component={RouterLink}
-          to="/gender"
-          variant={isActive('/gender') ? 'outlined' : 'text'}
-          aria-current={isActive('/gender') ? 'page' : undefined}
-        >
-          Gender
+          Demographics
         </Button>
         <Button
           color="inherit"

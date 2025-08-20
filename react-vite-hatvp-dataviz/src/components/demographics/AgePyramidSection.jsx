@@ -4,11 +4,11 @@ import * as d3 from 'd3';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Divider from '@mui/material/Divider';
-import InsightsIcon from '@mui/icons-material/Insights';
-import { PageContainer, SectionCard } from '../components/Layout';
-import SectionTitle from '../components/SectionTitle';
+import StackedBarChartIcon from '@mui/icons-material/StackedBarChart';
+import { SectionCard } from '../Layout';
+import SectionTitle from '../SectionTitle';
 
-function AgePyramid() {
+function AgePyramidSection() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -27,10 +27,10 @@ function AgePyramid() {
   }, []);
 
   return (
-    <PageContainer>
-      <SectionTitle icon={<InsightsIcon color="primary" />} title="Age Pyramid by Gender" subtitle="Age distribution split by gender." />
+    <>
       <SectionCard sx={{ mt: 2 }}>
-        <Box sx={{ height: { xs: 500, md: 700 }, maxWidth: 900, mx: 'auto' }}>
+        <SectionTitle icon={<StackedBarChartIcon color="primary" />} title="Age Pyramid by Gender" />
+        <Box sx={{ height: { xs: 500, md: 700 }, maxWidth: 900, mx: 'auto', mt: 2 }}>
           <ResponsiveContainer width="100%" height="100%">
             <BarChart data={data} layout="vertical" stackOffset="sign">
               <XAxis type="number" domain={['dataMin', 'dataMax']} />
@@ -41,9 +41,7 @@ function AgePyramid() {
             </BarChart>
           </ResponsiveContainer>
         </Box>
-      </SectionCard>
-      <SectionCard sx={{ mt: 2 }}>
-        <SectionTitle icon={<InsightsIcon color="primary" />} title="About this chart" />
+        <Divider variant="middle" sx={{ my: 2 }} />
         <Box sx={{ mt: 1 }}>
           <Typography variant="body1" sx={{ mb: 1 }}>
             This is an <strong>age pyramid by gender</strong> of HATVP declarants (people declaring assets/interests).
@@ -90,8 +88,8 @@ function AgePyramid() {
           </ul>
         </Box>
       </SectionCard>
-    </PageContainer>
+    </>
   );
 }
 
-export default AgePyramid;
+export default AgePyramidSection;
