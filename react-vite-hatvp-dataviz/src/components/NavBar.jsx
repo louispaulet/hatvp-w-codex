@@ -12,15 +12,20 @@ function NavBar() {
   return (
     <AppBar position="static" color="primary">
       <Toolbar>
-        <Typography variant="h6" component="div" sx={{ mr: 2 }}>
+        <Typography
+          variant="h6"
+          component={RouterLink}
+          to="/"
+          sx={{ mr: 2, color: 'inherit', textDecoration: 'none' }}
+        >
           HATVP Explorer
         </Typography>
         <Button
           color="inherit"
           component={RouterLink}
-          to="/"
-          variant={isActive('/') ? 'outlined' : 'text'}
-          aria-current={isActive('/') ? 'page' : undefined}
+          to="/organizations"
+          variant={isActive('/organizations') ? 'outlined' : 'text'}
+          aria-current={isActive('/organizations') ? 'page' : undefined}
         >
           Organizations
         </Button>

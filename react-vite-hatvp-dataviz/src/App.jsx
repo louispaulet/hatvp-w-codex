@@ -3,6 +3,7 @@ import Box from '@mui/material/Box';
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import OrganizationMentions from './pages/OrganizationMentions';
+import Home from './pages/Home';
 import DelayByMandate from './pages/DelayByMandate';
 import About from './pages/About';
 import Demographics from './pages/Demographics';
@@ -14,7 +15,8 @@ function App() {
         <NavBar />
         <Box component="main" sx={{ flexGrow: 1, py: 3 }}>
           <Routes>
-            <Route path="/" element={<OrganizationMentions />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/organizations" element={<OrganizationMentions />} />
             <Route path="/demographics" element={<Demographics />} />
             <Route path="/delay" element={<DelayByMandate />} />
             <Route path="/about" element={<About />} />
