@@ -47,7 +47,7 @@ export default function About({
   version = 'v0.1.0',
   lastUpdated = '2025-08-10',
   stats = { declarants: 2607, documents: 526, equities: 2050000000 },
-  repoUrl = 'https://github.com/your-org/hatvp-explorer',
+  repoUrl = 'https://github.com/louispaulet/hatvp-w-codex',
   dataLicenseUrl = 'https://creativecommons.org/licenses/by/4.0/',
   contactEmail = 'contact@example.org',
 }) {
