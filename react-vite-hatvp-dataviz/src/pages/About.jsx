@@ -19,6 +19,8 @@ import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Tooltip from '@mui/material/Tooltip';
+import useMediaQuery from '@mui/material/useMediaQuery';
+import { useTheme } from '@mui/material/styles';
 
 import InfoIcon from '@mui/icons-material/Info';
 import InsightsIcon from '@mui/icons-material/Insights';
@@ -52,7 +54,7 @@ export default function About({
   const euros = new Intl.NumberFormat(undefined, { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
 
   return (
-    <Container maxWidth="lg" sx={{ py: { xs: 4, md: 6 } }}>
+    <Container maxWidth="xl" sx={{ py: { xs: 4, md: 6 } }}>
       {/* Header */}
       <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, mb: 1 }}>
         <InfoIcon color="primary" fontSize="large" />
@@ -76,8 +78,8 @@ export default function About({
       </Stack>
 
       {/* Intro / Purpose */}
-      <Grid container spacing={3} id="purpose" sx={{ scrollMarginTop: 96 }}>
-        <Grid item xs={12} md={7}>
+      <Box id="purpose" sx={{ scrollMarginTop: 96 }}>
+        <Stack spacing={3}>
           <Paper variant="outlined" sx={{ p: 3 }}>
             <Stack spacing={2}>
               <Stack direction="row" spacing={1} alignItems="center">
@@ -99,17 +101,17 @@ export default function About({
               </Alert>
             </Stack>
           </Paper>
-        </Grid>
 
-        {/* Key Figures */}
-        <Grid item xs={12} md={5}>
-          <Stack spacing={2}>
-            <StatCard icon={<TimelineIcon />} label="Declarants" value={formatter.format((stats && stats.declarants) || 0)} />
-            <StatCard icon={<ArticleIcon />} label="Documents processed" value={formatter.format((stats && stats.documents) || 0)} />
-            <StatCard icon={<SpeedIcon />} label="Total declared equities" value={euros.format((stats && stats.equities) || 0)} />
-          </Stack>
-        </Grid>
-      </Grid>
+          {/* Key Figures */}
+          <PackedStats
+            items={[
+              { icon: <TimelineIcon />, label: 'Declarants', value: formatter.format((stats && stats.declarants) || 0) },
+              { icon: <ArticleIcon />, label: 'Documents processed', value: formatter.format((stats && stats.documents) || 0) },
+              { icon: <SpeedIcon />, label: 'Total declared equities', value: euros.format((stats && stats.equities) || 0) },
+            ]}
+          />
+        </Stack>
+      </Box>
 
       {/* Methods & sources */}
       <Box id="sources" sx={{ scrollMarginTop: 96, mt: 4 }}>
@@ -321,6 +323,80 @@ function FeatureCard({ title, icon, children }) {
         <Typography variant="body2" color="text.secondary">
           {children}
         </Typography>
+      </Stack>
+    </Paper>
+  );
+}
+
+function PackedStats({ items }) {
+  const theme = useTheme();
+  const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
+
+  const IconBubble = ({ children }) => (
+    <Box
+      aria-hidden
+      sx={{
+        width: { xs: 36, sm: 40 },
+        height: { xs: 36, sm: 40 },
+        borderRadius: '50%',
+        bgcolor: 'action.hover',
+        color: 'text.secondary',
+        display: 'grid',
+        placeItems: 'center',
+        flex: '0 0 auto',
+      }}
+    >
+      {children}
+    </Box>
+  );
+
+  if (isMobile) {
+    return (
+      <Stack spacing={1.5}>
+        <Typography variant="overline" color="text.secondary">Snapshot</Typography>
+        {items.map((item, idx) => (
+          <Paper key={idx} variant="outlined" sx={{ p: 2, borderRadius: 2, width: '100%' }}>
+            <Stack direction="row" spacing={1.5} alignItems="center">
+              <IconBubble>{item.icon}</IconBubble>
+              <Box>
+                <Typography variant="caption" color="text.secondary">{item.label}</Typography>
+                <Typography variant="h6" sx={{ fontWeight: 700, lineHeight: 1.2 }}>{item.value}</Typography>
+              </Box>
+            </Stack>
+          </Paper>
+        ))}
+      </Stack>
+    );
+  }
+
+  return (
+    <Paper variant="outlined" sx={{ p: { xs: 2, sm: 3 }, width: '100%' }}>
+      <Stack spacing={1.5}>
+        <Typography variant="overline" color="text.secondary">Snapshot</Typography>
+        <Stack direction="row" spacing={3} sx={{ flexWrap: 'wrap' }}>
+          {items.map((item, idx) => (
+            <Box
+              key={idx}
+              sx={{
+                flex: '1 1 260px',
+                display: 'flex',
+                alignItems: 'center',
+                gap: 1.5,
+                minWidth: 0,
+              }}
+            >
+              <IconBubble>{item.icon}</IconBubble>
+              <Box sx={{ minWidth: 0 }}>
+                <Typography variant="caption" color="text.secondary">
+                  {item.label}
+                </Typography>
+                <Typography variant="h5" sx={{ fontWeight: 700, lineHeight: 1.2 }}>
+                  {item.value}
+                </Typography>
+              </Box>
+            </Box>
+          ))}
+        </Stack>
       </Stack>
     </Paper>
   );
