@@ -1,30 +1,29 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Box from '@mui/material/Box';
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import OrganizationMentions from './pages/OrganizationMentions';
-import AgeDistribution from './pages/AgeDistribution';
-import GenderDistribution from './pages/GenderDistribution';
+import Home from './pages/Home';
 import DelayByMandate from './pages/DelayByMandate';
 import About from './pages/About';
-import AgePyramid from './pages/AgePyramid';
+import Demographics from './pages/Demographics';
 
 function App() {
   return (
     <BrowserRouter>
-      <div className="flex flex-col min-h-screen">
+      <Box display="flex" flexDirection="column" minHeight="100vh">
         <NavBar />
-        <main className="flex-grow p-4">
+        <Box component="main" sx={{ flexGrow: 1, py: 3 }}>
           <Routes>
-            <Route path="/" element={<OrganizationMentions />} />
-            <Route path="/age" element={<AgeDistribution />} />
-            <Route path="/pyramid" element={<AgePyramid />} />
-            <Route path="/gender" element={<GenderDistribution />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/organizations" element={<OrganizationMentions />} />
+            <Route path="/demographics" element={<Demographics />} />
             <Route path="/delay" element={<DelayByMandate />} />
             <Route path="/about" element={<About />} />
           </Routes>
-        </main>
+        </Box>
         <Footer />
-      </div>
+      </Box>
     </BrowserRouter>
   );
 }

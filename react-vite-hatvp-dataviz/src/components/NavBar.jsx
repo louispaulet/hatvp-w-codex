@@ -1,17 +1,64 @@
-import { Link } from 'react-router-dom';
+import AppBar from '@mui/material/AppBar';
+import Toolbar from '@mui/material/Toolbar';
+import Button from '@mui/material/Button';
+import Typography from '@mui/material/Typography';
+import Box from '@mui/material/Box';
+import { Link as RouterLink, useLocation } from 'react-router-dom';
 
 function NavBar() {
+  const location = useLocation();
+  const isActive = (path) => location.pathname === path;
+
   return (
-    <nav className="bg-blue-600 text-white px-4 py-2">
-      <ul className="flex gap-4">
-        <li><Link to="/">Organizations</Link></li>
-        <li><Link to="/age">Age</Link></li>
-        <li><Link to="/pyramid">Age Pyramid</Link></li>
-        <li><Link to="/gender">Gender</Link></li>
-        <li><Link to="/delay">Delays</Link></li>
-        <li className="ml-auto"><Link to="/about">About</Link></li>
-      </ul>
-    </nav>
+    <AppBar position="static" color="primary">
+      <Toolbar>
+        <Typography
+          variant="h6"
+          component={RouterLink}
+          to="/"
+          sx={{ mr: 2, color: 'inherit', textDecoration: 'none' }}
+        >
+          HATVP Explorer
+        </Typography>
+        <Button
+          color="inherit"
+          component={RouterLink}
+          to="/organizations"
+          variant={isActive('/organizations') ? 'outlined' : 'text'}
+          aria-current={isActive('/organizations') ? 'page' : undefined}
+        >
+          Organizations
+        </Button>
+        <Button
+          color="inherit"
+          component={RouterLink}
+          to="/demographics"
+          variant={isActive('/demographics') ? 'outlined' : 'text'}
+          aria-current={isActive('/demographics') ? 'page' : undefined}
+        >
+          Demographics
+        </Button>
+        <Button
+          color="inherit"
+          component={RouterLink}
+          to="/delay"
+          variant={isActive('/delay') ? 'outlined' : 'text'}
+          aria-current={isActive('/delay') ? 'page' : undefined}
+        >
+          Delays
+        </Button>
+        <Box sx={{ flexGrow: 1 }} />
+        <Button
+          color="inherit"
+          component={RouterLink}
+          to="/about"
+          variant={isActive('/about') ? 'outlined' : 'text'}
+          aria-current={isActive('/about') ? 'page' : undefined}
+        >
+          About
+        </Button>
+      </Toolbar>
+    </AppBar>
   );
 }
 
