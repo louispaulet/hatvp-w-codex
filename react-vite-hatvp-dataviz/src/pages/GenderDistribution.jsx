@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer } from 'recharts';
 import * as d3 from 'd3';
 import Typography from '@mui/material/Typography';
+import Divider from '@mui/material/Divider';
 import InsightsIcon from '@mui/icons-material/Insights';
 import { PageContainer, SectionCard } from '../components/Layout';
 import SectionTitle from '../components/SectionTitle';
@@ -32,6 +33,46 @@ function GenderDistribution() {
             <Tooltip />
           </PieChart>
         </ResponsiveContainer>
+      </SectionCard>
+      <SectionCard sx={{ mt: 2 }}>
+        <SectionTitle icon={<InsightsIcon color="primary" />} title="About this chart" />
+        <div style={{ marginTop: 8 }}>
+          <Typography variant="body1" sx={{ mb: 1 }}>
+            This pie chart summarizes the <strong>gender split among declarants</strong> (HATVP declarations).
+          </Typography>
+          <Typography variant="subtitle2" sx={{ mt: 1 }}>Breakdown</Typography>
+          <ul style={{ marginTop: 4, marginBottom: 8 }}>
+            <li>
+              <Typography variant="body2">
+                <strong>Blue (men)</strong>: <strong>7,692 declarants</strong>
+              </Typography>
+            </li>
+            <li>
+              <Typography variant="body2">
+                <strong>Red (women)</strong>: <strong>4,298 declarants</strong>
+              </Typography>
+            </li>
+          </ul>
+          <Divider sx={{ my: 1.5 }} />
+          <Typography variant="subtitle2">Key takeaways</Typography>
+          <ul style={{ marginTop: 4 }}>
+            <li>
+              <Typography variant="body2">Men make up <strong>~64%</strong> of declarants.</Typography>
+            </li>
+            <li>
+              <Typography variant="body2">Women account for only <strong>~36%</strong>.</Typography>
+            </li>
+            <li>
+              <Typography variant="body2">This confirms the imbalance we saw in the age pyramid: <strong>men are nearly twice as represented as women</strong>.</Typography>
+            </li>
+          </ul>
+          <Typography variant="body2" sx={{ mt: 1 }}>
+            👉 In other words, for every woman declarant, there are about <strong>1.8 men</strong>.
+          </Typography>
+          <Typography variant="body2" sx={{ mt: 1.5 }}>
+            Would you like me to combine the three plots (age distribution, pyramid, and pie chart) into a short <strong>narrative analysis</strong> that could work in a report?
+          </Typography>
+        </div>
       </SectionCard>
     </PageContainer>
   );
