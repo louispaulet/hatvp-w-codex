@@ -5,10 +5,14 @@ import Typography from '@mui/material/Typography';
 import AgeDistributionSection from '../components/demographics/AgeDistributionSection';
 import AgePyramidSection from '../components/demographics/AgePyramidSection';
 import GenderDistributionSection from '../components/demographics/GenderDistributionSection';
+import HomeButton from '../components/HomeButton';
 
 function Demographics() {
   return (
     <PageContainer>
+      <Box sx={{ display: 'flex', justifyContent: 'flex-end', mb: 1 }}>
+        <HomeButton variant="outlined" />
+      </Box>
       <Box sx={{
         display: 'flex',
         alignItems: 'center',

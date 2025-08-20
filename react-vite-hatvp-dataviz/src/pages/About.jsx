@@ -22,6 +22,7 @@ import useMediaQuery from '@mui/material/useMediaQuery';
 import { useTheme } from '@mui/material/styles';
 import SectionTitle from '../components/SectionTitle';
 import { PageContainer } from '../components/Layout';
+import HomeButton from '../components/HomeButton';
 
 import InfoIcon from '@mui/icons-material/Info';
 import InsightsIcon from '@mui/icons-material/Insights';
@@ -56,6 +57,9 @@ export default function About({
 
   return (
     <PageContainer>
+      <Box sx={{ display: 'flex', justifyContent: 'flex-end', mb: 1 }}>
+        <HomeButton variant="outlined" />
+      </Box>
       {/* Header */}
       <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, mb: 1 }}>
         <InfoIcon color="primary" fontSize="large" />

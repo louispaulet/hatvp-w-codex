@@ -10,6 +10,7 @@ import InputAdornment from '@mui/material/InputAdornment';
 import SearchIcon from '@mui/icons-material/Search';
 import InsightsIcon from '@mui/icons-material/Insights';
 import { PageContainer, SectionCard } from '../components/Layout';
+import HomeButton from '../components/HomeButton';
 import SectionTitle from '../components/SectionTitle';
 
 function OrganizationMentions() {
@@ -38,6 +39,9 @@ function OrganizationMentions() {
 
   return (
     <PageContainer>
+      <Box sx={{ display: 'flex', justifyContent: 'flex-end' }}>
+        <HomeButton variant="outlined" />
+      </Box>
       <SectionTitle icon={<InsightsIcon color="primary" />} title="Top Organization Mentions" subtitle="Explore which organizations are most frequently referenced in declarations." />
       <Box sx={{ mt: 2 }}>
         <Grid container spacing={2}>

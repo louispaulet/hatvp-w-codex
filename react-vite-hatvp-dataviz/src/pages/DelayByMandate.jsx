@@ -6,6 +6,8 @@ import Divider from '@mui/material/Divider';
 import TimelineIcon from '@mui/icons-material/Timeline';
 import { PageContainer, SectionCard } from '../components/Layout';
 import SectionTitle from '../components/SectionTitle';
+import Box from '@mui/material/Box';
+import HomeButton from '../components/HomeButton';
 
 function DelayByMandate() {
   const [data, setData] = useState([]);
@@ -19,6 +21,9 @@ function DelayByMandate() {
 
   return (
     <PageContainer>
+      <Box sx={{ display: 'flex', justifyContent: 'flex-end' }}>
+        <HomeButton variant="outlined" />
+      </Box>
       <SectionTitle icon={<TimelineIcon color="primary" />} title="Median Publication Delay by Mandate" subtitle="Median days between deposit and publication." />
       <SectionCard sx={{ mt: 2, height: 420 }}>
         <ResponsiveContainer>
